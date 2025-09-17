@@ -1,11 +1,14 @@
 ---
 title: Comploturile presei de la București împotriva Craiovei
+description: "La Craiova, există credința că ziariștii din Capitală au ceva cu echipa lor. Sigur, puțini ziariști chiar sunt bucureșteni, dar oricum..."
 slug: complot-presa-craiova
 date_published: 2016-07-01T20:17:00.000Z
 date_updated: 2024-06-30T16:35:03.000Z
 tags: ["CS U Craiova", "Presa sportivă"]
-excerpt: La Craiova, există credința că ziariștii din Capitală au ceva cu echipa lor. Sigur, puțini ziariști chiar sunt bucureșteni, dar oricum...
+permalink: "complot-presa-craiova/index.html"
 ---
+
+[Aici ai o variantă video a acestui subiect.](https://youtu.be/dajJOo7obKY)
 
 N-o să-ți vină să crezi ce mi s-a întâmplat ieri…
 
@@ -107,7 +110,7 @@ De ce spun că e comică?
 
 Pentru că respectivii n-au ținut cu echipa patronată de Mititelu pentru că aveau siguranța actelor pe care le deținea acesta, ci pentru că aia era Craiova.
 
-În momentul respectiv, aia era Craiova și [niciuna alta](__GHOST_URL__/p/didibao-craiova).
+În momentul respectiv, aia era Craiova și [niciuna alta](https://www.cmeravar.ro/didibao-craiova).
 
 La un moment dat, Mititelu i-a supărat atât de tare pe fanii echipei încât aceștia au decis că o alternativă ar fi bună. Au săpat și au descoperit că-n anii 90, oamenii care mutau echipa de sub pulpana Universității nu au făcut lucrurile cum trebuie.
 
@@ -119,7 +122,9 @@ Au găsit ei în acte că n-a fost corect, asta fiind dovada supremă că echipa
 
 Bravo, ați rezolvat-o.
 
-De asta săreați voi în tribune [la golul lui Florin Costea cu Dinamo](__GHOST_URL__/p/relatii-ziaristi-oameni-din-fotbal), că nu știați situația actelor. Dacă o știați, păi mai săreați voi?
+De asta săreați voi în tribune la golul lui Florin Costea cu Dinamo, că nu știați situația actelor. 
+
+Dacă o știați, păi mai săreați voi?
 
 Nici pe departe, aplaudați cel mult decent fazele și apoi ridicați un banner prin care vă arătați sila față de cei care au încercat să vă fure echipa c-un sfert de secol în urmă.
 
@@ -139,4 +144,4 @@ Ca orice echipă, are nevoie de așa ceva.
 
 **PS**: nu mai confundați ce face o parte a presei locale din Craiova cu ce ar trebui să facă presa-n general. Jurnalistic, ăia se fac de râs când amestecă statutul de suporter cu meseria. 
 
-La fel cum ne facem și noi de râs [când facem același lucru](__GHOST_URL__/p/relatii-ziaristi-oameni-din-fotbal).
+La fel cum ne facem și noi de râs [când facem același lucru](https://www.cmeravar.ro//relatii-ziaristi-oameni-din-fotbal).

@@ -1,11 +1,14 @@
 ---
 title: Despre aparentul favor pe care-l fac televiziunile cluburilor din Liga 1
+description: "Relațiile dintre noi și televiziuni și dintre televiziuni și cluburi de fotbal sunt pur comerciale. Nimeni nu iubește pe nimeni, toată lumea vrea un profit."
 slug: favorul-televiziunilor-drepturi-tv-liga1
 date_published: 2016-08-25T05:41:00.000Z
 date_updated: 2024-06-30T16:35:47.000Z
 tags: ["Presa sportivă", "Suporteri"]
-excerpt: Relațiile dintre noi și televiziuni și dintre televiziuni și cluburi de fotbal sunt pur comerciale. Nimeni nu iubește pe nimeni, toată lumea vrea un profit.
+permalink: "favorul-televiziunilor-drepturi-tv-liga1/index.html"
 ---
+
+[Aici ai varianta video a acestui subiect.](https://youtu.be/kH1HVofR7Ls)
 
 În fotbalul nostru, se vehiculează destul de des ideea favorului financiar.
 
@@ -28,8 +31,10 @@ Unele cluburi, nu puține, sunt incapabile să producă alți bani în afara ace
 Prin urmare, afirmațiile lui Vali se bazează pe-o bucată zdravănă de realitate.
 
 ## Unde nu are dreptate Vali Moraru
-![Ce favor fac televiziunile cluburilor din Liga 1?](__GHOST_URL__/content/images/2023/12/Vali-Moraru-favorul-televiziunilor-pentru-Liga-1.jpeg)Vali Moraru a greșit două lucruri în discuția cu Mihai Rotaru – că s-a enervat și că nu ține cont de motivele pentru care televiziunile au ajuns să plătească atâția bani cluburilor pentru drepturile TV.
-Așa cum am mai scris, [banii din drepturile TV lenevesc cluburile](__GHOST_URL__/p/pericolul-contractului-drepturi-tv-liga1https://www.cameravar.ro/p/pericolul-contractului-drepturi-tv-liga1) din punct de vedere comercial.
+
+Vali Moraru a greșit două lucruri în discuția cu Mihai Rotaru – că s-a enervat și că nu ține cont de motivele pentru care televiziunile au ajuns să plătească atâția bani cluburilor pentru drepturile TV.
+
+Așa cum am mai scris, [banii din drepturile TV lenevesc cluburile](https://www.cameravar.ro/p/pericolul-contractului-drepturi-tv-liga1) din punct de vedere comercial.
 
 Multe echipe tratează acest contract precum un drept care li se cuvine prin simplu fapt că ele există pe fața pământului fotbalistic.
 

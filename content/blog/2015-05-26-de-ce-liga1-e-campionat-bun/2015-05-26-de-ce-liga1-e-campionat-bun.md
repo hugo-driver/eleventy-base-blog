@@ -1,11 +1,15 @@
 ---
 title: De ce Liga 1 e un campionat bun
+description: "Raportat la bugetele pe care le au cluburile din Liga 1, fotbalul nostru este unul decent spre bun. Dacă aceste bugete ar fi deștept administrate, am fi surpriza Europei."
 slug: de-ce-liga1-e-campionat-bun
 date_published: 2015-05-26T18:29:00.000Z
 date_updated: 2024-06-30T16:32:56.000Z
 tags: LPF
-excerpt: Raportat la bugetele pe care le au cluburile din Liga 1, fotbalul nostru este unul decent spre bun. Dacă aceste bugete ar fi deștept administrate, am fi surpriza Europei.
+permalink: "de-ce-liga1-e-campionat-bun/index.html"
+cover: "./de-ce-liga-1-campionat-bun.jpg"
 ---
+
+![Sânmărtean la minge, înconjurat de Takayuki Seto, Budescu și William de Amorim. Pe fundal se vede Varela](./de-ce-liga-1-campionat-bun.jpg)
 
 5 cuvinte reușesc aproape de fiecare dată să mă scoată din sărite:
 
@@ -47,11 +51,11 @@ Nu știu cum arată moartea în opinia respectivilor, dar din sezonul viitor vom
 
 Avem o moarte interesantă, tare interesantă.
 
-## Tu nu vezi ce se joacă în fotbalul nostru comparativ cu ce-i în Vest?
-![Collins Fai câștigă un duel aerian cu Dan Roman](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F03247309-95d6-41ec-91b7-a4241542abeb_300x450.jpeg)Collins Fai (1,65 m) câștigă un duel aerian cu Dan Roman (1,88 m). S-a întâmplat într-un meci destul de slab, Dinamo – Gaz Metan, dar a fost ceva ce-a meritat să fie văzut. Uneori, Liga 1 e Fai, iar fotbalul vestic e Dan Roman.
+## "Tu nu vezi ce se joacă în fotbalul nostru comparativ cu ce-i în Vest?"
+
 Tocmai, eu văd ce se joacă în fotbalul nostru.
 
-Tu vezi?
+Tu vezi ce se joacă la noi?
 
 Te uiți la meciuri?
 
@@ -89,7 +93,7 @@ Recunosc, nu sunt chiar cea mai bună sursă de recomandări când vine vorba de
 
 Fiecare cu gusturile sale, dar te-asigur că Liga 1 nu e atât de slabă pe cât se tot insistă c-ar fi.
 
-## Tu nu vezi că Liga 1 e plină de blaturi?
+## "Tu nu vezi că Liga 1 e plină de blaturi?"
 
 Te-ntreb din nou, urmărești meciurile sau comentezi doar pe baza rezultatelor?
 
@@ -153,8 +157,12 @@ Mă uit cu adevărat la meciuri, urmăresc jucătorii, mă interesează ce calit
 
 Din contră.
 
-**PS2**: când ProTV a încetat să mai dea Formula 1,  cei de acolo nu au spus că produsul respectiv este varză. Au preferat să acorde mult mai puțin spațiu informațiilor despre acea competiție, dar nu au denigrat-o.
+**PS2**: când ProTV a încetat să mai dea Formula 1, cei de acolo nu au spus că produsul respectiv este varză. Au preferat să acorde mult mai puțin spațiu informațiilor despre acea competiție, dar nu au denigrat-o.
 
 Alții însă au preferat să spună că produsul pe care nu-l mai dau e penibil cu atâta determinare încât, după un timp, le-a intrat în reflex să spună asta.
 
-Prin urmare, când au dat din nou meciuri, au rămas blocați în acel discurs. Poate mi s-a părut mie și celor cu are am discutat această impresie. Sau poate nu.
+Prin urmare, când au dat din nou meciuri, au rămas blocați în acel discurs. 
+
+Poate mi s-a părut mie și celor cu are am discutat subiectul. 
+
+Sau poate nu.

@@ -1,11 +1,15 @@
 ---
 title: Cea mai slabă verigă din fotbalul românesc
+description: "Conducătorii de club sunt de departe cea mai slab pregătită brealsă din fotbalul nostru și principalii responsabili pentru subfinanțarea industriei"
 slug: cea-mai-slaba-veriga-fotbalul-romanesc
 date_published: 2014-01-09T20:49:00.000Z
 date_updated: 2024-06-30T16:27:22.000Z
-tags: Conducători de club
-excerpt: Conducătorii de club sunt de departe cea mai slab pregătită brealsă din fotbalul nostru și principalii responsabili pentru subfinanțarea industriei
+tags: "Conducători de club"
+permalink: "cea-mai-slaba-veriga-fotbalul-romanesc/index.html"
+cover: "./iorgulescu-burleanu-conducatori-de-club.jpg"
 ---
+
+![De ce conducătorii de club sunt veriga slabă în fotbalul românesc](./iorgulescu-burleanu-conducatori-de-club.jpg)
 
 Acum un an, scriam despre 7 trenduri care vor marca fotbalul românesc în 2013.
 

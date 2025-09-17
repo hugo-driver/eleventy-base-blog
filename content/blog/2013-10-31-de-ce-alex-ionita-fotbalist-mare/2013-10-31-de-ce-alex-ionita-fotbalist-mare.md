@@ -4,10 +4,13 @@ slug: de-ce-alex-ionita-fotbalist-mare
 date_published: 2013-10-31T20:39:00.000Z
 date_updated: 2024-06-30T16:27:04.000Z
 tags: Rapid
-excerpt: Puștiul Rapidului îmi place atât de mult încât îndrăznesc să fac predicția că va ajunge un mare fotbalist
+description: "Puștiul Rapidului îmi place atât de mult încât îndrăznesc să fac predicția că va ajunge un mare fotbalist."
+permalink: "de-ce-alex-ionita-fotbalist-mare/index.html"
+cover: "./alex-ionita-feblete-stefan-beldie.jpg"
 ---
 
-![De ce cred că Alex Ioniță (Rapid) va ajunge departe](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2Fe41217cd-81d8-4ef9-9450-caece8f73ec7_600x360.jpeg)
+![De ce cred că Alex Ioniță (Rapid) va ajunge departe](./alex-ionita-feblete-stefan-beldie.jpg)
+
 Oamenii se uită la Stanciu, Iancu sau Rotariu și au ce vedea.
 
 Primul joacă, al doilea chiar are un pontențial de creștere mare, iar fotbalistul lui Dinamo a marcat surprinzător de mult pentru un debutant.

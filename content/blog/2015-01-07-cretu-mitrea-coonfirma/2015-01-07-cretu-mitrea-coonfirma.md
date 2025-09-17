@@ -1,13 +1,17 @@
 ---
 title: Crețu și Mitrea confirmă. Cine-i ia?
 slug: cretu-mitrea-coonfirma
+description: "După eșecul temporar cu Ioniță II, încep totuși să am dreptate cu Crețu și Mitrea."
 date_published: 2015-01-07T21:32:00.000Z
 date_updated: 2024-06-30T16:31:08.000Z
 tags: CS U Craiova
-excerpt: După eșecul temporar cu Ioniță II, încep totuși să am dreptate cu Crețu și Mitrea
+permalink: "cretu-mitrea-coonfirma/index.html"
+cover: "./bogdan-mitrea.jpg"
 ---
 
-În primul rând, vreau să spun cât se poate de clar că [am în continuare mare încredere în capacitățile lui Alex Ioniță](__GHOST_URL__/p/de-ce-alex-ionita-fotbalist-mare).
+![Bogdan Mitrea în tricoul Viitorului](./bogdan-mitrea.jpg)
+
+În primul rând, vreau să spun cât se poate de clar că [am în continuare mare încredere în capacitățile lui Alex Ioniță](https://www.cameravar.ro/de-ce-alex-ionita-fotbalist-mare).
 
 Din punctul meu de vedere, e un talent aparte și are inclusiv calități pe care le găsești destul de rar la fotbaliștii noștri – ex. lovește foarte bine balonul cu ambele picioare etc.
 
@@ -25,7 +29,7 @@ Am văzut că Narcis Răducan insistă să rămână la echipă, să nu plece î
 
 În fine, nu vreau să insist asupra unei predicții temporar ratate, care-mi scade cota, ci asupra a doi fotbaliști ale căror calități le-am evidențiat de-a lungul turului de campionat și care acum stârnesc interes pentru echipele bune ale campionatului.
 
-Alex Crețu, pe care l-am numit cu încredere “[cel mai complet tânăr fotbalist român](__GHOST_URL__/p/alex-cretu-fotbalist-complet)“, este acum miză de transfer pentru Steaua, Astra și CS U Craiova (informație la a doua mână).
+Alex Crețu, pe care l-am numit cu încredere “[cel mai complet tânăr fotbalist român](https://www.cameravar.ro/alex-cretu-fotbalist-complet)“, este acum miză de transfer pentru Steaua, Astra și CS U Craiova (informație la a doua mână).
 
 E firesc să fie așa, mai ales că băiatul acesta poate juca lejer 3 posturi în orice echipă de Liga 1 – mijlocaș central, fundaș central și fundaș dreapta.
 
@@ -51,4 +55,4 @@ Acum să ne-nțelegem…
 
 Oricât mi-ar plăcea mie să mă dau rotund că văd din timp calitățile și defectele anumitor jucători (am îndoieli legate de Marc de la Ceahlăul), realitatea este că “talentul” meu este legat în primul rând de faptul că urmăresc aproape toate meciurile din Liga 1.
 
-Prin urmare, oi avea și ochi, dar sigur am răbdare + [timp pentru campionatul nostru](__GHOST_URL__/p/de-ce-liga1-e-campionat-bun).
+Prin urmare, oi avea și ochi, dar sigur am răbdare + [timp pentru campionatul nostru](https://www.cameravar.ro/de-ce-liga1-e-campionat-bun).

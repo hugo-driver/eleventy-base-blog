@@ -1,11 +1,14 @@
 ---
 title: Ce ar trebui să știi despre șpagă în presa sportivă
+description: "Șpaga se ia mai ușor decât se dă, dar se dă mai rar decât se ia. Adică, e mai rară decât crezi când te enervează diverși ziariști."
 slug: spaga-presa-sportiva
 date_published: 2016-09-21T12:47:00.000Z
 date_updated: 2024-06-30T16:38:19.000Z
 tags: Presa sportivă
-excerpt: Șpaga se ia mai ușor decât se dă, dar se dă mai rar decât se ia. Adică, e mai rară decât crezi când te enervează diverși ziariști
+permalink: "spaga-presa-sportiva/index.html"
 ---
+
+[Aici ai varianta video a acestui articol.](https://youtu.be/ujFl5Yl8tK0)
 
 Cred că nu există vreo temă în care suporterii echipelor de fotbal să fie mai convinși că știu adevărul și totuși să fie atât de departe de acesta.
 
@@ -20,7 +23,7 @@ Sau sunt oameni care n-au văzut meciul deloc, dar n-au nevoie să vadă despre 
 Dacă vrei să știi mai bine decât cei care doar au impresia că știu mai bine care-i treaba cu șpaga-n presa sportivă, fii un pic atent în continuare.
 
 ## Pe scurt despre șpaga din trecut
-![Ce trebuie să știi despre șpagă în presa sportivă](__GHOST_URL__/content/images/2023/12/Spaga-in-presa-sportiva.jpeg)Becali este considerat de fanii rivalelor Stelei drept principalul corupător de jurnaliști sportivi. Uneori, se vorbește chiar de ziariști cumpărați cu brânză, așa, de dragul unui tablou cât mai umilitor pentru cei acuzați. (Foto – Mediafax)
+![Ce trebuie să știi despre șpagă în presa sportivă](./spaga-in-presa-sportiva.jpg)Becali este considerat de fanii rivalelor Stelei drept principalul corupător de jurnaliști sportivi. Uneori, se vorbește chiar de ziariști cumpărați cu brânză, așa, de dragul unui tablou cât mai umilitor pentru cei acuzați. (Foto – Mediafax)
 Lucrez în presă de aproape 20 ani, iar asta înseamnă că am ratat la mustață o perioadă de glorie în ceea ce privește șpaga-n presa sportivă.
 
 Când am intrat eu la ProSport, Cătălin Tolontan modificase dramatic termenii înțelegerilor dintre ziariștii sportivi și oamenii din fotbal.

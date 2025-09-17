@@ -1,11 +1,15 @@
 ---
 title: De ce m-a „lăsat” sport.ro să plec
+description: "sport.ro m-a dat afară pentru că a avut de ales între mine și alții. Iar alții au fost considerați mai buni sau chiar au fost mai buni."
 slug: plecare-beldie-sport-ro
 date_published: 2014-05-17T17:26:00.000Z
 date_updated: 2024-06-30T16:29:39.000Z
 tags: Presa sportivă
-excerpt: sport.ro m-a dat afară pentru că a avut de ales între mine și alții. Iar alții au fost considerați mai buni sau chiar au fost mai buni. 
+permalink: "plecare-beldie-sport-ro/index.html"
+cover: "./plecare-stefan-beldie-sport.ro-protv-proarena.jpg"
 ---
+
+![Ștefan Beldie - emisiune sport.ro / Pro Arena](./plecare-stefan-beldie-sport.ro-protv-proarena.jpg)
 
 Americanii au o sintagmă aproape amuzantă atunci când concediază pe cineva:
 
@@ -21,9 +25,9 @@ De altfel, discuția a fost simplă și fără termeni corporatiști.
 
 Ideea este că acolo se schimbă niște lucruri.
 
-Nu-mi sunt clare aceste schimbări, dar, cum ar spune tot americanii – must be the money.
+Nu-mi sunt clare aceste schimbări, dar, cum ar spun tot americanii – must be the money.
 
-## **Cum a fost relația mea cu sport.ro**
+## Cum a fost relația mea cu sport.ro
 
 Nu am avut niciodată vreo nemulțumire legată de experiența mea acolo.
 
@@ -45,7 +49,7 @@ Unii cred că asta nu e mare scofală, dar e o mare bătaie de cap. Când am acc
 
 În plus, Ion Alexandru a făcut cele mai muncite 15 minute din emisiune – Transfer Market.
 
-## **Cum a fost emisiunea mea de la sport.ro**
+## Cum a fost emisiunea mea de la sport.ro
 
 Cunosc datele legate de audiența emisiunii, dar nu am acceptul să le fac publice.
 
@@ -61,7 +65,7 @@ Nu cunosc încasările din publicitate, dar faptul că am făcut emisiunea timp 
 
 Mai mult, există o dovadă mai convingătoare decât spusele mele: emisiunea de dimineață este singura care rămâne în grilă după această schimbare.
 
-## **Emisiunea e bună, dar moderatorul e slab?**
+## Emisiunea e bună, dar moderatorul e slab?
 
 Nu, emisiunea e bună, moderatorul e bun, dar cineva trebuia să plece.
 
@@ -81,7 +85,7 @@ De exemplu, la sport.ro aveam o mare calitate – eram diferiți unii de ceilal�
 
 Diferiți zdravăn.
 
-## **Cât de multă libertate e la sport.ro**
+## Cât de multă libertate e la sport.ro
 
 În total, am colaborat cu sport.ro aproape 6 ani  – 2 ca invitat, 4 ca moderator.
 
@@ -105,7 +109,7 @@ Dacă tot m-am apucat de mulțumiri, le mulțumesc invitaților. În general, au
 
 Aș fi vrut să am mai multe emisiuni împreună cu Manolo Terzian și cu Matei Udrea. În rest, m-am bucurat de toți pe îndelete.
 
-## **Am fost cu adevărat pila lui Costi Mocanu?**
+## Am fost cu adevărat pila lui Costi Mocanu?
 
 Cineva de la o altă televiziune mi-a spus la un moment dat că pe la ei se știe clar un lucru:
 
@@ -122,21 +126,24 @@ Mai mult, cred că în acești ani am vorbit cam de 5 ori cu el.
 De vreo 3 ori lucrurile s-au desfășurat în cadrul petrecerii de final de an și au avut această desfășurare spectaculoasă:
 
 **Eu**: Salut, Costi.
+
 **El:** Salut.
+
 **Eu:** Cum merge? Cum stăm?
+
 **El:** Bine.
 
 Cam asta era…
 
 Nu râde, îmi păstram întrebările bune pentru emisiune.
 
-## **Nu-ți va veni să crezi ce-a făcut Beldie după ce-a fost lăsat să plece!!!**
+## Nu-ți va veni să crezi ce-a făcut Beldie după ce-a fost lăsat să plece!!!
 
 Glumesc, băieții de la site-ul sport.ro sunt faini de felul lor și au avut multă răbdare cu mine.
 
 Totuși, dacă v-am promis o dezvăluire din titrare, o și ofer.
 
-La 30 de minute după ce-am aflat că nu mai colaborez cu sport.ro , am mers la un restaurant bun și-am sărbătorit.
+La 30 de minute după ce-am aflat că nu mai colaborez cu sport.ro , am mers la un restaurant bun și am sărbătorit.
 
 Nu m-am bucurat că am fost dat afară, dar am sărbătorit acești ani în care am făcut una dintre cele mai plăcute munci posibile.
 

@@ -1,11 +1,15 @@
 ---
 title: Chipciu este omul politic numărul 1 de la Steaua
+description: "Vorbele și gesturile care arată calitățile de politician ale lui Alexandru Chipciu. Plus asemănările cu Mihai Stoica. În Liga 1 nu există un fotbalist mai abil din aceste perspectivă."
 slug: chipciu-este-omul-politic-numarul
 date_published: 2014-09-29T05:19:00.000Z
 date_updated: 2024-06-30T16:29:54.000Z
 tags: FCSB
-excerpt: Vorbele și gesturile care arată calitățile de politician ale lui Alexandru Chipciu. Plus asemănările cu Mihai Stoica. În Liga 1 nu există un fotbalist mai abil din aceste perspectivă
+permalink: "chipciu-este-omul-politic-numarul/index.html"
+cover: "./alex-chipciu-cel-mai-important-fotbalist-steaua.jpg"
 ---
+
+![Alex Chipciu este omul politic nr. 1 al Stelei](./alex-chipciu-cel-mai-important-fotbalist-steaua.jpg)
 
 Unii se uită la Alexandru Chipciu și se gândesc că-i cel mai bun fotbalist al Stelei.
 
@@ -39,8 +43,8 @@ Pentru că aseară, Chipciu a făcut un gest de lider politic pe un teren de fot
 
 Oamenii asociază ideea de politică unor comportamente negative. Eu o asociez exact definiției pe care am postat-o la începutul acestui text.
 
-Lider politic pe un teren de fotbal spuneam… În momentul schimbării lui Toșca, Chipciu a mers la margine și a salutat revenirea în echipă a lui Latovlevici prin încurajarea acestuia.
-![Dovada intelgenței lui Chipciu](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F8614212f-6ed3-42c3-8958-ad6b7db24342_500x262.jpeg)
+Lider politic pe un teren de fotbal spuneam… În momentul schimbării lui Toșca, Chipciu a mers la margine și a salutat revenirea în echipă a lui Latovlevici prin încurajarea acestuia. 
+
 Alex putea să-l încurajeze pe Latovlevici și prin câteva vorbe strigate, vorbe pe care publicul nu le-ar fi auzit, nici nu le-ar fi bănuit.
 
 A preferat însă să facă gestul evident de-a mearge la margine și să bată palma cu colegul său în văzul tuturor.
@@ -117,7 +121,7 @@ Merită remarcat în primul rând că nu a avut a avut o reacție specifică unu
 
 În afara faptului că fotbaliștii au obiceiul să se plângă că nu le-a fost acordat ceea ce ei consideră meritat, nu mai există absolut nimic firesc în declarația sa.
 
-Cuvintele lui chiar par cuvintele lui Mihai Stoica. Inclusiv întărirea ideii că știe despre ce vorbește de vreme ce-a avut experiențe trecute cu arbitrul Rusandu  pe vremea când juca la Brașov este [o strategie tip Mihai Stoica](__GHOST_URL__/p/mihai-stoica).
+Cuvintele lui chiar par cuvintele lui Mihai Stoica. Inclusiv întărirea ideii că știe despre ce vorbește de vreme ce-a avut experiențe trecute cu arbitrul Rusandu  pe vremea când juca la Brașov este [o strategie tip Mihai Stoica](https://www.cameravar.ro/mihai-stoica).
 
 De obicei, jucătorii se feresc să intre în astfel de discuții dintr-o grămadă de motive. Unii se tem că vor ajunge la comisii, alții se tem să intre în vreo dispută cu oficialii altor echipe pentru c-ar putea ajunge la mâna acestora în viitor.
 

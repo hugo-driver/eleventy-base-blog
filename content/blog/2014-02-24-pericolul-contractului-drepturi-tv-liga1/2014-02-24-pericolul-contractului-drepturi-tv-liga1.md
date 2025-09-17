@@ -1,11 +1,15 @@
 ---
 title: Marele pericol legat de drepturile TV pentru Liga 1
+description: "Cluburile din prima ligă sunt atât de dependente de banii care vin din vânzarea drepturilor TV încât o eventuală ratare a acestei tranzacții ar fi dezastruoasă"
 slug: pericolul-contractului-drepturi-tv-liga1
 date_published: 2014-02-24T05:57:00.000Z
 date_updated: 2024-06-30T16:28:50.000Z
 tags: LPF
-excerpt: Cluburile din prima ligă sunt atât de dependente de banii care vin din vânzarea drepturilor TV încât o eventuală ratare a acestei tranzacții ar fi dezastruoasă
+permalink: "pericolul-contractului-drepturi-tv-liga1/index.html"
+cover: "./de-ce-drepturile-tv-liga-1-pot-fi-periculoase-cluburi.jpg"
 ---
+
+![Pericolul dependenței cluburilor față de contractul pentru drepturi TV ale Ligii 1](./de-ce-drepturile-tv-liga-1-pot-fi-periculoase-cluburi.jpg)
 
 Acum vreo 5 ani, Horia Ivanovici avea în minte să devină patronul unui club de primă ligă.
 
@@ -79,7 +83,7 @@ Dar acest „parțial” este mărunt, insignifiant, după cum vei vedea în con
 
 ## Problema contractului pentru vânzarea drepturilor TV
 
-[Cluburile de fotbal oferă o marfă bună raportat la cât consumă](__GHOST_URL__/p/de-ce-liga1-e-campionat-bun), dar nu e suficient, dovadă fiind inclusiv lipsa spectatorilor din tribune la multe dintre meciurile de primă ligă.
+[Cluburile de fotbal oferă o marfă bună raportat la cât consumă](https://www.cameravar.ro/de-ce-liga1-e-campionat-bun), dar nu e suficient, dovadă fiind inclusiv lipsa spectatorilor din tribune la multe dintre meciurile de primă ligă.
 
 Cluburile de fotbal profită de-o situație din piață, situație pe care nu au determinat-o în vreun fel.
 

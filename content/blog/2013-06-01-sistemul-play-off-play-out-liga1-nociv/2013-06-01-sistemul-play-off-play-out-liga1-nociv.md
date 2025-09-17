@@ -1,12 +1,14 @@
 ---
-title: De ce nu-mi place sistemul cu play off și play out
-description:  'Acest sistem este impus de televiziuni ca o formă de-a exploata maxim produsul Liga 1 fără interes față de consecințele pe termen mediu ale acestei idei.'
+title: "De ce nu-mi place sistemul cu play off și play out"
+description:  "Acest sistem este impus de televiziuni ca o formă de-a exploata maxim produsul Liga 1 fără interes față de consecințele pe termen mediu ale acestei idei."
 slug: sistemul-play-off-play-out-liga1-nociv
 date_published: 2013-06-01T04:36:00.000Z
 date_updated: 2024-06-30T12:10:42.000Z
 tags: LPF
 permalink: "sistemul-play-off-play-out-liga1-nociv/index.html"
+cover: "./de-ce-sistemul-play-off-play-out-e-nociv.jpg"
 ---
+![Metafora icrelor negre pentru sistemul play off / play out - de ce acest sistem e nociv pentru Liga 1](./de-ce-sistemul-play-off-play-out-e-nociv.jpg)
 
 Mai bine de  10 ani, presa sportivă a tot scris despre necesitatea reducerii numărului de echipe în Liga 1 la vreo 14 – 16 echipe, poate chiar 12 într-un caz extrem.
 

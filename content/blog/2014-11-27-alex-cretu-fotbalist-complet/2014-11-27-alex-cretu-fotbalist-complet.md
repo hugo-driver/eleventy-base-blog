@@ -1,17 +1,21 @@
 ---
 title: De ce mi se pare Alex Crețu cel mai complet tânăr fotbalist din Liga 1
+description: "Fotbalistul lui CSMS Iași stă foarte bine fizic și poate evolua 3 poziții importante în orice echipă - fundaș central, mijlocaș central (ideal) și chiar atacant."
 slug: alex-cretu-fotbalist-complet
 date_published: 2014-11-27T21:19:00.000Z
 date_updated: 2024-06-30T16:30:38.000Z
 tags: CS U Craiova
-excerpt: Fotbalistul lui CSMS Iași stă foarte bine fizic și poate evolua 3 poziții importante în orice echipă - fundaș central, mijlocaș central (ideal) și chiar atacant
+permalink: "alex-cretu-fotbalist-complet/index.html"
+cover: "./alex-cretu-fotbalist-complet.jpg"
 ---
+
+![Alexandru Crețu uimește cu versatilitatea sa neobișnuită pentru un fotbalist atât de tânăr](./alex-cretu-fotbalist-complet.jpg)
 
 CSMS Iași are în propria curte cel mai complet tânăr jucător din Liga 1 și unul dintre cei mai înzestrați tineri români ai momentului.
 
 Asta-n opinia mea.
 
-Care opinie este aproape mereu foarte, [foarte aproape de adevă](__GHOST_URL__/p/de-ce-alex-ionita-fotbalist-mare)r.
+Care opinie este aproape mereu foarte, [foarte aproape de adevăr](https://www.cameravar.ro/de-ce-alex-ionita-fotbalist-mare).
 
 De aceea spun, **Alexandru Crețu** (22 ani) ar trebui să fie prioritate absolută pentru orice echipă care are buget de transferuri în această iarnă.
 
@@ -67,9 +71,7 @@ Dacă ar fi să vorbesc despre o destinație ideală, aceasta ar fi categoric Aj
 
 Avantajul unui club precum Viitorul nu constă într-o creștere mare de nivel față de CSMS Iași, ci de o schimbare de mentalitate.
 
-La Viitorul, se joacă unul dintre cele mai pozitive tipuri de fotbal din campionatul nostru, iar Hagi are mania de-a se îndrăgosti suficient de un fotbalist încât să-i acorde o atenție aparte. Î
-
-l place pe Crețu și cred c-ar face cam tot ceea ce ține de el să-i pună în valoare calitățile.
+La Viitorul, se joacă unul dintre cele mai pozitive tipuri de fotbal din campionatul nostru, iar Hagi are mania de-a se îndrăgosti suficient de un fotbalist încât să-i acorde o atenție aparte. Îl place pe Crețu și cred c-ar face cam tot ceea ce ține de el să-i pună în valoare calitățile.
 
 De-asemenea, cred că Dinamo ar fi o echipă la care ar avea șanse să joace, dar nu știu dacă ar avea și posibilitatea unui progres rapid. Avantajul major ar ține și de-o creștere a responsabilității sale.
 
