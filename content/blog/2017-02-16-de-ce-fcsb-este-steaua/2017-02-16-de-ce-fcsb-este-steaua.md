@@ -1,10 +1,12 @@
 ---
 title: De ce consider că FCSB este continuatoarea ideii de Steaua
+description: "Echipa lui Becali a activat neîntrerupt în Liga 1 și continuitatea ei de necontestat este motivul principal pentru care inclusiv marea masă a suporterilor o recunosc."
 slug: de-ce-fcsb-este-steaua
 date_published: 2017-02-16T18:55:00.000Z
 date_updated: 2024-06-30T16:38:48.000Z
 tags: ["FCSB", "CSA Steaua"]
-excerpt: Echipa lui Becali a activat neîntrerupt în Liga 1 și continuitatea ei de necontestat este motivul principal pentru care inclusiv marea masă a suporterilor o recunosc.
+permalink: "de-ce-fcsb-este-steaua/index.html"
+cover: "./nicolae-dica-steaua-fcsb.jpg"
 ---
 
 **Le Prénom** este o comedie faină.
@@ -26,6 +28,8 @@ Nici nu era greu având în vedere cât de amuzante și ipocrite sunt discuțiil
 Prin urmare, vreau să-mi explic gândurile din spatele unei decizii: pentru o perioadă nedeterminat de timp, îi voi spune în continuare Steaua echipei numită formal și total lipsit de inspirație FCSB.
 
 Nu scriu ceea ce scriu aici ca să te conving și pe tine să gândești ca mine, ci ca să înțelegi de ce gândesc eu așa.
+
+Apropo, [acesta este varianta video](https://youtu.be/1W_x7KG6Buw) a ideilor pe care le menționez aici.
 
 ## Echipa lui Becali a pierdut multe, mai puțin șirul faptelor
 
@@ -60,7 +64,11 @@ Tot datorită continuității, am considerat că toate echipele de după 1990 ca
 De altfel, AFC Rapid chiar a administrat clubul de fotbal înainte înainte de falimentara Rapid SA.
 
 Tot datorită continuității am considerat că toate echipele care au jucat în Groapă au fost Dinamo, indiferent de forma de organizare, acționari, deținători ai siglei, deținător al site-ului etc.
-![De ce FCSB este Steaua](__GHOST_URL__/content/images/2023/12/Nicolae-Dica-Steaua-FCSB.jpeg)În această imagine, Nicolae Dică se bucură, fără să știe, pentru succesul FCSB… E ca-n romanul 1984 al lui Orwell: istoria se poate modifica în funcție noile realități ale prezentului. (Foto: Mediafax)
+
+![De ce FCSB este Steaua](./nicolae-dica-steaua-fcsb.jpg)
+
+În imaginea de mai sus, Nicolae Dică se bucură, fără să știe, pentru succesul FCSB… E ca-n romanul 1984 al lui Orwell: istoria se poate modifica în funcție noile realități ale prezentului. (Foto: Mediafax)
+
 ## Cum le zici etnicilor maghiari din Harghita și Covasna?
 
 Cei mai mulți dintre noi le zicem unguri.
@@ -135,10 +143,11 @@ Când spun că e important să ne înțelegem, nu spun că trebuie să-ți plac�
 
 De exemplu, când pe mine mă fac diverși șpăgar sau sclavul lui Becali, știu că la mine se referă.
 
-Nu contează că în 15 ani de presă [nu am avut vreodată relații private cu absolut nimeni din fotbal](__GHOST_URL__/p/relatii-ziaristi-oameni-din-fotbal) sau că singurele discuții pe care le am cu personaje din fotbal sunt cele publice, din timpul emisiunilor TV.
+Nu contează că în 15 ani de presă [nu am avut vreodată relații private cu absolut nimeni din fotbal](https://www.cmeravar.ro/
+relatii-ziaristi-oameni-din-fotbal) sau că singurele discuții pe care le am cu personaje din fotbal sunt cele publice, din timpul emisiunilor TV.
 
 Dacă eu îi spun Steaua și tu nu vei ști la ce mă refer, atunci eu voi avea o problemă.
 
 Voi vorbi singur.
 
-Din fericire, sunt convins că pentru o perioadă de timp cel puțin, tu vei înțelege și eu nu voi vorbi singur.
+Din fericire, sunt convins însă că cel puțin pentru o perioadă de timp, tu vei înțelege și eu nu voi vorbi singur.

@@ -4,8 +4,13 @@ slug: ce-faci-cand-esti-injurat-pe-facebook
 date_published: 2017-02-23T14:06:00.000Z
 date_updated: 2024-06-30T16:41:04.000Z
 tags: ["Suporteri", "Presa sportivă", "CSA Steaua", "CS U Craiova"]
-excerpt: Sunt des întrebat de ce nu-i blochez pe cei care mă-njură pe rețelele sociale ca urmare a textelor pe care le scriu. Am mai multe explicații
+description: "Sunt des întrebat de ce nu-i blochez pe cei care mă-njură pe rețelele sociale ca urmare a textelor pe care le scriu. Am mai multe explicații."
+permalink: "ce-faci-cand-esti-injurat-pe-facebook/index.html"
 ---
+
+![Cătălin Tolontan](./poveste-cu-tolontan-stefan-beldie.jpg)
+
+[Aici ai varianta video a ideilor din acest text.](https://youtu.be/D7-VTiesxHc)
 
 Am fost întrebat destul de des acest lucru și am tot dat răspunsul în discuții private.
 
@@ -40,15 +45,19 @@ Unora nu le pasă că sunt înjurați, dar altora le pasă.
 Prin urmare, de ce să las eu un om să fie jignit, să sufere poate, doar pentru că altcineva are o altă părere sau are o altă părere și diverse probleme emoționale?
 
 ## Diverse situații în care-i posibil să accept înjurăturile
-![De ce-mi plac tractoarele mai mult decât unii oameni](__GHOST_URL__/content/images/2023/12/Stefan-Beldie-injuraturi-Facebook.jpeg)Un coleg de breaslă care nu-și semnează textele zice așa despre mine: „Iar floreta noastră e ascuțită, băi, țărănușule, și o să-ți desenăm ”U”-uri pe pielea aia bronzată de om pe care invenția blogurilor l-a scăpat de meseria de tractorist căreia îi era sortit”. Îmi plac tractoarele, au mai mult farmec decât unii oameni.
-Există vreo 3 situații în care accept să fiu înjurat deși dezbaterea-n sine nu are ceva de câștigat.
+
+![De ce-mi plac tractoarele mai mult decât unii oameni](./stefan-beldie-injuraturi-facebook.jpg)
+
+Un coleg de breaslă care nu-și semnează textele zice așa despre mine: „Iar floreta noastră e ascuțită, băi, țărănușule, și o să-ți desenăm ”U”-uri pe pielea aia bronzată de om pe care invenția blogurilor l-a scăpat de meseria de tractorist căreia îi era sortit”. Îmi plac tractoarele, au mai mult farmec decât unii oameni.
+
+În fine, există vreo 3 situații în care accept să fiu înjurat deși dezbaterea-n sine nu are ceva de câștigat.
 
 ### 1. Când vreau ca cel care mă-njură să se facă singur de râs
 
 O parte dintre cei care mă-njură o fac de-o manieră care-i pune chiar pe ei în situația de-a se face de râs.
 
 De exemplu, unii vin și-mi spun în mod repetat că sunt un nimeni, că părerea mea nu contează, că-s bou, că-s prost, că nu mă bagă-n seamă…
-![Cum reacționezi când ești înjurat](__GHOST_URL__/content/images/2023/12/Tipuri-de-injuraturi-pe-Facebook.jpg)
+![Cum reacționezi când ești înjurat](./tipuri-de-injuraturi-pe-facebook.jpg)
 Observi și singur paradoxul – deși nu contez, ei sunt cei care mi-au cerut prietenia pe Facebook și ei sunt cei care se bagă-n seamă cu mine.
 
 Sunt mereu la limita celor 5.000 de prieteni pe Facebook. Dintre aceștia, mai puțin de 10 au primit cerere de prietenie din partea la mea.
