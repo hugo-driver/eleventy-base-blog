@@ -1,14 +1,12 @@
 ---
 title: De ce accept uneori să fiu înjurat pe Facebook
+description: "Sunt des întrebat de ce nu-i blochez pe cei care mă-njură pe rețelele sociale ca urmare a textelor pe care le scriu. Am mai multe explicații."
 slug: ce-faci-cand-esti-injurat-pe-facebook
 date_published: 2017-02-23T14:06:00.000Z
 date_updated: 2024-06-30T16:41:04.000Z
 tags: ["Suporteri", "Presa sportivă", "CSA Steaua", "CS U Craiova"]
-description: "Sunt des întrebat de ce nu-i blochez pe cei care mă-njură pe rețelele sociale ca urmare a textelor pe care le scriu. Am mai multe explicații."
 permalink: "ce-faci-cand-esti-injurat-pe-facebook/index.html"
 ---
-
-![Cătălin Tolontan](./poveste-cu-tolontan-stefan-beldie.jpg)
 
 [Aici ai varianta video a ideilor din acest text.](https://youtu.be/D7-VTiesxHc)
 
@@ -48,7 +46,9 @@ Prin urmare, de ce să las eu un om să fie jignit, să sufere poate, doar pentr
 
 ![De ce-mi plac tractoarele mai mult decât unii oameni](./stefan-beldie-injuraturi-facebook.jpg)
 
-Un coleg de breaslă care nu-și semnează textele zice așa despre mine: „Iar floreta noastră e ascuțită, băi, țărănușule, și o să-ți desenăm ”U”-uri pe pielea aia bronzată de om pe care invenția blogurilor l-a scăpat de meseria de tractorist căreia îi era sortit”. Îmi plac tractoarele, au mai mult farmec decât unii oameni.
+Un coleg de breaslă care nu-și semnează textele zice așa despre mine: 
+
+„Iar floreta noastră e ascuțită, băi, țărănușule, și o să-ți desenăm ”U”-uri pe pielea aia bronzată de om pe care invenția blogurilor l-a scăpat de meseria de tractorist căreia îi era sortit”. Îmi plac tractoarele, au mai mult farmec decât unii oameni.
 
 În fine, există vreo 3 situații în care accept să fiu înjurat deși dezbaterea-n sine nu are ceva de câștigat.
 
@@ -57,13 +57,17 @@ Un coleg de breaslă care nu-și semnează textele zice așa despre mine: „Iar
 O parte dintre cei care mă-njură o fac de-o manieră care-i pune chiar pe ei în situația de-a se face de râs.
 
 De exemplu, unii vin și-mi spun în mod repetat că sunt un nimeni, că părerea mea nu contează, că-s bou, că-s prost, că nu mă bagă-n seamă…
+
 ![Cum reacționezi când ești înjurat](./tipuri-de-injuraturi-pe-facebook.jpg)
+
 Observi și singur paradoxul – deși nu contez, ei sunt cei care mi-au cerut prietenia pe Facebook și ei sunt cei care se bagă-n seamă cu mine.
 
 Sunt mereu la limita celor 5.000 de prieteni pe Facebook. Dintre aceștia, mai puțin de 10 au primit cerere de prietenie din partea la mea.
 
 Pe de o parte pentru că cei apropiați mie, cunoștințe din presă etc. au apucat ei să-mi ceară și n-a mai fost nevoie s-o fac eu, iar pe de alta pentru că n-am simțit nevoia să mă împrietenesc cu cei neapropiați mie sau necunoscuți mie.
-![Ce să faci când ești înjurat online](__GHOST_URL__/content/images/2023/12/Tipuri-de-injuraturi-pe-Facebook-oameni-prosti.jpg)
+
+![Ce să faci când ești înjurat online](./tipuri-de-injuraturi-pe-facebook-oameni-prosti.jpg)
+
 ### 2. Când cel care mă înjură o face corect gramatical și / sau spectaculos din perspectivă creativă
 
 Cei din prima categorie sunt atât de mulți, încât atunci când vine cineva și mă-njură într-o limbă română curată sau o face de-o manieră creativă, sunt tentat să apreciez.
@@ -71,7 +75,9 @@ Cei din prima categorie sunt atât de mulți, încât atunci când vine cineva �
 Adică să permit respectivul comentariu.
 
 Sigur, am pretenția ca respectivul să contribuie și cu altceva la dezbatere decât cu ironii legate de numele meu sau cu-njurături corect scrise.
-![Cum reacționezi când îți este ironiizat numele](__GHOST_URL__/content/images/2023/12/Tipuri-de-jigniri-onlime.jpg)
+
+![Cum reacționezi când îți este ironiizat numele](./tipuri-de-jigniri-onlime.jpg)
+
 De unde acest soi de respect pentru înjurăturile creative sau anumite ironii scrise într-o română curată?
 
 Din copilărie.
@@ -85,7 +91,9 @@ Uneori, văd în tonul general al mesajelor că cel care mă-njură mă urăște
 Normal, mai văd și alte lucruri.
 
 De exemplu, faptul că e-n pragul isteriei sau că…
-![Cum tratezi oamenii care fac spume aiurea online](__GHOST_URL__/content/images/2023/12/Incercari-de-jigniri-online.jpeg)
+
+![Cum tratezi oamenii care fac spume aiurea online](incercari-de-jigniri-online.jpg)
+
 În condițiile-n care-n mod evident respectivul face spume în fața tastaturii, încep să mă gândesc la binele lui.
 
 Și dacă mi se face milă, am tendința, uneori, să las să viețuiască comentariile respective în speranța că omul se va simți un pic mai bine.
@@ -144,15 +152,17 @@ Pentru a-nțelege că mi-ar fi uneori drag să-njur.
 
 Că mi se-nvârt în minte tot felul de replici, dar nu o fac.
 
-Te poți gândi că m-a marcat [povestea cu Tolontan](__GHOST_URL__/p/tolontan-hamlet-si-chiriches).
+Te poți gândi că m-a marcat [povestea cu Tolontan](https://www.cmeravar.ro/tolontan-hamlet-si-chiriches).
 
 Sau te poți gândi că nu o fac pentru că țin la imaginea mea și ai avea parițial dreptate.
 
 Nu imaginea este principalul motiv pentru care nu răspund cu înjurături atunci când sunt înjurat.
 
 Nici măcar faptul că-s heterosexual și mi-e că unii s-ar excita dacă-i înjur nu e o rațiune importantă aici.
-![Ce să-i spui unui bărbat care te înjură](__GHOST_URL__/content/images/2023/12/Reactie-jigniri-online.jpeg)
-Nu-njur pentru că am două motive foarte importante.
+
+![Ce să-i spui unui bărbat care te înjură](./reactie-jigniri-online.jpg)
+
+Nu-njur din două motive foarte importante.
 
 **1. dacă înjur, discuția se lungește** și eu n-am atât de mult timp liber încât să-l înjur iar și iar pe unul care mă-njură iar și iar.
 
@@ -173,7 +183,9 @@ Ignorarea este foarte eficientă mai ales atunci când cineva-ți scrie un mesaj
 În mod evident, omul a consumat multă energie nervoasă și chiar fizică să-ți spună atât de multe lucruri, să te facă în atât de multe feluri.
 
 Dacă nu-i răspunzi sau dacă-i dai drept replică un simplu “Bine” sau “OK”, îl dezamăgești până aproape de punctu-n care e-n stare să se dea cu capul de pereți.
-![Cum să-i demobilizezi pe cei care te-njură](__GHOST_URL__/content/images/2023/12/Cum-reactionezi-la-injuraturi-pe-net.png)
+
+![Cum să-i demobilizezi pe cei care te-njură](./cum-reactionezi-la-injuraturi-pe-net.jpg)
+
 ### b. Ești de acord cu “agresorul”
 
 Ce-nseamnă asta?
@@ -181,7 +193,9 @@ Ce-nseamnă asta?
 Înseamnă că dacă el te face în fel și chip, tu-i spui “Așa este”.
 
 Nu dai amănunte, spui doar că așa este și mergi mai departe.
-![Ce să spui ca să termini rapid o discuție pe Facebook / Instagram](__GHOST_URL__/content/images/2023/12/Cum-raspunzi-la-provocari-facebook-instagram.jpg)
+
+![Ce să spui ca să termini rapid o discuție pe Facebook / Instagram](./cum-raspunzi-la-provocari-facebook-instagram.jpg)
+
 De cele mai multe ori, asta-l dezamăgește profund pe cel care a făcut un efort aparte să te jingească.
 
 Așteptările lui erau altele, voia să te consumi, voia să negi, voia să răspunzi de-o manieră nervoasă.
