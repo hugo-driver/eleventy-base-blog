@@ -1,11 +1,15 @@
 ---
 title: Dacă vrea să te scoată în secunda 30, refuză schimbarea!
+description: "Puștii care știu că au valoare, n-ar trebui să iasă. Nimeni nu le poate face nimic dacă refuză să iasă, iar șansele de-a conta în viitor sunt mai mari așa decât dacă acceptă schimbarea"
 slug: refuza-schimbarea-secunda-30-liga1
 date_published: 2020-03-11T13:30:00.000Z
 date_updated: 2023-12-27T05:02:27.000Z
 tags: Antrenori
-excerpt: Puștii care știu că au valoare, n-ar trebui să iasă. Nimeni nu le poate face nimic dacă refuză să iasă, iar șansele de-a conta în viitor sunt mai mari așa decât dacă acceptă schimbarea
+permalink: "refuza-schimbarea-secunda-30-liga1/index.html"
+cover: "./dan-petrescu-si-fotbalistii-schimbati-in-secunda-30.jpg"
 ---
+
+![Dan Petrescu, cel care scoate fotbaliștii under 21 în secunda 30](./dan-petrescu-si-fotbalistii-schimbati-in-secunda-30.jpg)
 
 Am văzut tot felul de discuții / reacții legate de situația lui Fica de la CFR Cluj.
 
@@ -67,7 +71,7 @@ Deși nu mai trăim în peșteri, jocul de fotbal este o manifestare arhaică a 
 
 Cu coaie, cum se spune pe stadion.
 
-Dacă tu crezi că meriți să fii pe teren dincolo de acea regulă, că ești bun, că poți să-ți ajuți echipa mai mult jucând decât fiind schimbat fă asta: **refuză schimbarea.**
+Dacă tu crezi că meriți să fii pe teren dincolo de acea regulă, că ești bun, că poți să-ți ajuți echipa mai mult jucând decât fiind schimbat fă asta: **refuză schimbarea**.
 
 Refuză să ieși de pe teren când ți-o cere antrenorul.
 

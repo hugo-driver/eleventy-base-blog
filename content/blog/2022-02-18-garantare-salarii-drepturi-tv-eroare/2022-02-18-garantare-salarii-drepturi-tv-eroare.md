@@ -1,11 +1,15 @@
 ---
 title: De ce garantarea salariilor cu drepturile TV ar fi o greșeală
+description: "Am susținut ani de zile această idee, dar mi-am schimbat părerea - cluburile trebuie să-și gestioneze singure resursele chiar cu riscul unor dezastre financiare."
 slug: garantare-salarii-drepturi-tv-eroare
 date_published: 2022-02-18T21:24:00.000Z
 date_updated: 2023-12-26T16:44:54.000Z
 tags: Presa sportivă
-excerpt: Am susținut ani de zile această idee, dar mi-am schimbat părerea - cluburile trebuie să-și gestioneze singure resursele chiar cu riscul unor dezastre financiare.
+permalink: "garantare-salarii-drepturi-tv-eroare/index.html"
+cover: "./greseala-garantarii-salariilor-cu-drepturi-tv-Liga-1.jpg"
 ---
+
+![Drepturile TV n-ar trebui să garanteze salariile în Liga 1](./greseala-garantarii-salariilor-cu-drepturi-tv-Liga-1.jpg)
 
 De ani buni, spun pe unde apuc că drepturile TV ar trebui să fie oprite drept garanție pentru plata salariilor jucătorilor.
 
@@ -51,7 +55,7 @@ Sau cluburi care fac în așa fel încât să fie corecte cu jucătorii lor în 
 
 Mai mult, cel mai important aspect este unul ce ține de libertatea cluburilor (societăților comerciale) de-a dispune așa cum doresc de banii care li se cuvin.
 
-Acesta e un drept fundamental într-o societate liberă și un drept luat la mișto sau lăsat în plan secund de cei cu [apucături radical socialiste sau comuniste](__GHOST_URL__/p/ue-dancu).
+Acesta e un drept fundamental într-o societate liberă și un drept luat la mișto sau lăsat în plan secund de cei cu [apucături radical socialiste sau comuniste](https://www.cmeravar.ro/ue-dancu).
 
 De ce am devenit așa de sensibil în legătură cu această libertate?
 
@@ -65,7 +69,7 @@ Totuși, deși există efecte clar benefice ale acestei reguli, realitatea este 
 
 Adică, o asuprire, cum ar spune Becali
 
-Simplu fapt că Becali susține o idee nu înseamnă că acea idee este greșită. Mai mult, după cum ți-am mai spus, când vine vorba de libertate, [Becali e un individ cum puțini alții sunt sau pot fi vreodată](__GHOST_URL__/de-ce-il-urasti-pe-becali/).
+Simplu fapt că Becali susține o idee nu înseamnă că acea idee este greșită. Mai mult, după cum ți-am mai spus, când vine vorba de libertate, [Becali e un individ cum puțini alții sunt sau pot fi vreodată](https://www.cmeravar.ro/de-ce-il-urasti-pe-becali/).
 
 După regula utilizării obligatorii a unui fotbalist cu vârsta sub 21 ani, FRF a impus o nouă obligație: doi fotbaliști cu vârsta sub 21 ani.
 
@@ -174,7 +178,9 @@ Pentru cazurile în care insolvența maschează o formă de înșelăciune exist
 Acum, în loc să pedepsești cu retrogradarea echipele care vor intra în insolvență începând cu sezonul viitor, mai bine umbli la cele 3 lucruri menționate de mine:
 
 1. **educarea reală a jucătorilor – cu nuanțele explicate mai sus**
+
 2. **scădrerea perioadei de grație pentru cluburi când vine vorba de plata jucătorilor și judecarea rapidă a oricărui conflict contractual**
+
 3. **un proces de licențiere inspirat din modele vestice**
 
 Abia în acest proces de licențiere serios cluburile ar putea să aleagă să garanteze salariile cu ajutorul drepturilor TV.

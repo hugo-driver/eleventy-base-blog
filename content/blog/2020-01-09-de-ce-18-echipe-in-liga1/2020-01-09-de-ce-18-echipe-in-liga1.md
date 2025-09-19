@@ -1,13 +1,17 @@
 ---
 title: De ce militez pentru 18 echipe în Liga 1
+description: "Și nu doar atât. E timpul să revenim la un sistem clasic de desfășurare a campionatului, fără play off și play out."
 slug: de-ce-18-echipe-in-liga1
 date_published: 2020-01-09T12:38:00.000Z
 date_updated: 2024-02-10T07:08:59.000Z
 tags: ["LPF", "FRF", "Presa sportivă"]
-excerpt: Și nu doar atât. E timpul să revenim la un sistem clasic de desfășurare a campionatului, fără play off și play out
+permalink: "de-ce-18-echipe-in-liga1/index.html"
+cover: "./sistemul-cu-18-echipe-in-liga-1.jpg"
 ---
 
-După cum știi, [nu-mi place sistemul cu play off și play out.](__GHOST_URL__/sistemul-play-off-play-out-liga1-nociv/)
+![Imaginea unei camere care filmează pe Arena Națională](./sistemul-cu-18-echipe-in-liga-1.jpg)
+
+După cum știi, [nu-mi place sistemul cu play off și play out.](https://www.cmeravar.ro/sistemul-play-off-play-out-liga1-nociv/)
 
 Dar acum nu mai e vorba de ce-mi place, e vorba de logică pentru produsul Liga 1.
 
@@ -235,7 +239,7 @@ Pentru că ceea ce unii văd ca fiind o pleașcă pentru cluburi, eu o văd ca p
 
 O simplă schimbare pe piața de telecom poate duce la dispariția acestor bani și la situația în care cluburile să piardă, în medie, aproximativ 50% din buget.
 
-În fine, această conștientizare a riscului pe care și-l asumă ar trebui să facă LPF și cluburile să se concentreze pe cele mai importante obiective firești penru fotbalul nostru – producția de jucători și [aducerea publicului în tribune](__GHOST_URL__/cel-mai-important-obiectiv-liga1).
+În fine, această conștientizare a riscului pe care și-l asumă ar trebui să facă LPF și cluburile să se concentreze pe cele mai importante obiective firești penru fotbalul nostru – producția de jucători și [aducerea publicului în tribune](https://www.cmeravar.ro/cel-mai-important-obiectiv-liga1).
 
 Pentru a îndeplini aceste două obiective e nevoie inclusiv de creșterea numărului de echipe de la 14 la 18 și includerea de noi orașe / regiuni fotbalistice în Liga 1.
 

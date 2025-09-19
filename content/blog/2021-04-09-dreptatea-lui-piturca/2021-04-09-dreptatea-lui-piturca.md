@@ -1,11 +1,15 @@
 ---
 title: Fiți, bă, derby!
+description: "Cel mai mult îmi place la Pițurcă faptul că are dreptate chiar în timp ce toată lumea îl urăște cu maximă pasiune. Vezi cazul comentariilor din culisele de la Orange Sport"
 slug: dreptatea-lui-piturca
 date_published: 2021-04-08T21:34:00.000Z
 date_updated: 2024-06-30T16:11:15.000Z
 tags: ["Presa sportivă", "Mihai Rotaru"]
-excerpt: Cel mai mult îmi place la Pițurcă faptul că are dreptate chiar în timp ce toată lumea îl urăște cu maximă pasiune. Vezi cazul comentariilor din culisele de la Orange Sport
+permalink: "dreptatea-lui-piturca/index.html"
+cover: "./victor-piturca.webp"
 ---
+
+![Victor Pițurcă, în conflict cu Mihai Rotaru, având o grimasă de nemulțumire](./victor-piturca.webp)
 
 Am văzut la Sergi Lopez [înregistrea](https://www.facebook.com/100003884592122/videos/1907328659406602/) faimoasei pauze publicitare din emisiunea în care **Silviu Tudor Samuilă** l-a avut invitat pe **Victor Pițurcă**.
 
@@ -26,9 +30,13 @@ Au folosit sintagmele lor preferate „șocant” și „derapaj, chestiune la c
 ## Pițurcă îl consideră jigodie pe Pigliacelli
 
 **Pițurcă**: Pigliacelli era o jigodie fără margini!
+
 **Samuilă**: Dădea mesaje să fie el căpitan, da…
+
 **Pițurcă**: Nu numai asta. Aveam un puști portar, Popică (n.r. – Laurențiu Popescu), l-am băgat în Cupă și i-am spus lui Pigliacelli să-l încurajeaze și pe el. Nu voia! El era supărat că de ce nu apără tot el și în Cupă!
+
 **Samuilă**: Ce jeg!
+
 **Pițurcă**: Da, da, da, un jeg mare!
 
 Dacă e adevărat că Pițurcă l-a rugat pe Pigliacelli să-și încurajeze pe colegul fără experiență, iar italianul n-a vrut, e dreptul lui Pițurcă să-l considere jigodie.
@@ -40,6 +48,7 @@ Sigur, colegii de la Gazetă pot verifica dacă lucrurile s-au întâmplat cum l
 ## Pițurcă are un mod aparte de-a interacționa cu patronii
 
 **Pițurcă**: A venit Rotaru și mi-a zis că e răzmeriță în vestiar. De unde știi, mă, tu că e răzmeriță? Știi tu ce-i aia?! O știu eu, o știi tu că vin și îți spun ție câțiva jucători?!
+
 **Samuilă**: S-au obișnuit prost cu antrenori sclavi, cocoșați.
 
 După cum se știe deja, Pițurcă are obiceiul să fie șef pe treaba lui oriunde antrenează.
@@ -55,8 +64,11 @@ Colegii de la Gazetă pot verifica dacă chiar a fost răzmeriță în vestiarul
 ## Pițurcă a vorbit despre ceea ce Gazeta știa, dar nu a scris în ciuda misiunii sale
 
 **Pițurcă**: Daa, el voia să-l dea afară de mult și pe Mangia, l-a prins că-i trimitea mesaje unui jucător, era «bulangiu». O să vezi că îl schimbă și pe grec (n.r. – Marinos Ouzounidis)
+
 **Samuilă**: Că nu joacă spectaculos?
+
 **Pițurcă**: Nuu, că-l bagă pe Vătăjelu fundaș dreapta… Am auzit deja că e nemulțumit, sunt multe discuții.
+
 **Samuilă**: Îmi povesteau ăștia că se uită el pe InStat, are păreri…
 
 După ce Mangia a plecat de la olteni, informația care a venit dinspre Craiova a fost că italianul ar fi avut o relație sau încercare de relație cu unul dintre fotbaliștii pe care-i antrena.
@@ -80,7 +92,9 @@ De asemenea, e de scris povestea în sine, că e adevărată și are relevanță
 ## Pițurcă a demontat varianta c-ar fi fost dat afară de Rotaru
 
 **Pițurcă**: E un libidinos, un jeg de om! Îmi zice că m-a dat afară. Păi, bă, în p***a mă-tii, dacă mă dădeai afară nu trebuia să-mi dai banii? 450.000 de euro! Ăstora așa trebuie să le faci. Banii!
+
 **Samuilă**: Întotdeauna v-am admirat pentru asta, că v-ați luptat pentru drepturile dumneavoastră.
+
 **Pițurcă**: Acum am zis că nu mai vreau să stau, să mă cert cu ei. El voia să plec, pentru că el nu mai însemna nimic pe-acolo. Înainte era șeful.
 
 Aici, lucrurile sunt simple.
@@ -98,9 +112,13 @@ Normal, asta presupune iarăși un anume tip de efort, mult mai mare decât cel 
 ## Pițurcă are aceeași părere despre Rotaru și-n public, și-n privat
 
 **Samuilă**: Cum v-a adus, cum v-a convins?
+
 **Pițurcă**: Din prostia mea, că a fost vorba de Craiova.
+
 **Samuilă**: M-a mirat că ați preluat din mers echipa.
+
 **Pițurcă**: Am avut încredere că voi face o echipă bună acolo. Nu credeam că Rotaru e un astfel de om. Trebuia să-l înjur de două ori, să-i dau un șut în cur, să mă dea afară și să-i dau banii. Așa trebuia să-i fac. Că la țărani d-ăștia așa trebuie să le faci!
+
 **Samuilă**: Corect, sunt sută la sută de acord.
 
 Iarăși fac trimitere spre adevăr, cea mai importantă chesiune când judeci spusele și acțiunile unui om.
@@ -141,7 +159,7 @@ Absolut deloc. Nu am vorbit vreodată cu el, nu știu nimic despre el dincolo de
 
 Apoi, la rândul meu am discuții private cu diverși oameni de fotbal în timpul pauzelor publicitare ale emisiunilor la care-s invitat. Nu folosesc expresii de genul „Ce jeg!” referindu-mă la cineva, dar categoric pot avea o părere proastă despre diverși.
 
-De exemplu – cred despre Croitoru că e un antrenor umflat (dar rezultatele lui arată cu totul altceva), patronul Rapidului mi se pare de o naivitate comică când vine vorba de numit și dat afară antrenori, Talpan îmi pare un ipocrit, DDB-ul îmi pare lovită de mania persecuției în comunicatele pe care le dă presei, [Becali e Becali](__GHOST_URL__/p/de-ce-il-urasti-pe-becali) etc.
+De exemplu – cred despre Croitoru că e un antrenor umflat (dar rezultatele lui arată cu totul altceva), patronul Rapidului mi se pare de o naivitate comică când vine vorba de numit și dat afară antrenori, Talpan îmi pare un ipocrit, DDB-ul îmi pare lovită de mania persecuției în comunicatele pe care le dă presei, [Becali e Becali](https://www.cmeravar.ro/de-ce-il-urasti-pe-becali) etc.
 
 Mai mult, pot la rândul meu să am respect pentru atitudini / fapte ale unor personaje care nu plac publicului.
 
@@ -149,7 +167,7 @@ De exemplu, mi-a plăcut atitudinea necăcăcioasă, nesmiorcăită cu care Ioan
 
 Sau îmi place cum își fac contractele Pițurcă, Iordănescu Jr. și alți câțiva astfel încât să poată avea garanția că nu vor fi tratați precum sunt tratați majoritatea antrenorilor din Liga 1.
 
-Sau cred că [Iorgulescu a revoluționat fotbalul nostru](__GHOST_URL__/p/meritul-lui-iorgulescu) prin faptul c-a adus antrenori italieni de la care românii au avut ce învăța.
+Sau cred că [Iorgulescu a revoluționat fotbalul nostru](https://www.cmeravar.ro/meritul-lui-iorgulescu) prin faptul c-a adus antrenori italieni de la care românii au avut ce învăța.
 
 N-am absolut nicio problemă să le spun acestor oameni că respect chestiunile respective în cazul lor, fără să fiu servil.
 
@@ -161,7 +179,7 @@ Din această postură, am asistat la zeci de situații în care diverși oameni 
 
 O bună parte dintre colegii mei de la Gazetă au asistat la rândul lor la astfel de discuții și al naibii să fiu dacă am văzut vreunul leșinând din cauza șocului pe care-l vântură acum prin titluri.
 
-Sau dacă a doua zi au vorbit scârbiți despre [derapajele diverselor personaje](__GHOST_URL__/gazeta-penalty-la-coltul-scurt/) din lumea fotbalului.
+Sau dacă a doua zi au vorbit scârbiți despre [derapajele diverselor personaje](https://www.cmeravar.ro/gazeta-penalty-la-coltul-scurt/) din lumea fotbalului.
 
 Din contră, era subiect de glumă la țigară și cam atât.
 

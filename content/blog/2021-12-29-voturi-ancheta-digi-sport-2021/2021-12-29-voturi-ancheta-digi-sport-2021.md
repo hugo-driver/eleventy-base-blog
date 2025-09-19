@@ -1,11 +1,16 @@
 ---
 title: Cum am votat în ancheta Digi Sport pentru superlativele Ligii 1 în 2021
+description: "Voturile mele sunt în acord cu felul în care văd eu fotbalul. Nu sunt alegeri bazate pe statistici sau alte elemente matematice, ci e vorba, în final, de chestiuni subiective."
 slug: voturi-ancheta-digi-sport-2021
 date_published: 2021-12-29T07:03:00.000Z
 date_updated: 2023-12-27T04:42:39.000Z
 tags: Presa sportivă
-excerpt: Voturile mele sunt în acord cu felul în care văd eu fotbalul. Nu sunt alegeri bazate pe statistici sau alte elemente matematice, ci e vorba, în final, de chestiuni subiective
+permalink: "voturi-ancheta-digi-sport-2021/index.html"
+cover: "./marius-croitoru-votat-ancheta-digi-sport-stefan-beldie.jpg"
 ---
+
+![Marius Croitoru, unul dintre antrenorii votați de Ștefan Beldie în ancheta de final de an a Digi Sport](./marius-croitoru-votat-ancheta-digi-sport-stefan-beldie.jpg)
+
 
 Înainte să te uiți pe rezultatele voturilor, trebuie să știi câteva lucruri.
 
@@ -67,11 +72,11 @@ Dacă aș menționa și ce nu-mi place, atunci aș vorbi de atitudinea sa public
 
 ## Cel mai bun tânăr al anului 2021 în Liga 1
 
-**1. Claudiu Petrila –** noroc cu sezonul trecut, de la Sepsi și cu bucata jucată cu Șumudică la CFR în acest sezon. Dacă m-aș lua după câte prezențe are recent la CFR Cluj…
+**1. Claudiu Petrila** - noroc cu sezonul trecut, de la Sepsi și cu bucata jucată cu Șumudică la CFR în acest sezon. Dacă m-aș lua după câte prezențe are recent la CFR Cluj…
 
 În fine, băiatul are talent și chiar un pic de valoare raportat la cât de tânăr este. Valoarea are nevoie de timp ca să se contureze, iar fotbaliștii români se coc după 23-24 ani.
 
-2. **Octavian Popescu** – a jucat titular la o echipă care se bate la titlu și a avut suficiente momente în care
+**2. Octavian Popescu** - a jucat titular la o echipă care se bate la titlu și a avut suficiente momente în care
 
 De asemenea, îmi place mult la el faptul că are balonul lipit de gheată, rar am văzut un asemenea control în fotbalul nostru. Deși joacă posturi diferite, îmi aduce aminte de Tiberiu Ghioane din acest punct de vedere.
 
@@ -95,7 +100,7 @@ După o viață în Liga 1, Deac are marea calitate că se antrenează așa cum 
 
 **2. Sepsi** – mă refer exclusiv la ce a jucat echipa cu Grozavu înainte de pierderile din vară. Pur fotbalistic, acel stil de fotbal extrem de intens fizic este mult mai pe gustul meu decât ce joacă Botoșani, dar moldovenii au avantajul că au impresionat având pierderi masive înainte de fiecare început de sezon.
 
-**3.****UTA** – este anul acesta cam ce era Sepsi sezonul trecut. Aproape la fel de agresivi fizic, dar mai ofensivi. Puține echipe aduc constant 6-7 jucători în 20-25 metri advers aproape la fiecare atac pozițional.  Dacă și-ar crește foarte puțin eficiența când ajung la 1,5 metri de linia porții, ar fi în play off.
+**3. UTA** – este anul acesta cam ce era Sepsi sezonul trecut. Aproape la fel de agresivi fizic, dar mai ofensivi. Puține echipe aduc constant 6-7 jucători în 20-25 metri advers aproape la fiecare atac pozițional.  Dacă și-ar crește foarte puțin eficiența când ajung la 1,5 metri de linia porții, ar fi în play off.
 
 ## Cel mai frumos moment al anului 2021
 

@@ -1,11 +1,15 @@
 ---
 title: De ce nu cred în ideea naturalizării de fotbaliști pentru națională
+description: "O echipă națională are ca principală trăsătură reprezentativitatea pentru țara respectivă. De asta i se mai și spune reprezentativă..."
 slug: naturalizare-fotbalisti-nationala-romaniei
 date_published: 2018-08-27T12:38:00.000Z
 date_updated: 2023-12-27T05:12:57.000Z
 tags: Echipa națională
-excerpt: O echipă națională are ca principală trăsătură reprezentativitatea pentru țara respectivă. De asta i se mai și spune reprezentativă...
+permalink: "naturalizare-fotbalisti-nationala-romaniei/index.html"
+cover: "./de-ce-naturalizarea-de-jucatori-nu-este-buna-pentru-romania.jpg"
 ---
+
+![Eddy Gnahore marcând pentru FCSB](./de-ce-naturalizarea-de-jucatori-nu-este-buna-pentru-romania.jpg)
 
 De câțiva ani buni se discută despre această variantă – să luăm un străin valoros pe care-l cunoaștem, să-i dăm centățenia română și să-l folosim la națională.
 
@@ -63,4 +67,4 @@ Nici măcar cine știe ce destinație turistică nu suntem, ce să mai vorbesc d
 
 Pur și simplu, ca societate, suntem deja reprezentați de ceea ce avem în națională. Buni, răi, cam ăia suntem. În anii care vin, poate se mai schimbă ceva la modul concret, dar la ora actuală a-l face Gnohere român e doar un act de ipocrizie amestecată cu disperare.
 
-PS: în schimb, sunt total în favoarea numirii unui [selecționer străin pentru “națională”.](__GHOST_URL__/p/de-ce-selectioner-strain)
+PS: în schimb, sunt total în favoarea numirii unui [selecționer străin pentru “națională”.](https://www.cmeravar.ro/de-ce-selectioner-strain)

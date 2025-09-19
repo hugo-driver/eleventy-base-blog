@@ -1,11 +1,15 @@
 ---
-title: Ce l-a ajutat pe Rădoi să reușească la "tineret"
+title: Ce l-a ajutat pe Rădoi să reușească la tineret
+description: "Pur profesional, puține lucruri anunțau succesul lui Rădoi. Totuși, acele lucruri au contat neașteptat de mult."
 slug: explicatii-succes-radoi-tineret
 date_published: 2018-10-17T13:30:00.000Z
 date_updated: 2024-06-30T16:42:33.000Z
 tags: ["Echipa națională", "Antrenori"]
-excerpt: Pur profesional, puține lucruri anunțau succesul lui Rădoi. Totuși, acele lucruri au contat neașteptat de mult
+permalink: "explicatii-succes-radoi-tineret/index.html"
+cover: "./mirel-radoi-nationala-de-tineret.jpg"
 ---
+
+![Prezentare Mirel Rădoi la naționala de tineret a României](./mirel-radoi-nationala-de-tineret.jpg)
 
 Performanța obținută de naționala de tineret este una aparte pentru fotbalul nostru.
 

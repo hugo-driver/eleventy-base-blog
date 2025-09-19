@@ -1,11 +1,15 @@
 ---
 title: Gazeta bate din nou penalty la colțul scurt
+description: "Gazeta Sporturilor se află într-un proces de educare a publicului în legătură cu ce e bine și ce nu e bine să gândești, să spui și să faci."
 slug: gazeta-penalty-la-coltul-scurt
 date_published: 2021-03-05T21:55:00.000Z
 date_updated: 2024-06-30T16:18:50.000Z
 tags: Presa sportivă
-excerpt: Gazeta Sporturilor se află într-un proces de educare a publicului în legătură cu ce e bine și ce nu e bine să gândești, să spui și să faci
+permalink: "gazeta-penalty-la-coltul-scurt/index.html"
+cover: "./gazeta-sporturilor-si-penalty-ul-batut-la-coltul-scurt.jpg"
 ---
+
+![Mihaiu de la Dinamo, fotbalist care a glumit pe seama lui Nepomuceno](./gazeta-sporturilor-si-penalty-ul-batut-la-coltul-scurt.jpg)
 
 Un astfel de proces este întotdeauna ceva nobil.
 

@@ -1,11 +1,15 @@
 ---
 title: Becali - ghid de înțelegere a personajului
+description: "Află motivele reale și neplăcute pentru care patronul FCSB ți se pare un personaj enervant sau respingător."
 slug: de-ce-il-urasti-pe-becali
 date_published: 2021-07-30T20:40:00.000Z
 date_updated: 2024-06-30T16:10:31.000Z
 tags: ["Gigi Becali", "FCSB"]
-excerpt: Află motivele reale și neplăcute pentru care patronul FCSB ți se pare un personaj enervant sau respingător
+permalink: "de-ce-il-urasti-pe-becali/index.html"
+cover: "./gigi-becali-ghid-de-intelegere-a-personajului.jpg"
 ---
+
+![Gigi Becali, în conferință la Palat](./gigi-becali-ghid-de-intelegere-a-personajului.jpg)
 
 În mare, Becali enervează multe persoane care fac parte din următoarele categorii:
 
@@ -123,7 +127,7 @@ Cultura și credințele sale sa îl fac să structureze realitatea în funcție 
 
 Partea și mai spectaculoasă este că anumite principii de viață pe care Becali le are chiar sunt valoroase tocmai prin primitivismul lor. Adică sunt lucruri valabile în relațiile interumane din cele mai vechi timpuri și sunt valabile inclusiv astăzi.
 
-De exemplu, deși este imoral să te consideri stăpân peste [angajații tăi](__GHOST_URL__/mihai-stoica/), adică să-i transformi într-un fel de sclavi, este un model de a face lucrurile care s-a dovedit profitabil pentru stăpân.
+De exemplu, deși este imoral să te consideri stăpân peste [angajații tăi](https://www.cmeravar.ro/mihai-stoica/), adică să-i transformi într-un fel de sclavi, este un model de a face lucrurile care s-a dovedit profitabil pentru stăpân.
 
 Ca și mai sus, faptul că Becali face pișu pe logica ta este enervant pentru că direct și indirect îți dă impresia că ce gândești tu nu e corect.
 
