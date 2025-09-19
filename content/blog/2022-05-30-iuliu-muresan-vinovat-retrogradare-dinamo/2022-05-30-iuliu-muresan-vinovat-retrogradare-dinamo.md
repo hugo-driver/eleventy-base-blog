@@ -1,11 +1,15 @@
 ---
 title: De ce a retrogradat Dinamo
+description: "Căderea din Liga 1 a fost un eșec sportiv, nu financiar. Iuliu Mureșan este cel care a condus sportiv acest club în sezonul retrogradării."
 slug: iuliu-muresan-vinovat-retrogradare-dinamo
 date_published: 2022-05-30T18:55:00.000Z
 date_updated: 2023-12-26T16:14:46.000Z
 tags: ["Dinamo", "Conducători de club"]
-excerpt: Căderea din Liga 1 a fost un eșec sportiv, nu financiar. Iuliu Mureșan este cel care a condus sportiv acest club în sezonul retrogradării
+permalink: "iuliu-muresan-vinovat-retrogradare-dinamo/index.html"
+cover: "./de-ce-a-retrogradat-dinamo.jpg"
 ---
+
+![Cătălin Tolontan](./de-ce-a-retrogradat-dinamo.jpg)
 
 De ce a retrogradat Dinamo?
 

@@ -1,12 +1,15 @@
 ---
 title: 5 lucruri pe care le poate aduce Dan Șucu în Liga 1
+description: "Șucu este un om de afaceri diferit de cei care au intrat în mod tradițional în fotbalul nostru, iar asta ar putea avea niște urmări aparte"
 slug: 5-lucruri-aduce-dan-sucu-in-liga1
 date_published: 2022-05-25T12:04:00.000Z
 date_updated: 2024-06-30T16:03:19.000Z
 tags: ["Dan Șucu", "Rapid"]
-excerpt: Șucu este un om de afaceri diferit de cei care au intrat în mod tradițional în fotbalul nostru, iar asta ar putea avea niște urmări aparte
+permalink: "5-lucruri-aduce-dan-sucu-in-liga1/index.html"
+cover: "./dan-sucu-ce-aduce-in-fotbal.jpg"
 ---
 
+![Dan Șucu - ce aduce în fotbal](./dan-sucu-ce-aduce-in-fotbal.jpg)
 Acum niște ani, am fost cât pe ce să vorbesc cu domnul Șucu.
 
 La vremea respectivă, aveam mai multe site-uri și, pe unul dintre ele, scriam despre email marketing. Adică despre ce poți face ca să-ți vinzi produsele / serviciile cu ajutorul email-urilor.
@@ -139,7 +142,7 @@ Pentru că majoritatea se tem să vorbească despre așa ceva. Iar de temut, te 
 
 După cum știi, majoritatea investitorilor din fotbalul nostru cred că banii din drepturile TV sunt ceva ce li se cuvine doar pentru că echipele lor există.
 
-Adică, ei nu văd necesar niciun efort de genul „[hai să aducem oameni la stadion](__GHOST_URL__/p/cel-mai-important-obiectiv-liga1)”. Pe la Botoșani, oamenii lui Iftime văd oportun chiar să-i gonească de la arenă când joacă un amical cu Poli Iași.
+Adică, ei nu văd necesar niciun efort de genul „[hai să aducem oameni la stadion](https://www.cmeravar.ro/cel-mai-important-obiectiv-liga1)”. Pe la Botoșani, oamenii lui Iftime văd oportun chiar să-i gonească de la arenă când joacă un amical cu Poli Iași.
 
 Șucu a vorbit deschis despre o realitate de bun simț – trebuie să oferi un produs mai bun ca să capeți o audiență mai mare și să ai parte de mai mulți bani pe piața de fotbal din Liga 1.
 

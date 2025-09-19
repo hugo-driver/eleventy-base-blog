@@ -1,11 +1,15 @@
 ---
 title: Ce merit nu i se recunoaște lui Iorgulescu
+description: "Actualul președinte al LPF a revoluționat antrenoratul în România prin aducerea de tehnicieni italieni în Liga 1"
 slug: meritul-lui-iorgulescu
 date_published: 2022-05-23T21:24:00.000Z
 date_updated: 2024-06-30T16:04:46.000Z
 tags: ["Antrenori", "LPF"]
-excerpt: Actualul președinte al LPF a revoluționat antrenoratul în România prin aducerea de tehnicieni italieni în Liga 1
+permalink: "meritul-lui-iorgulescu/index.html"
+cover: "./gino-iorgulescu-merite-nerecunoscute-liga-1.jpg"
 ---
+
+![Cătălin Tolontan](./gino-iorgulescu-merite-nerecunoscute-liga-1.jpg)
 
 Gino Iorgulescu va fi în continuare președintele LPF după ce cluburile au decis în unanimitate să-l voteze.
 
@@ -22,13 +26,17 @@ Contra, pentru că n-ar fi avut realizări în condițiile în care se puteau fa
 Din cele  22.400 de voturi, peste 20.000 sunt contra Iorgulescu.
 
 Adică aproximativ 90%.
-![Sondaj apreciere Gino Iorgulescu - bun sau rău pentru LPF?](__GHOST_URL__/content/images/2023/12/Sondaj-popularitate-Gino-Iorgulescu.png)
+
+![Sondaj apreciere Gino Iorgulescu - bun sau rău pentru LPF?](./sondaj-popularitate-gino-iorgulescu.jpg)
+
 De ce se întâmplă asta?
 
 În opinia mea, există cel puțin 3 rațiuni care influențează masiv alegerile oamenilor.
 
 1. **Lipsa de carismă a preșdintelui LPF**
+
 2. **Ignoranța unei părți a celor care votează**
+
 3. **Problemele personale ale președintelui LPF**
 
 Am să le explic pe fiecare în parte, fără a susține că acestea sunt singurele motive pentru care Iorgulescu este atât de rău văzut.
@@ -76,7 +84,9 @@ De exemplu, [un sondaj recent lansat de Gazetă](https://www.gsp.ro/fotbal/liga-
 Gazeta a întrebat referindu-se la situația de la CFR Cluj, dacă ardelenii sunt un model de urmat în Liga 1.
 
 35% dintre votanți (peste 7.000 de oameni) au considerat că modelul CFR ar trebui urmat indiferent de riscurile financiare asumate de clujeni pentru că trofeele sunt tot ce contează.
-![Este CFR Cluj un model de urmat?](__GHOST_URL__/content/images/2023/12/Modelul-CFR-Cluj-demn-de-urmat-sau-nu.png)
+
+![Este CFR Cluj un model de urmat?](./modelul-cfr-cluj-demn-de-urmat-sau-nu.jpg)
+
 ## 3. Problemele personale ale președintelui Iorgulescu
 
 După cum se știe în lumea celor interesați de fotbal și nu numai, fiul președintelui LPF a produs un accident de mașină care a dus la moartea unui tânăr care avea doi copii minori.
