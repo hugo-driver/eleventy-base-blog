@@ -1,11 +1,15 @@
 ---
 title: Cei mai buni analiști ai Ligii 1
+description: "Așa arată preferințele mele la ora actuală când vine vorba de personajele care analizează meciurile și evenimentele din Liga 1."
 slug: cei-mai-buni-analisti-liga1
 date_published: 2022-05-19T18:51:00.000Z
 date_updated: 2024-06-30T16:06:56.000Z
 tags: Presa sportivă
-excerpt: Așa arată preferințele mele la ora actuală când vine vorba de personajele care analizează meciurile și evenimentele din Liga 1.
+permalink: "cei-mai-buni-analisti-liga1/index.html"
+cover: "./cei-mai-buni-analisti-televiziuni-sport.jpg"
 ---
+
+![Ilie Dumitrescu și Ion Crăciunescu, doi dintre cei mai celebri analiști sportivi](./cei-mai-buni-analisti-televiziuni-sport.jpg)
 
 Pe lângă faptul că văd toate meciurile din Liga 1, am obiceiul să văd și multe dintre emisiunile de analiză ale acestora.
 
@@ -43,7 +47,7 @@ Inteligență care s-a văzut și în colaborarea cu Digi Sport indiferent că a
 
 Cel mai mult îmi place la el faptul că vorbește foarte concret despre joc. Asta nu-nseamnă un discurs excesiv de tehnic, ci un discurs care-i ajută pe cei care-l urmăresc să înțeleagă nuanțe importante ale jocurilor analizate.
 
-A-l urmări pe Zicu înseamnă aproape de fiecare dată să scapi de cea mai vânturată idee din studiourile televiziunilor de sport – „[meci slab, avem un fotbal slab, nu s-a jucat nimic](https://3surse.ro/de-ce-ar-trebui-sa-ti-placa-un-pic-mai-mult-fotbalul-nostru-mizerabil/)„.
+A-l urmări pe Zicu înseamnă aproape de fiecare dată să scapi de cea mai vânturată idee din studiourile televiziunilor de sport – "[meci slab, avem un fotbal slab, nu s-a jucat nimic](https://www.cameravar.ro/de-ce-liga1-e-campionat-bun/)".
 
 Cred că are potențial să fie un antrenor foarte bun, dar asta vom vedea în timp.
 
@@ -225,7 +229,7 @@ Asta este, nu mă bucură că-i produc această neplăcere, dar n-am ce face.
 
 Să ne înțelegem, nu cunosc cazuri în care oficialul vreunui club să fi întors mâna la spate vreunui director de televiziune ca să-l determine să-l invite.
 
-Și totuși, oamenii aceștia sunt atât de legați de interesul lor primordial încât ce spun pe la TV [reprezintă PR amestecat în jurnalism](__GHOST_URL__/gica-popescu-analisti-liga1-sfidare-realitate/).
+Și totuși, oamenii aceștia sunt atât de legați de interesul lor primordial încât ce spun pe la TV [reprezintă PR amestecat în jurnalism](https://www.cameravar.ro/gica-popescu-analisti-liga1-sfidare-realitate/).
 
 Oamenii n-au nicio vină, ei își cunosc prioritățile.
 
@@ -235,7 +239,7 @@ Excepția este Mihai Stoica, pe care-l urmăresc uneori și-n reluare, pe YouTub
 
 De ce?
 
-[Pentru că e Mihai Stoica](__GHOST_URL__/p/mihai-stoica).
+[Pentru că e Mihai Stoica](https://www.cameravar.ro/mihai-stoica).
 
 ### 5. Marius Șumudică (ex Digi Sport)
 
@@ -255,4 +259,4 @@ Dacă ești în așteptarea unui atac la adresa altora, Șumudică nu te va deza
 
 De asemenea, dacă ești interesat de ce contrate urmează să mai aibă, Șumudică nu te va dezamăgi.
 
-În fine, dacă ești genul de individ banal interesat doar de fotbal, posibil ca Șumudică să-ți facă [aceeași impresie pe care mi-o face și mie](__GHOST_URL__/p/sumudica).
+În fine, dacă ești genul de individ banal interesat doar de fotbal, posibil ca Șumudică să-ți facă [aceeași impresie pe care mi-o face și mie](https://www.cameravar.ro/sumudica).
