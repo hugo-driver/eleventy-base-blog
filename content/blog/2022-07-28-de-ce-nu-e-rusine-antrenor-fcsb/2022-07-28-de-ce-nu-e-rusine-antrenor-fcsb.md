@@ -4,8 +4,12 @@ slug: de-ce-nu-e-rusine-antrenor-fcsb
 date_published: 2022-07-28T13:53:00.000Z
 date_updated: 2024-02-10T07:17:12.000Z
 tags: ["FCSB", "Gigi Becali", "Antrenori"]
-excerpt: Dică nu are condiții ideale să-și facă meseria de antrenor la FCSB. Dar unde sunt acele condiții în fotbalul nostru?
+description: "Dică nu are condiții ideale să-și facă meseria de antrenor la FCSB. Dar unde sunt acele condiții în fotbalul nostru?"
+permalink: "de-ce-nu-e-rusine-antrenor-fcsb/index.html"
+cover: "./de-ce-nu-e-rusinos-antrenezi-la-becali.jpg"
 ---
+
+![Nicolae Dică în conferință de presă FCSB](./de-ce-nu-e-rusinos-antrenezi-la-becali.jpg)
 
 Panduru a spus la Orange Sport că Becali cumpără demnitatea antrenorilor atunci când îi angajează.
 

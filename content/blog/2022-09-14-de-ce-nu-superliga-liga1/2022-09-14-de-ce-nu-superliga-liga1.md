@@ -1,11 +1,16 @@
 ---
 title: De ce nu folosesc sintagma SuperLiga
+discription: "De ani buni insist că avem un campionat bun raportat la finanțarea sa, dar titulatura SuperLiga mi se pare exagerată"
 slug: de-ce-nu-superliga-liga1
 date_published: 2022-09-14T08:01:00.000Z
 date_updated: 2024-06-30T12:10:13.000Z
 tags: ["Presa sportivă", "LPF"]
-excerpt: De ani buni insist că avem un campionat bun raportat la finanțarea sa, dar titulatura SuperLiga mi se pare exagerată
+permalink: "de-ce-nu-superliga-liga1/index.html"
+cover: "./de-ce-denumirea-superliga-e-penibila.jpg"
 ---
+
+![Poster de promovare Superbet cu Săpunaru](./de-ce-denumirea-superliga-e-penibila.jpg)
+
 
 Înainte de acest sezon, Superbet a semnat un parteneriat cu LPF pentru schimbarea numelui competiției Liga 1 în SuperLiga.
 
@@ -48,8 +53,8 @@ Așa că, fără nicio ironie, bravo celor de la Superbet și felicitări LPF pe
 Aici voiam să ajung…
 
 Zilele trecute, Lucian Lipovan m-a întrebat de ce nu folosesc noul nume al primei ligi de fotbal - SuperLiga.
-![Dialog cu Lucian Lipovan despre motivul pentru care nu folosesc numele SuperLiga](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com-2Fpublic-2Fimages-2F5a72e4ad-e957-498b-b064-99b358d1566b_600x453.jpeg)
-Pe scurt, în ciuda faptului că sunt foarte probabil singurul ziarist care în ultimul deceniu a promovat intens ideea că [Liga 1 e un campionat bun](__GHOST_URL__/p/de-ce-liga1-e-campionat-bun), mi se pare aproape comică denumirea SuperLiga.
+
+Pe scurt, în ciuda faptului că sunt foarte probabil singurul ziarist care în ultimul deceniu a promovat intens ideea că [Liga 1 e un campionat bun](https://www.cmeravar.ro/de-ce-liga1-e-campionat-bun), mi se pare aproape comică denumirea SuperLiga.
 
 E prea mult din punctul meu de vedere.
 

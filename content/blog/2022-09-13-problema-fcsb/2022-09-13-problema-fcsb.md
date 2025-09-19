@@ -1,11 +1,15 @@
 ---
 title: FCSB nu are lot, nu are echipă și nu are timp
+description: "Lotul nu este lot, iar echipa nu este echipă în acest moment. Dică are nevoie de timp, adică exact ce nu-i oferă patronul."
 slug: problema-fcsb
 date_published: 2022-09-13T15:13:07.000Z
 date_updated: 2024-06-30T16:01:35.000Z
 tags: FCSB
-excerpt: Lotul nu este lot, iar echipa nu este echipă în acest moment. Dică are nevoie de timp, adică exact ce nu-i poate oferi patronul
+permalink: "problema-fcsb/index.html"
+cover: "./problema-lui-nicolae-dica-la-fcsb.jpg"
 ---
+
+![Nicolae Dică la antrenamentele FCSB](./problema-lui-nicolae-dica-la-fcsb.jpg)
 
 Am tot spus-o în emisiuni, dar n-am apucat să explic în detaliu.
 
@@ -54,8 +58,10 @@ Fotbaliștii nu mai sunt contributori la succesul echipei, ci văd echipa ca pe 
 Pe scurt, situația de față este alimentată 3 factori:
 
 1. **lipsa de valoare a unor jucători din lot** - automat asta se vede ușor în momentele în care echipa nu are măcar coeziune
-2. **lipsa de experiență reală a unor jucători din lot **- asta se vede inclusiv în incapacitatea de mobilizare a jucătorilor dincolo de meciurile cu miză europeană
-3. **lipsa de răbdare și de cunoaștere fotbalistică a patronului** - asta se vede în dezmățul transferistic în care se scaldă echipa după ce la începutul sezonului asigura pe toată lumea că lotul e complet. [Nimic nu se va schimba aici](__GHOST_URL__/p/de-ce-il-urasti-pe-becali).
+
+2. **lipsa de experiență reală a unor jucători din lot**- asta se vede inclusiv în incapacitatea de mobilizare a jucătorilor dincolo de meciurile cu miză europeană
+
+3. **lipsa de răbdare și de cunoaștere fotbalistică a patronului** - asta se vede în dezmățul transferistic în care se scaldă echipa după ce la începutul sezonului asigura pe toată lumea că lotul e complet. [Nimic nu se va schimba aici](https://www.cmeravar.ro/de-ce-il-urasti-pe-becali).
 
 ## Ce riscă FCSB în aceste condiții
 

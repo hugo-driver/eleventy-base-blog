@@ -1,11 +1,15 @@
 ---
 title: Despre relațiile ziariștilor cu oamenii din fotbal
+description: "Prieteniile ziariști - oameni de fotbal există, doar că majoritatea sunt false. Așa cum este uneori și presa făcută de respectivii jurnaliști."
 slug: relatii-ziaristi-oameni-din-fotbal
 date_published: 2022-06-24T14:07:00.000Z
 date_updated: 2023-12-26T16:13:04.000Z
 tags: Presa sportivă
-excerpt: Prieteniile ziariști - oameni de fotbal există, doar că majoritatea sunt false. Așa cum este uneori și presa făcută de respectivii jurnaliști. 
+permalink: "relatii-ziaristi-oameni-din-fotbal/index.html"
+cover: "./relatii-ziaristi-sportivi-oameni-de-fotbal.jpg"
 ---
+
+![Imagine in timpul emisiunii Digi Sport Matinal](./relatii-ziaristi-sportivi-oameni-de-fotbal.jpg)
 
 Americanii au chestia asta legată de bun simț.
 
@@ -134,7 +138,9 @@ Prin urmare, nu doar că n-am nici legătură anormală cu nimeni din fotbal, da
 Singurele momente în care discut în privat cu diverse persoane din fotbal sunt:
 
 - **când mă caută respectivii ca urmare a ceea ce am scris sau am vorbit la TV**
+
 - **în pauzele publicitare din timpul emisiunilor la care sunt invitat**
+
 - **când ne întâlnim întâmplător în diverse locuri – prin oraș, vacanțe etc.**
 
 Cam atât.
@@ -166,5 +172,3 @@ Posibil să am o zi mai proastă jurnalistic vorbind.
 Sau tu să ai o zi mai proastă, suporteristic vorbind.
 
 Asta-i tot.
-
-[Subscribe](#/portal/signup)
