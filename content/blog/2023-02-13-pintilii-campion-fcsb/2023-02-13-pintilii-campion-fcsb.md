@@ -1,11 +1,15 @@
 ---
 title: Ce ar însemna dacă FCSB va câștiga campionatul cu Pintilii antrenor
+description: S-ar confirma un adevăr vechi de când lumea - nu e nevoie de carnet și licențe ca să fii antrenor. Statul și FRF capturează birocratic această meserie de dragul controlului asupra orice mișcă
 slug: pintilii-campion-fcsb
 date_published: 2023-02-13T08:41:32.000Z
 date_updated: 2024-06-30T11:52:13.000Z
 tags: ["Antrenori", "FCSB", "FRF"]
-excerpt: S-ar confirma un adevăr vechi de când lumea - nu e nevoie de carnet și licențe ca să fii antrenor. Statul și FRF capturează birocratic această meserie de dragul controlului asupra orice mișcă
+permalink: "pintilii-campion-fcsb/index.html"
+cover: "./ce-ar-insemna-pintilii-campion-fcsb.jpg"
 ---
+
+![Cătălin Tolontan](./ce-ar-insemna-pintilii-campion-fcsb.jpg)
 
 După ce LPF l-a desemnat acum două etape antrenorul rundei și după ce FCSB a ajuns să conteze în lupta pentru titlu, te poți întreba asta.
 
@@ -17,7 +21,7 @@ De fiecare dată când Becali a numit un antrenor care nu era antrenor după sta
 
 Sigur, nu am amestecat aceste dorințe personale în munca mea.
 
-Ce am contestat eu a fost doar [ideea de-a aduce antrenori fără experiență la o echipă care are obiective înalte + jucători de crescut](__GHOST_URL__/pintilii-fcsb-avantaje-dezavantaje).
+Ce am contestat eu a fost doar [ideea de-a aduce antrenori fără experiență la o echipă care are obiective înalte + jucători de crescut](https://www.cameravar.ro/pintilii-fcsb-avantaje-dezavantaje).
 
 Deci am contestat strategia clubului.
 
@@ -31,7 +35,7 @@ Ci pentru că ceea ce face Becali reprezintă un atac asupra logicii fotbalului 
 
 Adică, într-un fel, m-am simțit eu atacat.
 
-[Am simțit că e atacată logica mea](__GHOST_URL__/fcsb-dezamagire).
+[Am simțit că e atacată logica mea](https://www.cameravar.ro/fcsb-dezamagire).
 
 Normal, m-a pufnit râsul de câte ori am avut astfel de idei, dar tot le-am avut. Ca și când contează ce-mi place și ce nu-mi place mie în raport cu realitatea.
 
@@ -106,7 +110,7 @@ E din fenomen, a jucat fotbal și înțelege anumite lucruri.
 
 Sigur, aproape toți antrenorii spun că e diferență între ce credeau că e meseria asta când jucau și ce a fost după ce s-au apucat să o presteze.
 
-[Dar tot ar trebui să existe libertatea cluburilor să aleagă](__GHOST_URL__/p/garantare-salarii-drepturi-tv-eroare).
+[Dar tot ar trebui să existe libertatea cluburilor să aleagă](https://www.cameravar.ro/garantare-salarii-drepturi-tv-eroare).
 
 Atenție la nuanță.
 
