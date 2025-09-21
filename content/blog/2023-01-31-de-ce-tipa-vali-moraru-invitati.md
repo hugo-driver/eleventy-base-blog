@@ -1,11 +1,15 @@
 ---
 title: De ce țipă Vali Moraru la unii invitați
+description: În mare, este vorba despre frustare. În mic, e vorba despre o reacție obișnuită dacă ții cont de întregul context
 slug: de-ce-tipa-vali-moraru-invitati
 date_published: 2023-01-31T09:12:54.000Z
 date_updated: 2024-06-30T11:53:02.000Z
 tags: Presa sportivă
-excerpt: În mare, este vorba despre frustare. În mic, e vorba despre o reacție obișnuită dacă ții cont de întregul context
+permalink: "de-ce-tipa-vali-moraru-invitati/index.html"
+cover: "./poveste-cu-tolontan-stefan-beldie.jpg"
 ---
+
+![Cătălin Tolontan](./poveste-cu-tolontan-stefan-beldie.jpg)
 
 Înainte de toate, două precizări.
 

@@ -1,13 +1,17 @@
 ---
 title: Avantajele și dezvantajele numirii lui Pintilii ca antrenor al FCSB
+description: Când vine vorba de numiri de antrenori, FCSB este un club de amatori. Prin urmare, au numit cel mai bun neprofesionist posibil - Pintilii
 slug: pintilii-fcsb-avantaje-dezavantaje
 date_published: 2022-12-01T13:15:45.000Z
 date_updated: 2024-06-30T11:55:38.000Z
 tags: ["FCSB", "Antrenori"]
-excerpt: Când vine vorba de numiri de antrenori, FCSB este un club de amatori. Prin urmare, au numit cel mai bun neprofesionist posibil - Pintilii
+permalink: "pintilii-fcsb-avantaje-dezavantaje/index.html"
+cover: "./mihai-pintilii-antrenor-FCSB-avantaje-dezavantaje.jpg"
 ---
 
-Inclusiv o parte dintre avantaje de mai jos sună ca dezvantaje, dar nu-i ușor să vezi ce-i bun într-o numire logică doar în [context becalian](__GHOST_URL__/de-ce-il-urasti-pe-becali).
+![Mihai Pintilii, un antrenor mai bun pentru FCSB decât poate demonstra teoretic că este](./mihai-pintilii-antrenor-FCSB-avantaje-dezavantaje.jpg)
+
+Inclusiv o parte dintre avantajele de mai jos sună ca dezvantaje, dar nu-i ușor să vezi ce-i bun într-o numire logică doar în [context becalian](https://www.cameravar.ro/de-ce-il-urasti-pe-becali).
 
 ## Dezvantajul 1: Pintilii este un risc major din cauza lipsei de pregătire și a experienței în antrenorat
 
@@ -49,7 +53,7 @@ Felicitări pentru familia reușită, ție și celor de la FCSB!
 
 Dacă vrea să se comporte ca un club mare în toate privințe care contează, FCSB ar trebui să aibă ca țintă atragerea de suporteri CSA Steaua înapoi lângă echipă.
 
-Acesta ar fi un reper sănătos pentru Becali și [Mihai Stoica](__GHOST_URL__/p/mihai-stoica) - să acționeze și să se comporte astfel încât oameni care-i disprețuiesc acum să simtă că ceva profund s-a schimbat acolo.
+Acesta ar fi un reper sănătos pentru Becali și [Mihai Stoica](https://www.cameravar.ro/mihai-stoica) - să acționeze și să se comporte astfel încât oameni care-i disprețuiesc acum să simtă că ceva profund s-a schimbat acolo.
 
 Știu, ceea ce spun eu pare să fie ceva absurd sau ceva imposibil.
 
@@ -65,7 +69,7 @@ Lucrurile sunt atât de jos din acest punct de vedere că orice pas în direcți
 
 ## Avantajul 1: Pintilii este adaptat la tot ce-nseamnă FCSB
 
-Personal, cred că [un antrenor străin rupt total de realitățile fotbalului nostru poate avea succes lejer dacă-i valoros](__GHOST_URL__/de-ce-selectioner-strain/).
+Personal, cred că [un antrenor străin rupt total de realitățile fotbalului nostru poate avea succes lejer dacă-i valoros](https://www.cameravar.ro/de-ce-selectioner-strain/).
 
 Dar Pintilii nu este un antrenor valoros pentru că, în mod real, nu a antrenat încă pe nimeni. De asemenea, variantele la care apelează Becali de obicei în ultima vreme nu fac parte din tagma celor cu CV.
 
@@ -111,6 +115,6 @@ Mereu vor exista oameni care, uneori pe bună dreptate, vor da mai mulți bani p
 
 Și mereu vor exista fani FCSB care nu vor vedea nicio problemă în numirea unui antrenor fără școală atât timp cât respectivul individ le inspiră lor ceva plăcut.
 
-Dacă ții cu altă echipă, acum te vei gândi că așa sunt majoritatea fanilor FCSB :)
+Dacă ții cu altă echipă, acum te vei gândi că așa sunt majoritatea fanilor FCSB.
 
 Din păcate, asta n-ar fi decât o încercare de-a-ți alina ușoara oftică legată de capacitatea acestui club de-a exista în ciuda tuturor sfidărilor la adresa fotbalului logic.

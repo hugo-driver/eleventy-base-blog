@@ -1,11 +1,15 @@
 ---
 title: Cum să te bucuri când un ziarist sportiv este dat afară
+description: Nu lăsa adevărul să strice o bucurie mare. Mai ales când e vorba de Mironică, Ioana Cosma și alții ca ei
 slug: concediere-ziaristi-sportivi-mironica-cosma
 date_published: 2023-01-21T09:10:43.000Z
 date_updated: 2024-06-30T11:54:00.000Z
 tags: Presa sportivă
-excerpt: Nu lăsa adevărul să strice o bucurie mare. Mai ales când e vorba de Mironică, Ioana Cosma și alții ca ei
+permalink: "concediere-ziaristi-sportivi-mironica-cosma/index.html"
+cover: "./demiteri-ziaristi-ioana-cosma-mihai-mironica.jpg"
 ---
+
+![Cătălin Tolontan](./demiteri-ziaristi-ioana-cosma-mihai-mironica.jpg)
 
 După ce ProArena a decis să renunțe la emisiunea Ora Exactă în sport, oamenii care lucrau acolo își vor vedea de treabă prin alte părți.
 
@@ -13,7 +17,7 @@ După ce ProArena a decis să renunțe la emisiunea Ora Exactă în sport, oamen
 
 Sau, pe corporatește, sau li s-au propus variante pe care aceștia nu le acceptă, așa că pleacă ei.
 
-[Ca om care a trecut prin situația asta](__GHOST_URL__/p/plecare-beldie-sport-ro), probabil că știu ce simt unii dintre ei.
+[Ca om care a trecut prin situația asta](https://www.cameravar.ro/plecare-beldie-sport-ro), probabil că știu ce simt unii dintre ei.
 
 Dar nu despre simțire este textul acesta.
 
@@ -45,7 +49,7 @@ Prin urmare, de ce ai avea această pretenție de la oamenii care doar urmăresc
 
 Dacă vrei să te bucuri cu adevărat de momentul concedierii unor ziariști sportivi, indiferent că se numesc Mironică sau Ioana Cosma sau Dan Ionescu sau mai știu eu cum, fii pe lângă subiect.
 
-[Bag-o pe aia cu banii de la Gigi Becali.](__GHOST_URL__/spaga-presa-sportiva)
+[Bag-o pe aia cu banii de la Gigi Becali.](https://www.cameravar.ro/spaga-presa-sportiva)
 
 Ignoră istoricul confruntărilor acestuia cu Mironică și bag-o pe aia cu "și-au luat suficientă telemea, bla-bla".
 
@@ -61,7 +65,7 @@ Cine naiba îi mai angajează pe ăștia?
 
 Așa cum ți-am spus în trecut, există puține locuri de muncă în domeniul presei sportive.
 
-[Mai ales dacă vrei să faci emisiuni.](__GHOST_URL__/emisiuni-beldie)
+[Mai ales dacă vrei să faci emisiuni.](https://www.cameravar.ro/emisiuni-beldie)
 
 Deci poți spera că vor rămâne pe margine.
 
