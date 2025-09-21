@@ -1,11 +1,15 @@
 ---
 title: De ce ar trebui să săruți de 18 ori pe zi tălpile destul de curate ale presei sportive
+description: Prin comparație cu presa generalistă sau cu majoritatea publicațiilor de nișă, site-urile de sport sunt adevărate oaze de jurnalism. Repet, prin comparație...
 slug: suprematia-presei-sportive
 date_published: 2023-04-07T07:56:05.000Z
 date_updated: 2024-06-30T11:42:34.000Z
 tags: ["Presa sportivă", "Suporteri"]
-excerpt: Prin comparație cu presa generalistă sau cu majoritatea publicațiilor de nișă, site-urile de sport sunt adevărate oaze de jurnalism. Repet, "prin comparație"...
+permalink: "suprematia-presei-sportive/index.html"
+cover: "./de-ce-presa-sportiva-merita-respect.jpg"
 ---
+
+![Imagine dintr-un podcast cu Cătălin Țepelin și Ovidiu Ioanițoaia](./de-ce-presa-sportiva-merita-respect.jpg)
 
 De ce de 18 ori pe zi?
 
@@ -121,7 +125,7 @@ Sau cum încearcă Gazeta să-ți spună din titlu ce trebuie să gândești des
 
 Hehehe, nu-ți place când vezi această alăturare - "presă sportivă" și "calitate".
 
-Simți nevoia să-mi spui că ăia de la Digi Sport sunt rapidiști, că Naum se bucură la înfrângerile Stelei, că Mironică are ceva cu Rapid, că [Vali Moraru țipă la Rotaru sau la Mititelu](__GHOST_URL__/p/de-ce-tipa-vali-moraru-invitati) etc.
+Simți nevoia să-mi spui că ăia de la Digi Sport sunt rapidiști, că Naum se bucură la înfrângerile Stelei, că Mironică are ceva cu Rapid, că [Vali Moraru țipă la Rotaru sau la Mititelu](https://www.cameravar.ro/de-ce-tipa-vali-moraru-invitati) etc.
 
 Și totuși, nu ai făcut exercițiul de-a compara ce produce / cum arată presa sportivă cu ce emană restul presei românești.
 
@@ -138,7 +142,7 @@ Să zicem că te interesează agricultura și citești presă agricolă.
 Liderul acesteia se numește [Agrointeligența](https://agrointel.ro), care există sub forma unui site cu un număr respectabil de vizitatori pentru o publicație online de nișă.
 
 Dacă intri pe site-ul lor, ghinion.
-![Primul ecran - Agrointeligența - reclamă mascată](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2Fcd004eff-2758-4b4f-b213-7c24c653e8f7_1000x454.png)
+
 Site-ul nu se deschide cu o informație clasică din domeniul agriculturii, ci cu un articol care aduce aminte de reclamele mascate.
 
 Doar aduce aminte pentru că masca e foarte, foarte discretă.
@@ -201,7 +205,7 @@ Articole de presă sunt articole de presă.
 
 Dacă simți o prietenie prea mare între ziaristul care scrie și personajul articolului, aproape sigur e doar o prietenie prea mare.
 
-Și ei au momente când [confundă presa cu activismul politic și statul de ziarist cu cel oengist](__GHOST_URL__/gazeta-penalty-la-coltul-scurt).
+Și ei au momente când [confundă presa cu activismul politic și statul de ziarist cu cel oengist](https://www.cameravar.ro/gazeta-penalty-la-coltul-scurt).
 
 Totuși, repet, nu ești păcălit că citești informații despre Steaua și, de fapt, ți se vinde un apartament în ultimul proiect rezidențial al familiei Becali.
 
@@ -213,7 +217,7 @@ Redacțiile de sport au ca țintă obținerea de audiență.
 
 Care chestiune nu înseamnă întotdeauna acte de jurnalism etic sau de calitate.
 
-Nu mai vorbesc despre [zoaiele acelea online numite "cross-uri"](__GHOST_URL__/continut-platit-site-uri-sport) în care o publicație obține trafic prin faptul că "știrile" sale sunt expuse pe site-uri cu care colaborează.
+Nu mai vorbesc despre [zoaiele acelea online numite "cross-uri"](https://www.cameravar.ro/continut-platit-site-uri-sport) în care o publicație obține trafic prin faptul că "știrile" sale sunt expuse pe site-uri cu care colaborează.
 
 Totuși, în mare, audiența în presa sportivă se obține în felul următor: focus pe fotbal și atenție maximă pentru echipele cu suporteri.
 

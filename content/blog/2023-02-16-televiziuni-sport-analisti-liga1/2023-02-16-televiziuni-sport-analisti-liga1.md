@@ -1,13 +1,17 @@
 ---
 title: De ce televiziunile de sport ar trebui să renunțe la analiștii "sub acoperire" (angajați ai cluburilor)
+description: Analiza Ligii 1 este viciată de analiștii care joacă rol dublu. Aceștia nu doar că nu sunt obiectivi, dar nici măcar n-au de ce să-și propună să fie
 slug: televiziuni-sport-analisti-liga1
 date_published: 2023-02-16T09:26:36.000Z
 date_updated: 2024-02-10T06:59:36.000Z
-tags: ["Presa sportivă", "Conducători de club"]
-excerpt: Analiza Ligii 1 este viciată de analiștii care joacă rol dublu. Aceștia nu doar că nu sunt obiectivi, dar nici măcar n-au de ce să-și propună să fie 
+tags: ["Presa sportivă", "Conducători de club"] 
+permalink: "televiziuni-sport-analisti-liga1/index.html"
+cover: "./televiziunile-de-sport-ar-trebui-sa-elimine-analistii-sub-acoperire.jpg"
 ---
 
-[După ce-am scris aici](__GHOST_URL__/de-ce-tipa-vali-moraru-invitati/), vei crede că-s lipsit de obiectivitate în această poveste.
+![Cătălin Tolontan](./televiziunile-de-sport-ar-trebui-sa-elimine-analistii-sub-acoperire.jpg)
+
+[După ce-am scris aici](https://www.cameravar.ro/de-ce-tipa-vali-moraru-invitati/), vei crede că-s lipsit de obiectivitate în această poveste.
 
 Am o veste pentru tine: am o obiectivitate limitată în absolut toate lucrurile pe care le spun / scriu.
 
@@ -85,7 +89,7 @@ Deci sunt ipocrit?
 
 Nu, nu sunt.
 
-Diferența este că [eu îmi dau silința să fiu obiectiv](__GHOST_URL__/relatii-ziaristi-oameni-din-fotbal) pentru că este una dintre puținele forme de valoare pe care le pot aduce în emisiune.
+Diferența este că [eu îmi dau silința să fiu obiectiv](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal) pentru că este una dintre puținele forme de valoare pe care le pot aduce în emisiune.
 
 Nu am fost fotbalist important, nu am experiență în administrarea vreunui club, nu am antrenat pe nimeni.
 

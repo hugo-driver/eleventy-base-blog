@@ -1,15 +1,20 @@
 ---
 title: De ce Gică Popescu și alți analiști ai Ligii 1 sfidează realitatea când vine vorba de arbitraje
+description: Cu cât o echipă are oficiali mai vocali, cu atât e mai probabil ca respectivul club să încerce să pună presiune pe arbitri. UTA a fost bătaie de joc a arbitrilor și abia etapa trecută a deschis gura
 slug: gica-popescu-analisti-liga1-sfidare-realitate
 date_published: 2023-03-05T17:03:25.000Z
 date_updated: 2024-06-30T11:49:53.000Z
 tags: ["Presa sportivă", "Arbitraje", "Conducători de club"]
-excerpt: Cu cât o echipă are oficiali mai vocali, cu atât e mai probabil ca respectivul club să încerce să pună presiune pe arbitri. UTA a fost bătaie de joc a arbitrilor și abia etapa trecută a deschis gura
+permalink: "gica-popescu-analisti-liga1-sfidare-realitate/index.html"
+cover: "./de-ce-nu-e-bine-angajati-cluburi-analisti-tv.jpg"
 ---
+
+![Gică Popescu la TV în calitate dublă de conducător de club și analist sub acoperire](./de-ce-nu-e-bine-angajati-cluburi-analisti-tv.jpg)
 
 Arbitrajele din Liga 1 sunt atât de slabe încât se produc două fenomene interesante:
 
 1. **VAR a devenit o unealtă controversată deși ar fi trebuit să ducă la lămurirea problemelor de arbitraj**
+
 2. **diverși analiști sub acoperire sau fără acoperire profită de asta pentru a fi incorecți de-o manieră oarecum mai greu sesizabilă**
 
 Problema legată de VAR am anticipat-o cu ceva timp înainte să avem parte de primele arbitraje de gen.
@@ -94,11 +99,11 @@ De ce face Popescu asta?
 
 Sunt măcar 5 motive:
 
-**1. Pentru că Farul vede în Rapid o rivală la locurile 2-3-4. **La fel o vede și pe Craiova, de aici și [dezamăgirea lui Popescu față de olteni](https://www.primasport.ro/formatia-care-vrea-titlul-il-dezamageste-pe-gica-popescu-e-stinsa-parca-nu-vrea-performanta-21033320). Care dezamăgire poate fi îndreptățită, doar că n-a fost exprimată întâmplător.
+**1. Pentru că Farul vede în Rapid o rivală la locurile 2-3-4.** La fel o vede și pe Craiova, de aici și [dezamăgirea lui Popescu față de olteni](https://www.primasport.ro/formatia-care-vrea-titlul-il-dezamageste-pe-gica-popescu-e-stinsa-parca-nu-vrea-performanta-21033320). Care dezamăgire poate fi îndreptățită, doar că n-a fost exprimată întâmplător.
 
-**2. Pentru că Hagi pune presiune pe oamenii din club să aibă poziții publice care să apere clubul. **Chiar a făcut o criză de nervi la un moment dat că ai lui nu fac suficient scandal pe anumite teme.
+**2. Pentru că Hagi pune presiune pe oamenii din club să aibă poziții publice care să apere clubul.** Chiar a făcut o criză de nervi la un moment dat că ai lui nu fac suficient scandal pe anumite teme.
 
-**3. Pentru că Popescu este angajat la Farul **și e logic să servească interesele clubului atunci când i se oferă ocazia. Asta nu e o problemă, problemă e doar că televiziunile își scad credibilitatea oferind contracte unor oameni care nu au interesul să fie obiectivi în ceea ce spun.
+**3. Pentru că Popescu este angajat la Farul** și e logic să servească interesele clubului atunci când i se oferă ocazia. Asta nu e o problemă, problemă e doar că televiziunile își scad credibilitatea oferind contracte unor oameni care nu au interesul să fie obiectivi în ceea ce spun.
 
 **4. Pentru că o parte a publicului tinde să țină partea celor care reacționează emoțional și folosesc expresii tari - "Hoție!", "Tâlhărie!".** Nu contează că realitatea concretă, explicată și mai sus, arată că aseară Rapid n-a fost avantajată. Contează ce poți induce prin ceea ce spui. Iar dacă prin absurd apare o situație în care tu ești în mod real dezavantajat, poți urla că este a nu știu câta oară când se întâmplă, făcând referire la un meci precum cel de aseară. Când nu s-a întâmplat nimic în favoarea rivalei tale, dar care rămâne în mintea oamenilor ca o furăciune în favoarea Rapidului.
 
@@ -106,7 +111,7 @@ Sunt măcar 5 motive:
 
 ## De ce nu-i fac jocul lui Rotaru în privința analiștilor care-s angajați ai cluburilor
 
-Cineva mi-a zis azi că-i fac jocul lui Mihai Rotaru cu [poziția pe care o am față de contractele de analiști pe care le au diverși angajați ai cluburilor din Liga 1](__GHOST_URL__/televiziuni-sport-analisti-liga1).
+Cineva mi-a zis azi că-i fac jocul lui Mihai Rotaru cu [poziția pe care o am față de contractele de analiști pe care le au diverși angajați ai cluburilor din Liga 1](https://www.cameravar.ro/televiziuni-sport-analisti-liga1).
 
 E fals.
 
@@ -130,10 +135,12 @@ Pe scurt, cred asemeni multora că sunt slabe.
 
 Doar că din acest punct, mă despart de majoritatea celor care comentează prestațiile arbitrilor.
 
-Concret, deși nu exclud posibilitatea ca unii dintre ei să fie corupți, cred că cele mai multe arbitraje slabe sunt efectul a două lucruri:
+Concret, deși nu exclud posibilitatea ca unii dintre ei să fie corupți, cred că cele mai multe arbitraje slabe sunt efectul a trei lucruri:
 
 - **unii arbitri sunt lipsiți de personalitate și iau decizii în funcție de cât de puternice / influente sunt cluburile pe care le arbitrează**
+
 - **unii arbitri sunt lipsiți de personalitate și sunt ușor intimidați de combinații de genul public agresiv + jucători care știu să pună presiune + bănci tehnice guralive**
+
 - **unii arbitri sunt slabi pur și simplu, iar asta se vede în haosul deciziilor pe care le iau**
 
 Prin urmare, părerea mea este că nivelul scăzut a multor arbitraje din Liga 1 ține mai ales de această personalitate scăzută, apoi de lipsa de valoare și, în final, de orice altceva.

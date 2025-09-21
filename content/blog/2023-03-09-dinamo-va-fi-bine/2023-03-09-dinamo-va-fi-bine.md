@@ -1,11 +1,15 @@
 ---
 title: De ce cred că Dinamo va fi bine după schimbarea acționariatului
+descriptiont: Cel mai important lucru pentru Dinamo este să-și asigure existența. Să nu dispară. Fără această condiție, totul este inutil. Inclusiv statutul de suporter al lui Dinamo
 slug: dinamo-va-fi-bine
 date_published: 2023-03-09T09:52:43.000Z
 date_updated: 2024-06-30T11:48:40.000Z
 tags: Dinamo
-excerpt: Cel mai important lucru pentru Dinamo este să-și asigure existența. Să nu dispară. Fără această condiție, totul este inutil. Inclusiv statutul de suporter al lui Dinamo
+permalink: "dinamo-va-fi-bine/index.html"
+cover: "./de-ce-voicu-si-nicolescu-sunt-subestimati.jpg"
 ---
+
+![Eugen Voicu va fi unul dintre salvatorii reali ai lui Dinamo](./de-ce-voicu-si-nicolescu-sunt-subestimati.jpg)
 
 După ce Eugen Voicu și Andrei Nicolescu au preluat controlul la Dinamo, au apărut tot felul de reacții.
 
@@ -31,7 +35,7 @@ La fel e și cu unii dintre fanii lui Dinamo - deși știu anumite chestiuni, nu
 
 Sau ce știu amestecă cu ce nu știu.
 
-Nu c-ar avea vreo datorie să știe, [cum e cazul ziariștilor](__GHOST_URL__/de-ce-tipa-vali-moraru-invitati/), de exemplu.
+Nu c-ar avea vreo datorie să știe, [cum e cazul ziariștilor](https://www.cameravar.ro/de-ce-tipa-vali-moraru-invitati/), de exemplu.
 
 Doar că soarta clubului depinde de ei și de susținerea lor așa cum depinde într-un final soarta tuturor cluburilor.
 
@@ -59,7 +63,7 @@ Care e uneori asemănătoare cu concepție despre viață, bani și fotbal a uno
 
 Că și ei sunt oameni.
 
-[Era să zic că și ei sunt suporteri](__GHOST_URL__/relatii-ziaristi-oameni-din-fotbal), dar nu vreau să fiu răutăcios cu mine însumi.
+[Era să zic că și ei sunt suporteri](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal), dar nu vreau să fiu răutăcios cu mine însumi.
 
 În fine, mulți dintre cei interesați de fotbal - suporteri, ziariști, jucători, antrenori și oameni din executivul cluburilor cred că datoria unui patron este să investescă.
 
@@ -67,7 +71,7 @@ Să bage bani.
 
 Sigur, faptul că bagi bani nu este mereu suficient.
 
-Ar trebui să bagi bani, să obții rezultate, să premiezi bine pe toată lumea, să oferi satisfacții inclusiv unor [influensării de peluză îndrăgostiți de puterea pe care o au](__GHOST_URL__/fani-nocivi-petrolul) și, la final, să pierzi un pic.
+Ar trebui să bagi bani, să obții rezultate, să premiezi bine pe toată lumea, să oferi satisfacții inclusiv unor [influensării de peluză îndrăgostiți de puterea pe care o au](https://www.cameravar.ro/fani-nocivi-petrolul) și, la final, să pierzi un pic.
 
 Nu mult.
 

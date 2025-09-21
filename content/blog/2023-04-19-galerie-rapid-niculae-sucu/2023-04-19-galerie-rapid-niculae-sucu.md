@@ -1,11 +1,15 @@
 ---
 title: Liderii galeriei Rapidului vor doar capul lui Daniel Niculae. Mutu e victimă colaterală
+description: Doar că Șucu nu pare intimidat. Nici Angelescu nu era slab în relație cu suporterii, dar acum poziția lor este și mai clară
 slug: galerie-rapid-niculae-sucu
 date_published: 2023-04-19T18:10:41.000Z
 date_updated: 2024-06-30T11:41:53.000Z
 tags: ["Rapid", "Suporteri"]
-excerpt: Doar că Șucu nu pare intimidat. Nici Angelescu nu era slab în relație cu suporterii, dar acum poziția lor este și mai clară
+permalink: "galerie-rapid-niculae-sucu/index.html"
+cover: "./conflictul-danie-niculae-galeria-rapidului.jpg"
 ---
+
+![Dan Șucu, aniel Niculae și Victor Angelescu în tribuna stadionului Giulești](./conflictul-danie-niculae-galeria-rapidului.jpg)
 
 Mai ții minte când Rapid a promovat și Nicuale a decis ca echipa să se țină de programul de dinainte stabilit în loc să petreacă la stadion cu suporterii?
 
@@ -25,7 +29,7 @@ Cineva a plătit.
 
 Doar că unii dintre oamenii influenți din galerii simt o nevoie uriașă să conteze dincolo de rolul lor.
 
-[Am mai scris despre asta cu referire la Petrolul.](__GHOST_URL__/fani-nocivi-petrolul)
+[Am mai scris despre asta cu referire la Petrolul.](https://www.cameravar.ro/fani-nocivi-petrolul)
 
 Și cu referire la Dinamo.
 

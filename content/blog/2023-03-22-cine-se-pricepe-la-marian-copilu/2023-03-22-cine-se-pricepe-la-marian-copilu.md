@@ -1,11 +1,15 @@
 ---
 title: Cine se pricepe la Marian Copilu?
+description: Dacă m-aș pricepe, aș ști cine-i finanțează venirea la Petrolul. Adică la un club cu datorii de peste 2 Mil. Euro
 slug: cine-se-pricepe-la-marian-copilu
 date_published: 2023-03-22T13:53:37.000Z
 date_updated: 2024-02-10T07:11:32.000Z
 tags: ["Petrolul", "Suporteri"]
-excerpt: Dacă m-aș pricepe, aș ști cine-i finanțează venirea la Petrolul. Adică la un club cu datorii de peste 2 Mil. Euro
+permalink: "cine-se-pricepe-la-marian-copilu/index.html"
+cover: "./enigma-marian-copilu-la-petrolul.jpg"
 ---
+
+![Marian Copilu pozând ca un elev de clasa a II-a, cu stilou și caiet pe pupitrul din fața sa](./enigma-marian-copilu-la-petrolul.jpg)
 
 Așa cum există Adidas și adidași, așa există Marian Copilu și mariancopilu. Adică un om care formează de unul singur o categorie de conducător de club.
 
@@ -21,7 +25,7 @@ Nu știu absolut nimic despre acest om deși acționează la un nivel înalt în
 
 Stai liniștit, nu voi începe să-i dedic ode precum o serie de foști colaboratori de-ai săi, dar trebuie să remarc ceva: oameni cu profil profund diferit îl apreciază dincolo de obișnuit.
 
-De exemplu, [Șumudică](__GHOST_URL__/sumudica/) și Edward Iordănescu.
+De exemplu, [Șumudică](https://www.cameravar.ro/sumudica/) și Edward Iordănescu.
 
 Dacă erau doar Șumudică și Dumitru Dragomir, râdeam și râdeam.
 
@@ -62,7 +66,7 @@ Prin urmare, mai degrabă e prima variantă - adică mai sunt și alții care vi
 
 Alături de Rapid și parțial Dinamo, Petrolul este cealaltă echipă care se poate mândri că poate fi controlată de un număr redus de suporteri până la limita dezastrului și chiar dincolo de această limită.
 
-Am mai scris despre asta când am vorbit despre modul în care [câțiva fani influenți pot decide lejer ce se-ntâmplă cu echipa](__GHOST_URL__/fani-nocivi-petrolul/) pe care susțin că o iubesc.
+Am mai scris despre asta când am vorbit despre modul în care [câțiva fani influenți pot decide lejer ce se-ntâmplă cu echipa](https://www.cameravar.ro/fani-nocivi-petrolul/) pe care susțin că o iubesc.
 
 Știu, știu, există în presă și nu numai reflexul ca atunci când vorbești despre galerii să spui lucruri de genul “eu respect galeria cutare, dar de data asta…” sau “Suporterii aceștia sunt admirabili, dar bla-bla”.
 

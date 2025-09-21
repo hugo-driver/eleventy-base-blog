@@ -1,13 +1,24 @@
 ---
 title: Sergi Lopez - ghid de înțelegere a personajului
+description: Un fan al Stelei este cel mai important influencer neafiliat clubului printre suporterii echipei patronate de Gigi Becali
 slug: sergi-lopez
 date_published: 2023-05-25T16:44:42.000Z
 date_updated: 2024-06-30T11:40:14.000Z
 tags: ["Suporteri", "FCSB", "Presa sportivă"]
-excerpt: Un fan al Stelei este cel mai important influencer neafiliat clubului printre suporterii echipei patronate de Gigi Becali
+permalink: "sergi-lopez/index.html"
+cover: "./sergi-lopez-fan-fcsb-steaua-ghid-de-intelegere-a-personajului.jpg"
 ---
 
-Sergi Lopez este un fan al Stelei care scrie pe Facebook în principal despre zbaterile echipei favorite.
+![Sergi Lopez și unul dintre fanii FCSB - pamflet după Pisica albă, pisica neagră](./sergi-lopez-fan-fcsb-steaua-ghid-de-intelegere-a-personajului.jpg)
+
+
+Imaginea de mai sus e o metaforă a unei discuții dintre Sergi Lopez și unul dintre fanii FCSB:
+
+>"Cred că este anul nostru într-un mod diferit de ultimii 6 ani. Sau nu. Mai vedem… Fără înjurături pentru ziariștii rapidiști că moderez comentariile. Ahaha, glumesc!"
+
+Dar cine este Sergi Lopez?
+
+Sergi Lopez este un fan al Stelei [care scrie pe Facebook](https://www.facebook.com/kala.snikov.77) în principal despre zbaterile echipei favorite.
 
 Anterior, activa cu numele Kalashnikov, iar notoriteatea printre fanii steliști este una impresionantă având în vedere că este construită pe cont propriu, fără să aibă în spate o televiziune sau un site de sport.
 
@@ -71,7 +82,7 @@ Prin urmare, o bună parte dintre cei care-l citesc pe Sergi Lopez se pot identi
 
 Sergi este suporter, cei care-l citesc sunt suporteri, ziariștii sunt niște intermediari plătiți între fapte și public.
 
-De asemenea, spre deosebire de mine și alții din presa sportivă [care ne chinuim să ne apărăm obiectivitatea reală](__GHOST_URL__/relatii-ziaristi-oameni-din-fotbal) sau obiectivitatea simulată, Sergi Lopez nu are nevoie de așa ceva.
+De asemenea, spre deosebire de mine și alții din presa sportivă [care ne chinuim să ne apărăm obiectivitatea reală](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal) sau obiectivitatea simulată, Sergi Lopez nu are nevoie de așa ceva.
 
 Nu pentru că n-ar putea fi obiectiv.
 

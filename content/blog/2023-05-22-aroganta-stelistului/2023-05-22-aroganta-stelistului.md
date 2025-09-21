@@ -1,11 +1,16 @@
 ---
 title: Aroganța stelistului
+description: O bună parte a celor care susțin echipa lui Becali au impresia că sezonul actual este unul ratat. Ar putea avea dreptate, dar n-au
 slug: aroganta-stelistului
 date_published: 2023-05-22T06:45:19.000Z
 date_updated: 2024-06-30T11:41:29.000Z
 tags: ["Suporteri", "FCSB"]
-excerpt: O bună parte a celor care susțin echipa lui Becali au impresia că sezonul actual este unul ratat. Ar putea avea dreptate, dar n-au
+permalink: "aroganta-stelistului/index.html"
+cover: "./fanii-FCSB-nu-stiu-sa-si-aprecieze-echipa-cu-adevara.jpg"
 ---
+
+![Darius Olaru, căpitanul FCSB](./fanii-FCSB-nu-stiu-sa-si-aprecieze-echipa-cu-adevara.jpg)
+
 
 Înainte de orice, câteva cuvinte despre mentalitatea multora dintre suporterii echipelor mari.
 
@@ -41,7 +46,7 @@ De parcă acest sezon ar fi unul ratat.
 
 Sau dacă ar considera eșec faptul că patronul nu aduce un antrenor pe măsura pretențiilor clubului.
 
-Sau dacă ar considera eșec că deși clubul îl are pe [Mihai Stoica](__GHOST_URL__/mihai-stoica), nu-l folosește pe măsura capacităților sale.
+Sau dacă ar considera eșec că deși clubul îl are pe [Mihai Stoica](https://www.cameravar.ro/mihai-stoica), nu-l folosește pe măsura capacităților sale.
 
 Doar că rațiunea pentru care cei mai mulți au impresia că acest sezon a fost ratat ține de faptul că echipa lor n-a câștigat campionatul.
 
