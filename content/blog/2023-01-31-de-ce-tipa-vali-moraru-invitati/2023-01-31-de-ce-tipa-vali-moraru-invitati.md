@@ -6,10 +6,10 @@ date_published: 2023-01-31T09:12:54.000Z
 date_updated: 2024-06-30T11:53:02.000Z
 tags: Presa sportivă
 permalink: "de-ce-tipa-vali-moraru-invitati/index.html"
-cover: "./poveste-cu-tolontan-stefan-beldie.jpg"
+cover: "./de-ce-tipa-vali-moraru-in-emisiuni.jpg"
 ---
 
-![Cătălin Tolontan](./poveste-cu-tolontan-stefan-beldie.jpg)
+![Vali Moraru, într-un moment de liniște ca moderator la Digi Sport](./de-ce-tipa-vali-moraru-in-emisiuni.jpg)
 
 Înainte de toate, două precizări.
 
@@ -193,7 +193,7 @@ Reacțiile lui au legătură cu multe lucruri, nu doar cu felul în care-i perce
 
 E vorba și de lucruri care n-au legătură cu fotbalul, ci cu viața sa în general. Cu experiențele sale, cu toate acele dispute în care a fost implicat și chiar cu ceea ce-l face să fie supraviețuitorul suprem din fotbalul nostru.
 
-[Mult mai supraviețuitor chiar și decât Mihai Stoica](__GHOST_URL__/mihai-stoica).
+[Mult mai supraviețuitor chiar și decât Mihai Stoica](https://www.cameravar.ro/mihai-stoica).
 
 ## Apropo, nu-ți închipui că eu n-am frustrările mele…
 
@@ -205,13 +205,13 @@ Iar dacă n-a fost clar și simți o ușoară frustrare, e foarte bine.
 
 Poate asta te va face să nu mai pierzi timpul cu mine și să progresezi - adică să-l citești pe altul care e mai bun.
 
-Și dacă faci asta, probabil că mă vei scoate ușor din sărite :)
+Și dacă faci asta, probabil că mă vei scoate ușor din sărite.
 
 Pentru că la rândul meu am diverse frustrări întemeiate sau nu.
 
 De exemplu, mi se pare că sunt un invitat mult mai bun decât alții care au un statut superior.
 
-Ca dovadă, în ultima emisiune de la DigiSport, am insistat că [televiziunile greșesc atunci când aduc drept analiști oameni care-s angajați ai unor cluburi](__GHOST_URL__/televiziuni-sport-analisti-liga1).
+Ca dovadă, în ultima emisiune de la DigiSport, am insistat că [televiziunile greșesc atunci când aduc drept analiști oameni care-s angajați ai unor cluburi](https://www.cameravar.ro/televiziuni-sport-analisti-liga1).
 
 Că aceștia nu sunt obiectivi (spre deosebire de mine, bineînțeles).
 
