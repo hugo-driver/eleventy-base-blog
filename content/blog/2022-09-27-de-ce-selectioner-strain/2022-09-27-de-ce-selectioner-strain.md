@@ -1,11 +1,15 @@
 ---
 title: De ce avem nevoie de un selecționer străin
+description: "Problema noastră nu este că am involuat fotbalistic, ci că ne dezvoltăm într-un ritm foarte lent în comparație cu ceilalți. Un selecționer străin ne-ar mișca mai rapid."
 slug: de-ce-selectioner-strain
 date_published: 2022-09-27T14:59:44.000Z
 date_updated: 2024-07-03T03:47:21.000Z
 tags: ["Antrenori", "Echipa națională", "FRF"]
-excerpt: Problema noastră nu este că am involuat fotbalistic, ci că ne dezvoltăm într-un ritm foarte lent în comparație cu ceilalți. Un selecționer străin ne-ar mișca mai rapid
+permalink: "de-ce-selectioner-strain/index.html"
+cover: "./de-ce-avem-nevoie-selectioner-strain-fotbal-romania.jpg"
 ---
+
+![Mircea Lucescu ar putea fi un selecționer străin de fotbalul nostru](./de-ce-avem-nevoie-selectioner-strain-fotbal-romania.jpg)
 
 FRF a anunțat că va continua contractul cu Iordănescu, deși înțelegerea îi permitea lui Răzvan Burleanu să-l dea afară.
 
@@ -73,7 +77,7 @@ Noaptea minții.
 
 Pe acest considerent n-ar mai trebui să numim români, c-am avut zeci de încercări și cu vreo câteva excepții, am dus-o din eșec în eșec.
 
-1. **“Nu știe fotbalul românesc, i-ar lua prea mult să se adapteze”.**
+2. **“Nu știe fotbalul românesc, i-ar lua prea mult să se adapteze”.**
 
 Nu trebuie să știe fotbalul românesc, trebuie să știe fotbal.
 
@@ -85,7 +89,7 @@ Așa cum spuneam mai sus, acest lucru nu este o deficiență, ci un avantaj.
 
 Problema nu este că nu înțeleg alții că suntem noi speciali, problema este că nu înțelegem noi să ne dezvoltăm capacitățile care aduc succesul altor selecționate.
 
-1. **“Avem și noi antrenorii noștri, care sunt foarte buni”.**
+3. **“Avem și noi antrenorii noștri, care sunt foarte buni”.**
 
 Această afirmație dă impresia că România este un izvor de talente în antrenorat.
 
@@ -101,7 +105,7 @@ Mai mult, Lucescu, Boloni, Olăroiu sunt foarte puțin antrenori români. Expune
 
 În fine, alegerea unui străin implică faptul că vei avea mai multe variante decât îți va putea oferi fotbalul nostru. Deci nu doar variante mai bune, dar și mai multe.
 
-1. **“Nu avem bani să plătim un antrenor străin”**
+4. **“Nu avem bani să plătim un antrenor străin”**
 
 Oho, îmi place acest argument.
 
@@ -115,7 +119,7 @@ Sigur, nu va fi ieftin.
 
 Totuși, e mai scump să nu te califici, mult mai scump.
 
-1. **“Poți să-l aduci și pe Mourinho, nu avem valoare”**
+5. **“Poți să-l aduci și pe Mourinho, nu avem valoare”**
 
 În sfârșit, un argument care se leagă de ceva real.
 
@@ -131,8 +135,6 @@ S-a întâmplat asta și la Rădoi, s-a întâmplat inclusiv în acest mandat al
 
 Deci un soi de potențial există și poate că un selecționer străin de mentalitățile noastre va putea să-l pună mai bine în valoare.
 
-**PS**: când spun c-ar fi bine să aducem un antrenor străin, poate să pară c-aș contrazice oarecum ce-am spus când m-am pronunțat [împotriva ideii de-a naturaliza fotbaliști pentru națională](__GHOST_URL__/p/naturalizare-fotbalisti-nationala-romaniei).
+**PS**: când spun c-ar fi bine să aducem un antrenor străin, poate să pară c-aș contrazice oarecum ce-am spus când m-am pronunțat [împotriva ideii de-a naturaliza fotbaliști pentru națională](https://www.cameravar.ro/naturalizare-fotbalisti-nationala-romaniei).
 
 Dacă tu crezi asta, recitește cele două texte și te vei lămuri de diferențe.
-
-[Subscribe](#/portal/signup)

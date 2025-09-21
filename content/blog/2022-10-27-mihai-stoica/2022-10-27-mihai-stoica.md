@@ -1,11 +1,15 @@
 ---
 title: Mihai Stoica - ghid de înțelegere a personajului MM
+description: Mihai Stoica (MM) este în acest moment unul dintre cele mai greu definibile personaje din fotbalul românesc.
 slug: mihai-stoica
 date_published: 2022-10-27T07:24:24.000Z
 date_updated: 2024-06-30T12:00:22.000Z
 tags: ["FCSB", "Gigi Becali"]
-excerpt: Mihai Stoica (MM) este în acest moment unul dintre cele mai greu definibile personaje din fotbalul românesc
+permalink: "mihai-stoica/index.html"
+cover: "./mihai-stoica-ghid-de-intelegere-a-personajului.jpg"
 ---
+
+![Mihai Stoica în treningul galben al FCSB, haina cea mai aproape de sufletul său](./mihai-stoica-ghid-de-intelegere-a-personajului.jpg)
 
 Este manager general la FCSB?
 
@@ -19,7 +23,7 @@ Mai degrabă este bucăți din toate acestea într-o încercare continuă de-a s
 
 Ca manager, există mai ales atunci când ceea ce ar vrea el să facă se potrivește cu ceea ce vrea patronul să facă.
 
-Ca analist la Orange Sport, limitele sale sunt date tocmai de [conflictul de interese ](__GHOST_URL__/televiziuni-sport-analisti-liga1/)dintre statul de angajat al unui club și teoretica imparțialitate a unui invitat de gen.
+Ca analist la Orange Sport, limitele sale sunt date tocmai de [conflictul de interese ](https://www.cameravar.ro/televiziuni-sport-analisti-liga1/)dintre statul de angajat al unui club și teoretica imparțialitate a unui invitat de gen.
 
 Ca prieten numit al patronului Becali, își drămuiește libertățile din relație. Adică știe că nu este vorba de prietenie, ci de un soi de dependență financiară. Ca anagajat clasic, asta n-ar fi o problemă, dar Stoica nu este un anajat clasic.
 
@@ -36,8 +40,6 @@ Hehehe, nu citești astfel de aprecieri prin presă, este?
 Nicio problemă, nu mi-am propus nici să ne împrietenim, nici să îți fac pe plac.
 
 Ci doar să scriu ce cred.
-
-[Abonează-te acum la CameraVAR](#/portal/signup)
 
 Apropo de prietenie și făcut pe plac...
 
@@ -63,7 +65,7 @@ Becali deține puterea prin bani și o folosește inclusiv prin amestecul de apr
 > 
 > Eu am spus că e cel mai bun conducător, cel mai bun psiholog, am vorbit la superlativ de el. Singurul lucru pe care l-am spus a fost că nu are darul ăsta, adică fler la jucători. Nu e o jignire asta". (Becali, ProArena, 2022)
 
-Relația asta arată oarecum ca relația dintre un soț abuziv și o soție casnică. El aduce banii și bătaia în casă, ea este victima care știe să facă o grămadă de lucruri, dar asta contează prea puțin pentru [cel care trăiește doar după propriile reguli](__GHOST_URL__/p/de-ce-il-urasti-pe-becali).
+Relația asta arată oarecum ca relația dintre un soț abuziv și o soție casnică. El aduce banii și bătaia în casă, ea este victima care știe să facă o grămadă de lucruri, dar asta contează prea puțin pentru [cel care trăiește doar după propriile reguli](https://www.cameravar.ro/de-ce-il-urasti-pe-becali).
 
 ## De ce este greu pentru Mihai Stoica să viețuiască alături de Becali
 

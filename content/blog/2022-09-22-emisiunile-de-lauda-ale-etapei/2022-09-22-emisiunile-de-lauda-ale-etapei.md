@@ -1,13 +1,23 @@
 ---
 title: Vor apărea emisiunile de laudă ale etapei?
+description: "Noul contract pentru vânzarea drepturilor TV ale Ligii 1 ar putea să includă prevederi neobișnuite pentru meseria de ziarist."
 slug: emisiunile-de-lauda-ale-etapei
 date_published: 2022-09-22T14:28:15.000Z
 date_updated: 2024-06-30T12:08:03.000Z
 tags: ["Presa sportivă", "LPF"]
-excerpt: Noul contract pentru vânzarea drepturilor TV ale Ligii 1 ar putea să includă prevederi neobișnuite pentru meseria de ziarist
+permalink: "emisiunile-de-lauda-ale-etapei/index.html"
+cover: "./presiune-televiziuni-sport-emisiuni-lauda-liga-1.jpg"
 ---
 
-Gazeta scrie despre [o prevedere oarecum neașteptată](https://www.gsp.ro/international/campionate/cenzura-in-spania-sefii-la-liga-675151.html) în contractul de vânzare a drepturilor TV ale Primera Division pentru piața din Spania.
+![Decebal Rădulescu și Ilie Dumitrescu comentând Liga 1 din studioul prietenos cu fotbalul al Digi Sport](./presiune-televiziuni-sport-emisiuni-lauda-liga-1.jpg)
+
+Imaginează-ți-l pe Decebal Rădulescu începând un comentariu legat de FCSB astfel:
+
+>"Aș remarca jocul excelent făcut de-a lungul sezonului de FCSB. Apoi, aș vrea să remarc și cât de bine se lucreză la nivel de management. În fine, cu așa suporteri, e firesc să-ți dai silința. Bravo lor!".
+
+E posibil?
+
+E posibil pentru că Gazeta scrie despre [o prevedere oarecum neașteptată](https://www.gsp.ro/international/campionate/cenzura-in-spania-sefii-la-liga-675151.html) în contractul de vânzare a drepturilor TV ale Primera Division pentru piața din Spania.
 
 Echivalentul iberic al LPF, La Liga, dorește ca meciurile din campionat să fie comentate de o manieră pozitivă.
 
@@ -39,11 +49,11 @@ Ca aceste lucruri să se întâmple, competiția chiar are nevoie de o imagine b
 
 ## De ce este foarte importantă prezența spectatorilor pe stadion
 
-De câțiva ani, eu insist asupra faptului că cel mai important obiectiv al unui club din Liga 1 ar fi [să crească prezența spectatorilor pe stadion](__GHOST_URL__/p/cel-mai-important-obiectiv-liga1).
+De câțiva ani, eu insist asupra faptului că cel mai important obiectiv al unui club din Liga 1 ar fi [să crească prezența spectatorilor pe stadion](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1).
 
 De ce?
 
-E o poveste mai lungă care implică inclusiv acceptarea ideii că pentru specificul fotbalului nostru și al pieței TV / cablu, acest contract este [o binecuvântare și o vulnerabilitate în același timp](__GHOST_URL__/p/pericolul-contractului-drepturi-tv-liga1).
+E o poveste mai lungă care implică inclusiv acceptarea ideii că pentru specificul fotbalului nostru și al pieței TV / cablu, acest contract este [o binecuvântare și o vulnerabilitate în același timp](https://www.cameravar.ro/pericolul-contractului-drepturi-tv-liga1).
 
 Totuși, ce e important de știut legat de ideea creșterii numărului de spectatori în tribune este faptul că este genul de obiectiv a cărui îndeplinire implică aproape întotdeauna atingerea și altor obiective intermediare sănătoase.
 
@@ -122,7 +132,7 @@ Așa că spun și eu ca domnul Gheorghe Ștefan - Pinalti: “Nu mi-e frică, da
 
 ## Liga 1 e un campionat OK, dar trebuie să fii liber să o spui
 
-După cum probabil știi, repet obsesiv pe unde pot [că avem un campionat bun](__GHOST_URL__/p/de-ce-liga1-e-campionat-bun).
+După cum probabil știi, repet obsesiv pe unde pot [că avem un campionat bun](https://www.cameravar.ro//de-ce-liga1-e-campionat-bun).
 
 Și că anumiți ziariști bat câmpii când analizează campionatul intern fără să țină cont de nivelul de finanțare sau, în unele cazuri triste, fără să fi văzut un meci cap - coadă de ani de zile.
 
@@ -134,7 +144,7 @@ Mulți oameni au capacitatea să simtă când ceva este forțat, fals, exagerat.
 
 Așa ar fi și comentariile brusc entuziasmate față de un produs care-i decent, dar nu excelează.
 
-[Ar fi ca-n cazul noii denumiri a Ligii 1 - SuperLiga](__GHOST_URL__/de-ce-nu-superliga-liga1/).
+[Ar fi ca-n cazul noii denumiri a Ligii 1 - SuperLiga](https://www.cameravar.ro/de-ce-nu-superliga-liga1/).
 
 Denumirea e-n contract, dar nu și-n contact cu realitatea.
 

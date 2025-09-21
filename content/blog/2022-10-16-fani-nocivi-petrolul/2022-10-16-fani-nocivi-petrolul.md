@@ -1,11 +1,15 @@
 ---
 title: Cel mai important lucru în povestea Nicolae Constantin - Gabi Tamaș
+description: Gestul lui Constantin de-a preda acea înregistrare are legătură și cu subordonare unor oameni din fotbal față de câțiva fani influenți
 slug: fani-nocivi-petrolul
 date_published: 2022-10-16T15:51:59.000Z
 date_updated: 2024-02-10T07:12:48.000Z
 tags: ["Petrolul", "Suporteri"]
-excerpt: Gestul lui Constantin de-a preda acea înregistrare are legătură și cu subordonare unor oameni din fotbal față de câțiva fani influenți
+permalink: " fani-nocivi-petrolul/index.html"
+cover: "./conflictul-tamas-nicolae-constantin-suporteri-petrolul.jpg"
 ---
+
+![Mădălin Mihailovici (Veolia) în discuții cu fanii nervoși ai Petrolului](./conflictul-tamas-nicolae-constantin-suporteri-petrolul.jpg)
 
 Cine este mai vinovat?
 
@@ -63,7 +67,7 @@ De exemplu...
 > 
 > [...] 
 > 
-> Chiar dacă banii au fost mai puțini față de anii trecuți când am avut un partener finanțator alături, al cărui nume nici nu vrem să-l aducem in discuție, unitatea și dorința noastră a reușit să triumfe. 
+> Chiar dacă banii au fost mai puțini față de anii trecuți când am avut un partener finanțator alături, al cărui nume nici nu vrem să-l aducem in discuție, unitatea și dorința noastră au reușit să triumfe. 
 > 
 > [...]
 > 
@@ -81,7 +85,7 @@ Omul al cărui nume nu-l rostesc cei care au dat comunicatul Peluzei Ilie Oană 
 
 Acesta, prin poziția sa, a determinat finanțarea clubului cu sume impresionante inclusiv pentru nivelul primei ligi, nu mai vorbesc de cea de-a doua.
 
-În ciuda acestui fapt, relația sa cu o parte a fanilor influenți din galeria Petrolului a fost deosebit de tensionată. De exemplu, înainte de retragerea finală, Mihailovici a mai anunțat o dată sistarea finanțării după ce-a fost contestat de câțiva suporteri influenți într-o conferință de presă:
+În ciuda acestui fapt, relația sa cu o parte a fanilor influenți din galeria Petrolului a fost deosebit de tensionată. De exemplu, înainte de retragerea finală, Mihailovici a mai anunțat o dată sistarea finanțării după ce a fost contestat de câțiva suporteri influenți într-o conferință de presă:
 
 > “În pofida tuturor acestor acțiuni și eforturi depuse de către companie, din păcate, propunerea unei organigrame profesioniste pentru sezonul 2019-2020 nu a fost acceptată de către o anumită parte a suporterilor, aspect care nu se întâmplă în niciun campionat de fotbal din lume. 
 > 

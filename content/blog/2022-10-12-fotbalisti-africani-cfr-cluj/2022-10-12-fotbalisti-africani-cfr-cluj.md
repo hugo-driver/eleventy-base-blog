@@ -1,11 +1,15 @@
 ---
 title: De ce îmi place încercarea CFR Cluj legată de fotbaliștii africani
+description: Asemeni celorlalte cluburi serioase din Liga 1, ardelenii și-au dat seama că fotbalul nostru ar trebui să fie unul de producție. Doar că au ales o materie primă diferită
 slug: fotbalisti-africani-cfr-cluj
 date_published: 2022-10-12T15:08:27.000Z
 date_updated: 2024-06-30T12:01:56.000Z
 tags: CFR Cluj
-excerpt: Asemeni celorlalte cluburi serioase din Liga 1, ardelenii și-au dat seama că fotbalul nostru ar trebui să fie unul de producție. Doar că au ales o materie primă diferită
+permalink: "fotbalisti-africani-cfr-cluj/index.html"
+cover: "./de-ce-proiectul-african-cfr-cluj-e-interesant.jpg"
 ---
+
+![Un fotbalist african dus de CFR Cluj în cadrul proiectului de creștere a jucătorilor pentru revânzare](./de-ce-proiectul-african-cfr-cluj-e-interesant.jpg)
 
 Nu trebuia să o spună Dan Șucu pentru a observa evidența.
 
@@ -29,7 +33,7 @@ Mesajul să a fost atât pentru conducerea executivă, cu care sigur a vorbit ș
 
 > “Până acum am băgat 60 de milioane de euro la CFR, în cinci ani. Avem un buget, cu salarii, taxe şi tot ce înseamnă întreţinerea unei echipe, de 1,5 milioane de euro pe lună.
 > 
-> Poate că unii jucători au fost supraevaluaţi. La noi sunt şi salarii de 35.000-40.000 de euro. Doar media e de 20.000 de euro. De aceea am şi pretenţii” - Neluțu Varga pentru [gsp.ro](https://www.gsp.ro/fotbal/liga-1/nelu-varga-cfr-cluj-liga-1-655530.html)
+> Poate că unii jucători au fost supraevaluaţi. La noi sunt şi salarii de 35.000-40.000 de euro. Doar media e de 20.000 de euro. De aceea am şi pretenţii” - [Neluțu Varga pentru gsp.ro](https://www.gsp.ro/fotbal/liga-1/nelu-varga-cfr-cluj-liga-1-655530.html)
 
 De altfel, acest lucru îmi pare interesant în situația celor de la Cluj - Petrescu a determinat în mare măsură succesul sportiv, dar a făcut-o cu niște cheltuieli enorme.
 
@@ -57,7 +61,7 @@ Pentru grupele Conference League e suficient doar norocul fără handicapuri.
 
 Prin urmare, ceea ce pot face cluburile în momentul de față este să crească copii și juniori în condiții cât mai bune, să le educe un soi de respect profund față de club și să încerce să-i vândă când devin interesanți pentru cei cu bani de afară.
 
-Dacă faci asta, lucrezi indirect și la îndeplinirea celui mai important obiectiv al unui club de fotbal - [să aducă spectatori în tribună.](__GHOST_URL__/p/cel-mai-important-obiectiv-liga1)
+Dacă faci asta, lucrezi indirect și la îndeplinirea celui mai important obiectiv al unui club de fotbal - [să aducă spectatori în tribună.](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1)
 
 Oamenilor le plac tinerii, le plac localnicii promovați la prima echipă, le place să vadă cum se coace un talent despre care, peste ani, să poată spună lucruri de genul: "Să-l fi văzut pe Mutu când a debutat la Pitești...".
 

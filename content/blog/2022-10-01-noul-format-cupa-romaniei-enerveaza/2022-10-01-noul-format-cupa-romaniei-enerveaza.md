@@ -1,11 +1,15 @@
 ---
 title: De ce noul format al Cupei României îi irită pe mulți
+description: "Orice schimbare masivă adusă unui produs riscă să-i enerveze pe cei care consumă produsul. Mai ales dacă ai complicat inutil lucrurile."
 slug: noul-format-cupa-romaniei-enerveaza
 date_published: 2022-10-01T07:13:48.000Z
 date_updated: 2024-06-30T12:04:12.000Z
 tags: FRF
-excerpt: Orice schimbare masivă adusă unui produs riscă să-i enerveze pe cei care consumă produsul. Mai ales dacă ai complicat "inutil" lucrurile
+permalink: "noul-format-cupa-romaniei-enerveaza/index.html"
+cover: "./de-ce-te-enerveaza-formatul-cupei-romaniei.jpg"
 ---
+
+![Imginea trofeului Cupei României, competiție cu format greu de înțeles](./de-ce-te-enerveaza-formatul-cupei-romaniei.jpg)
 
 FRF a decis ca din acest sezon să facă modificări masive în ceea ce privește formatul Cupei României.
 
@@ -21,7 +25,7 @@ Bun, care-i problema?
 
 Problema este că orice schimbare în orice domeniu intră în conflict cu starea inițială de fapt.
 
-Concret, o explicație aproape exagerat de simplificată este că [creierul nostru iubește la nebunie să fie leneș.](https://www.beldie.ro/p/cum-sa-ti-pacalesti-creierul)
+Concret, o explicație aproape exagerat de simplificată este că creierul nostru iubește la nebunie să fie leneș.
 
 Să nu facă eforturi inutile.
 
@@ -65,7 +69,7 @@ Fotbalul este un produs popular și pentru că e ușor de înțeles.
 
 Și e ușor de înțeles pentru că regulile sale au fost puțin schimbate de-a lungul existenței sale.
 
-Unul dintre motivele secundare pentru care tot repet [că sistemul cu play off și play out nu e nimerit pentru Liga 1](__GHOST_URL__/p/de-ce-18-echipe-in-liga1) este inclusiv dificultatea cu care oamenii înțeleg ce se petrece în desfășurarea competiției.
+Unul dintre motivele secundare pentru care tot repet [că sistemul cu play off și play out nu e nimerit pentru Liga 1](https://www.cameravar.ro/de-ce-18-echipe-in-liga1) este inclusiv dificultatea cu care oamenii înțeleg ce se petrece în desfășurarea competiției.
 
 Adică după ce zeci de ani ai avut lucrurile într-un anume fel, brusc apar modificări care fac lucrurile să fie aproape ciudate:
 

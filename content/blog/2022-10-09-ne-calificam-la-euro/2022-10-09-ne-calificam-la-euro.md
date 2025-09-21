@@ -1,11 +1,15 @@
 ---
 title: De ce cred că ne vom califica la Euro 2024
+description: Optimismul meu se bazează pe chestiuni subiective, dar care au totuși legătura cu faptele concrete din istoricul echipei naționale
 slug: ne-calificam-la-euro
 date_published: 2022-10-09T17:52:14.000Z
 date_updated: 2024-06-30T12:02:44.000Z
 tags: Echipa națională
-excerpt: Optimismul meu se bazează pe chestiuni subiective, dar care au totuși legătura cu faptele concrete din istoricul echipei "naționale"
+permalink: "ne-calificam-la-euro/index.html"
+cover: "./de-ce-cred-ca-ne-vom-califica-la-Euro-2024.jpg"
 ---
+
+![Edward Iordănescu pozând cu tricoul echipei naționale](./de-ce-cred-ca-ne-vom-califica-la-Euro-2024.jpg)
 
 **Update**: aproape evident, am avut dreptate în privința acestui text scris înainte să înceapă calificările.
 

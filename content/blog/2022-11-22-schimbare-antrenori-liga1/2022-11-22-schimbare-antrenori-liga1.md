@@ -1,11 +1,15 @@
 ---
 title: Cele 3 motive care duc la schimbări dese de antrenori în Liga 1
+description: Lipsa aproape generală de valoare a conducătorilor și a unor antrenori, dar și relația dintre cele două bresle duce la această situație
 slug: schimbare-antrenori-liga1
 date_published: 2022-11-22T09:49:11.000Z
 date_updated: 2024-06-30T11:56:09.000Z
 tags: ["Antrenori", "Conducători de club"]
-excerpt: Lipsa aproape generală de valoare a conducătorilor și a unor antrenori, dar și relația dintre cele două bresle duce la această situație
+permalink: "schimbare-antrenori-liga1/index.html"
+cover: "./de-ce-se-schimba-des-antrenorii-liga-1.jpg"
 ---
+
+![Mirel Rădoi, unul dintre antrenorii ușor de schimbat în Liga 1](./de-ce-se-schimba-des-antrenorii-liga-1.jpg)
 
 Mai mult de jumătate dintre cele 16 echipe ale Ligii 1 și-au schimbat antrenorii de la începutul sezonului.
 
@@ -23,7 +27,7 @@ Asta te face să te întrebi când au greșit angajatorii?
 
 Când au numit antrenorul respectiv sau când l-au dat afară?
 
-Majoritatea conducătorilor își scuză [lipsa de valoare profesională](__GHOST_URL__/cea-mai-slaba-veriga-fotbalul-romanesc) prin vehicularea unei idei simple:
+Majoritatea conducătorilor își scuză [lipsa de valoare profesională](https://www.cameravar.ro/cea-mai-slaba-veriga-fotbalul-romanesc) prin vehicularea unei idei simple:
 
 > "Domnule, la fotbal nu știi niciodată sigur. Uneori merge cu un antrenor, alteori nu merge".
 

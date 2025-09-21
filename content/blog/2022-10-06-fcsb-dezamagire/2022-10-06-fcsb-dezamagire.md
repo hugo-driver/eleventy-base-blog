@@ -1,11 +1,15 @@
 ---
 title: Dacă ții cu FCSB, relaxează-te...
+description: Cea mai mare eroare pe care o poți face ca suporter al FCSB este să fii dezamăgit de rezultatul cu Silkeborg (0-5)
 slug: fcsb-dezamagire
 date_published: 2022-10-06T18:43:10.000Z
 date_updated: 2024-06-30T12:03:23.000Z
 tags: ["FCSB", "Suporteri", "Gigi Becali"]
-excerpt: Cea mai mare eroare pe care o poți face ca suporter al FCSB este să fii dezamăgit de rezultatul cu Silkeborg (0-5)
+permalink: "fcsb-dezamagire/index.html"
+cover: "./e-ce-ar-trebui-sa-fii-calm-ca-fan-FCSB.jpg"
 ---
+
+![Becali fiind nepăsător în jilțul de la palat față de zbuciumul fanilor FCSB](./de-ce-ar-trebui-sa-fii-calm-ca-fan-FCSB.jpg)
 
 Nu merită.
 
@@ -43,13 +47,13 @@ Adică e un club condus de multe ori anapoda, dar care totuși, cumva, reușeșt
 
 De ce?
 
-Nu-mi cere să explic încă o dată ceea ce ce am explicat când am scris [ghidul de înțelegere a personajului Becali](__GHOST_URL__/p/de-ce-il-urasti-pe-becali).
+Nu-mi cere să explic încă o dată ceea ce ce am explicat când am scris [ghidul de înțelegere a personajului Becali](https://www.cameravar.ro/de-ce-il-urasti-pe-becali).
 
 ## Nu te lăsa manipulat de furia ziariștilor
 
 Ziariștii sunt oameni.
 
-[Unii dintre ei, sunt și suporteri.](__GHOST_URL__/p/relatii-ziaristi-oameni-din-fotbal)
+[Unii dintre ei, sunt și suporteri.](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal)
 
 Unii dintre cei care sunt suporteri țin cu FCSB.
 

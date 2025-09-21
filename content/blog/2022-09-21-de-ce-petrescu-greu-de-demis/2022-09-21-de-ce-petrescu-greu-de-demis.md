@@ -1,11 +1,15 @@
 ---
 title: De ce e Petrescu greu de demis
+description: "Poate că acea clauză de 400.000 Euro a fost decisivă, dar există și alte rațiuni importante pentru care demiterea lui Petrescu e foarte riscantă."
 slug: de-ce-petrescu-greu-de-demis
 date_published: 2022-09-21T11:52:54.000Z
 date_updated: 2024-06-30T12:08:52.000Z
 tags: ["CFR Cluj", "Antrenori"]
-excerpt: Poate că acea clauză de 400.000 Euro a fost decisivă, dar există și alte rațiuni importante pentru care demiterea lui Petrescu e foarte riscantă
+permalink: "de-ce-petrescu-greu-de-demis/index.html"
+cover: "./dan-Petrescu-greu-de-demis-clauze-contract.jpg"
 ---
+
+![Dan Petrescu, încă e antrenorul CFR-ului pentru că e greu de demis](./dan-Petrescu-greu-de-demis-clauze-contract.jpg)
 
 [Patronul CFR spune pentru Fanatik](https://www.fanatik.ro/nelutu-varga-anunta-decizia-in-cazul-dan-petrescu-asta-am-hotarat-cu-el-exclusiv-20183731) că varianta despărțirii de Dan Petrescu a căzut:
 

@@ -1,15 +1,21 @@
 ---
 title: E timpul pentru conținut plătit pe site-urile de sport
+description: "Cred că gsp.ro, prosport.ro sau digisport.ro ar putea oferi contracost o variantă a site-ului fără reclame și trimiteri enervante către alte site-uri."
 slug: continut-platit-site-uri-sport
 date_published: 2022-09-17T17:31:40.000Z
 date_updated: 2024-06-30T12:09:41.000Z
 tags: Presa sportivă
-excerpt: Cred că gsp.ro, prosport.ro sau digisport.ro ar putea oferi contracost o variantă a site-ului fără reclame și trimiteri enervante către alte site-uri
+permalink: "continut-platit-site-uri-sport/index.html"
+cover: "./continut-platit-site-uri-sport.jpg"
 ---
+
+![Captură cu trimiteri la informații fără legătură cu sportul de pe alte site-uri](./continut-platit-site-uri-sport.jpg)
+
+
 
 gsp.ro promovează intens în ultima vreme opțiunea de-a-ți face cont pe site.
 
-Ca oamenii să fie motivați în acestă direcție, [ziarul oferă beneficii diverse](https://consent.login-romania.rc.ringier.com/?lang=ro#/about) - de la seriosul acces gratuit la ediția digitală a ziarului la amuzanta posibilitate de-a intra în dialog cu jurnaliștii publicației.
+Ca oamenii să fie motivați în acestă direcție, ziarul oferă beneficii diverse - de la seriosul acces gratuit la ediția digitală a ziarului la amuzanta posibilitate de-a intra în dialog cu jurnaliștii publicației.
 
 Spun că e o chestiune amuzantă pentru că n-am văzut ca așa ceva să se întâmple. Adică cititorii comentează mult și multe, dar nu li se răspunde.
 
@@ -83,7 +89,7 @@ Nu pot refuza pentru că știu poezia:
 
 După cum vezi, am spus blegul, nu prostul.
 
-Adică am folosit o formulă care implică un soi de alint, de tandrețe pentru că am învățat acum mulți, mulți ani că [Gazeta își respectă cititorii](__GHOST_URL__/p/tolontan-hamlet-si-chiriches).
+Adică am folosit o formulă care implică un soi de alint, de tandrețe pentru că am învățat acum mulți, mulți ani că [Gazeta își respectă cititorii](https://www.cameravar.ro/tolontan-hamlet-si-chiriches).
 
 ## Excepția de la fotbalul mic  - liga2.prosport.ro
 
