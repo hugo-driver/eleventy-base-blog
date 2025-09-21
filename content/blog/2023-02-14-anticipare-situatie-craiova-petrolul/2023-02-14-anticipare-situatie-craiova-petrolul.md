@@ -1,11 +1,15 @@
 ---
 title: Cum am anticipat ce se-ntâmplă la Craiova și am greșit în privința Petrolului
+description: Cred că cei de la CSU Craiova și Petrolul mă citesc cu mare atenție. Însă doar oltenii mă ascultă, cei de la Petrolul se încăpățânează să mă sfideze
 slug: anticipare-situatie-craiova-petrolul
 date_published: 2023-02-14T08:36:19.000Z
 date_updated: 2024-06-30T11:51:44.000Z
 tags: ["CS U Craiova", "Petrolul"]
-excerpt: Cred că cei de la CSU Craiova și Petrolul mă citesc cu mare atenție. Însă doar oltenii mă ascultă, cei de la Petrolul se încăpățânează să mă sfideze
+permalink: "anticipare-situatie-craiova-petrolul/index.html"
+cover: "./anticipari-si-erori-craiova-petrolul.jpg"
 ---
+
+![âUn duel din meciul Petrolul - Craiova](./anticipari-si-erori-craiova-petrolul.jpg)
 
 Din când în când, scriu lucruri care dau impresia că mă pricep foarte bine la fotbalul din Liga 1.
 
@@ -23,7 +27,7 @@ Vei înțelege în continuare.
 
 ## 1. Am fost probabil singurul care a spus că marea problemă a Craiovei este evaluarea corectă a lotului
 
-[În texte succesive](__GHOST_URL__/p/marea-problema-a-lui-radoi.), i-am menționat pe Papp, Nistor și Căpățână la capitolul jucători buni, care totuși oferă prea puțin. Și i-am dat exemplu pe Hanca, Martici, Vână și Rivaldinho la capitolul jucători care-n opinia mea sunt clar sub nivelul pretențiilor clubului.
+[În texte succesive](https://www.cameravar.ro/marea-problema-a-lui-radoi.), i-am menționat pe Papp, Nistor și Căpățână la capitolul jucători buni, care totuși oferă prea puțin. Și i-am dat exemplu pe Hanca, Martici, Vână și Rivaldinho la capitolul jucători care-n opinia mea sunt clar sub nivelul pretențiilor clubului.
 
 Cazul Câmpanu este unul special. Oferă puțin, dar e încă un fotbalist tânăr care poate fi vândut la un moment dat pe o sumă de bani OK.
 
@@ -41,7 +45,7 @@ Altfel, clubul trebuie să facă niște cheltuieli imediate usturătoare. Sigur,
 
 Unele dintre ideile mele s-au bazat pe ce spusese deja Mihai Rotaru, dar altele au reprezentat lucruri pe care întâi le-am scris eu, iar ulterior le-a confirmat și patronul Craiovei.
 
-Inclusiv chestii aparent mărunte - ex. [modul în care Rădoi a gestionat meciul cu Rapid](__GHOST_URL__/radoi-explicarea-demisiei/), în care echipa lui Mutu a egalat deși oltenii au avut la un moment dat 2-0 pe Giulești.
+Inclusiv chestii aparent mărunte - ex. [modul în care Rădoi a gestionat meciul cu Rapid](https://www.cameravar.ro/radoi-explicarea-demisiei/), în care echipa lui Mutu a egalat deși oltenii au avut la un moment dat 2-0 pe Giulești.
 
 De asemenea, am evidențiat faptul că atitudinea publică a lui Rădoi este ceva ce irită clubul oltean. Pur și simplu, acolo există o sensibilitate majoră față de orice ar putea produce o imagine necontrolată de club.
 
@@ -97,7 +101,7 @@ Totuși, chiar dacă Petrolul a trecut printr-o perioadă mai grea recent, reali
 
 Acum, lotul lor a fost ușor întărit, iar clubul afirmă că au început să plătească din restanțele față de jucători.
 
-[Iar suporterii le sunt aproape, cu bune și cu rele.](__GHOST_URL__/fani-nocivi-petrolul)
+[Iar suporterii le sunt aproape, cu bune și cu rele.](https://www.cameravar.ro/fani-nocivi-petrolul)
 
 Acum, dacă ții cu Petrolul, posibil să crezi că am ceva cu echipa ta.
 

@@ -9,7 +9,7 @@ permalink: "pintilii-campion-fcsb/index.html"
 cover: "./ce-ar-insemna-pintilii-campion-fcsb.jpg"
 ---
 
-![Cătălin Tolontan](./ce-ar-insemna-pintilii-campion-fcsb.jpg)
+![Mihai Pintilii ar putea dovedi FRF cât de absurdă este șicențierea antrenorilor dacă ia titlul](./ce-ar-insemna-pintilii-campion-fcsb.jpg)
 
 După ce LPF l-a desemnat acum două etape antrenorul rundei și după ce FCSB a ajuns să conteze în lupta pentru titlu, te poți întreba asta.
 
