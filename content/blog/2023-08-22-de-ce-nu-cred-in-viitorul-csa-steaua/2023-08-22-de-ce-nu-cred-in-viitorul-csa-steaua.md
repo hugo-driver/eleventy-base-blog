@@ -1,11 +1,15 @@
 ---
 title: De ce nu cred în viitorul CSA Steaua
+description: Există două mari motive care mă fac să cred că această echipă de fotbal n-are viitor. Niciunul nu are legătură cu legislația sau cu dificultatea asocierii cu un privat. 
 slug: de-ce-nu-cred-in-viitorul-csa-steaua
 date_published: 2023-08-22T09:15:16.000Z
 date_updated: 2024-06-29T17:47:09.000Z
 tags: ["CSA Steaua", "FCSB", "Suporteri"]
-excerpt: Există două mari motive care mă fac să cred că această echipă de fotbal n-are viitor. Niciunul nu are legătură cu legislația sau cu dificultatea asocierii cu un privat. 
+permalink: "de-ce-nu-cred-in-viitorul-csa-steaua/index.html"
+cover: "./ce-se-va-intampla-cu-csa-steaua.jpg"
 ---
+
+![Fani CSA Steaua protestând pentru echipa lor împotriva lui Gigi Becali](./pce-se-va-intampla-cu-csa-steaua.jpg)
 
 Încearcă să-ți imaginezi cum va arăta CSA Steaua peste 10 ani.
 
@@ -158,7 +162,7 @@ De asta pun sub semnul întrebării energia care produce susținerea CSA. Și de
 
 Nu e vorba că pentru oameni n-ar fi clar cine e Steaua.
 
-[Nu e vorba că presa creează confuzii.](__GHOST_URL__/p/vina-presei-fcsb-csa-steaua)
+[Nu e vorba că presa creează confuzii.](https://www.cameravar.ro/vina-presei-fcsb-csa-steaua)
 
 Oamenii au ales deja.
 

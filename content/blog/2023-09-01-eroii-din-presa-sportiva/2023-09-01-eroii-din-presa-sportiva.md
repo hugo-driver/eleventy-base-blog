@@ -1,13 +1,17 @@
 ---
 title: Eroii de benzi desenate din presa sportivă
+description: Deși fotbalul românesc pare devorat de niște monștri înfiorători, ziaristul sportiv nu cedează în fața asaltului lacom al acestora bla-bla, bla-blum
 slug: eroii-din-presa-sportiva
 date_published: 2023-09-01T12:47:16.000Z
 date_updated: 2024-06-30T11:05:50.000Z
 tags: Presa sportivă
-excerpt: Deși fotbalul românesc pare devorat de niște monștri înfiorători, ziaristul sportiv nu cedează în fața asaltului lacom al acestora bla-bla, bla-blum
+permalink: "eroii-din-presa-sportiva/index.html"
+cover: "./eroii-de-benzi-desenate-ai-presei-sportive.jpg"
 ---
 
-După cum știi, cred la modul serios că [presa sportivă este cea mai performantă formă de presă din România](__GHOST_URL__/p/suprematia-presei-sportive).
+![Caricatură inspirată de benzile desenate Superman](./eroii-de-benzi-desenate-ai-presei-sportive.jpg)
+
+După cum știi, cred la modul serios că [presa sportivă este cea mai performantă formă de presă din România](https://www.cameravar.ro/suprematia-presei-sportive).
 
 Prin urmare, ideea unei lipse de respect față de breaslă este falsă.
 

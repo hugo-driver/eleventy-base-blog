@@ -1,11 +1,15 @@
 ---
 title: Pariurile nu sunt cancerul presei sportive, ci doar un banal diabet
+description: Casele de pariuri sunt probabil cea mai mare sursă de venituri pentru media sportive. Și asta începe să se cunoască 
 slug: cancerul-presei-sportive-casele-de-pariuri
 date_published: 2023-09-05T07:13:01.000Z
 date_updated: 2024-06-30T11:06:06.000Z
 tags: Presa sportivă
-excerpt: Casele de pariuri sunt probabil cea mai mare sursă de venituri pentru media sportive. Și asta începe să se cunoască 
+permalink: "cancerul-presei-sportive-casele-de-pariuri/index.html"
+cover: "./poveste-cu-tolontan-stefan-beldie.jpg"
 ---
+
+![Doi copii foarte grași ca simbol al relației presei de sport cu casele de priuri](./pariurile-cancerul-presei-sportive.jpg)
 
 Din când în când, apare câte cineva care spune că industria pariurilor reprezintă un cancer pentru fotbal.
 
@@ -45,7 +49,7 @@ Bla-bla…
 
 ## Nimeni în afară de mine nu zice nici pâs legat de denumirea aberant - comică "Superliga" pentru Liga 1
 
-Cei care mă citesc de multă vreme sau care m-au urmărit în emisiuni știu că sunt singurul ziarist care spune iar și iar această idee: [raportat la nivelul de finanțare, avem un fotbal bun](__GHOST_URL__/de-ce-liga1-e-campionat-bun).
+Cei care mă citesc de multă vreme sau care m-au urmărit în emisiuni știu că sunt singurul ziarist care spune iar și iar această idee: [raportat la nivelul de finanțare, avem un fotbal bun](https://www.cameravar.ro/de-ce-liga1-e-campionat-bun).
 
 Chiar și când ne bat unii mai prost finanțați decât noi, acest aspect se clatină, dar totuși rămâne în picioare.
 
@@ -77,7 +81,7 @@ Așa am uneori impresia când îi văd pe unii că folosesc pentru analiza jocur
 
 În fine, de ce-ți spun toate aceste amănunte despre cât de glorios apăr eu fotbalul din Liga 1?
 
-Pentru că-n momentul în care Superbet a semnat contractul cu LPF și a determinat apariția numelui Superliga pentru Liga 1, [eu am considerat comică această denumire.](__GHOST_URL__/de-ce-nu-superliga-liga1)
+Pentru că-n momentul în care Superbet a semnat contractul cu LPF și a determinat apariția numelui Superliga pentru Liga 1, [eu am considerat comică această denumire.](https://www.cameravar.ro/de-ce-nu-superliga-liga1)
 
 Deci eu, singurul ziarist care insistă că-n mare avem un fotbal măcar decent dacă nu bun de-a dreptul raportat la nivelul de finanțare am considerat această gonflare de nume ca fiind comică.
 

@@ -1,13 +1,16 @@
 ---
 title: Este presa de vină pentru "confuzia" fanilor FCSB apropo de adevărata Steaua?
+description: O credință des vehiculată a fanilor CSA Steaua este că presa-i vinovată pentru "confuzia" fanilor FCSB care nu-și dau seama care-i adevărata Steaua.
 slug: vina-presei-fcsb-csa-steaua
 date_published: 2023-07-11T16:28:38.000Z
 date_updated: 2024-06-30T11:36:11.000Z
 tags: ["FCSB", "CSA Steaua", "Presa sportivă"]
-excerpt: O credință des vehiculată a fanilor CSA Steaua este că presa-i vinovată pentru "confuzia" fanilor FCSB care nu-și dau seama care-i adevărata Steaua.
+permalink: "vina-presei-fcsb-csa-steaua/index.html"
+cover: "./conflictul-presa-sportiva-fani-csa-steaua.jpg"
 ---
 
-![De ce fanii CSA Steaua acuză în mod greșit presa de popularitatea FCSB](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2Febb0723b-e372-462f-92a3-7c16cc92f11c_800x600.jpeg)
+![Protest fani CSA pentru numele Steaua](./conflictul-presa-sportiva-fani-csa-steaua.jpg)
+
 Din ce-mi dau seama, ideea fanilor CSA Steaua este că diverși ziariști au folosit  multa sau puțina credibilitate pe care o au ca să întărească ideea că de fapt FCSB este Steaua.
 
 Cei mai "răi" dintre ziariștii care ar fi lucrat la această manipulare au fost trecuți pe lista aceea a interzișilor la meciurile din Ghencea. Listă elaborată de suporteri, nu asumată de club.
@@ -34,7 +37,7 @@ Da, știu, în contextul general poate să nu pară mare lucru.
 
 Și totuși, este.
 
-[Am mai scris despre asta, așa că nu revin](__GHOST_URL__/suprematia-presei-sportive).
+[Am mai scris despre asta, așa că nu revin](https://www.cameravar.ro/suprematia-presei-sportive).
 
 Dar chiar și-n aceste condiții, tot există diverși care confundă pasiunea pentru o echipă cu munca de ziarist.
 
@@ -54,7 +57,7 @@ Care fiind opinii au o nuanță de subiectivitate.
 
 Dar n-au o nuanță de grup organizat care luptă pentru o cauză nedreaptă.
 
-De asta, faptul că eu consider că [FCSB a continuat ideea de Steaua](__GHOST_URL__/de-ce-fcsb-este-steaua) este o opinie a mea legată de acest subiect, nu o încercare perversă de-a influența pe alții.
+De asta, faptul că eu consider că [FCSB a continuat ideea de Steaua](https://www.cameravar.ro/de-ce-fcsb-este-steaua) este o opinie a mea legată de acest subiect, nu o încercare perversă de-a influența pe alții.
 
 ## Fanii FCSB nu sunt confuzi, sunt doar mulți
 

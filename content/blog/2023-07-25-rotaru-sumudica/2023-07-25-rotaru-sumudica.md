@@ -1,13 +1,17 @@
 ---
 title: Ce ar putea gândi Mihai Rotaru despre numirea Șumudică la Craiova
+discriminare: Aducerea lui Șumudică poate fi tentantă, dar ar intra în conflict măcar cu o parte din ceea ce înseamnă finanțatorul oltenilor în fotbal
 slug: rotaru-sumudica
 date_published: 2023-07-25T09:33:54.000Z
 date_updated: 2024-02-10T06:50:18.000Z
 tags: ["Mihai Rotaru", "CS U Craiova"]
-excerpt: Aducerea lui Șumudică poate fi tentantă, dar ar intra în conflict măcar cu o parte din ceea ce înseamnă finanțatorul oltenilor în fotbal
+permalink: "rotaru-sumudica/index.html"
+cover: "./de-ce-sumudica-nu-ajunge-la-craiova.jpg"
 ---
 
-[Știu ce gândesc eu despre Șumudică](__GHOST_URL__/sumudica).
+![Marius Șumudică invitat la Digi Sport](./de-ce-sumudica-nu-ajunge-la-craiova.jpg)
+
+[Știu ce gândesc eu despre Șumudică](https://www.cameravar.ro/sumudica).
 
 Și-n mare știu ce gândesc cei care-l plac sau nu-l plac pe Șumudică.
 
@@ -27,7 +31,7 @@ Iar Șumudică a câștigat în România cu Astra.
 
 Nu trebuie să-l placi pe Șumudică pentru a-ți da seama că titlul său cu echipa lui Niculae, aflat după gratii atunci, a valorat mai mult chiar și decât primul titlul câștigat de Hagi cu Viitorul, când constănțenii aveau un buget infim, cel mai mic cu care s-a câștigat vreodată titlul în România.
 
-Pe de altă parte, ar putea Mihai Rotaru să aducă la echipă un antrenor [care are uneori manifestări / atitudini de clovn](__GHOST_URL__/de-ce-nu-sumudica/)?
+Pe de altă parte, ar putea Mihai Rotaru să aducă la echipă un antrenor [care are uneori manifestări / atitudini de clovn](https://www.cameravar.ro/de-ce-nu-sumudica/)?
 
 Un antrenor care orice ar fi nu se poate abține să vorbească și dincolo de ceea ce este util pentru el și pentru clubul său?
 
@@ -37,7 +41,7 @@ Mai mult, e greu să-l angajeze Mihai Rotaru, un finanțator care are o sensibil
 
 De exemplu, Arlauskis n-a plecat de la Craiova doar pentru că a avut salariu mare sau pentru că a gafat cu Farul sau pentru că doreau neapărat să-i dea o șansă lui Popescu
 
-Arlauskis a plecat de la Craiova și pentru [scenele de isterie de la finalul jocului cu FC Botoșani.](__GHOST_URL__/anticipare-situatie-craiova-petrolul/)
+Arlauskis a plecat de la Craiova și pentru [scenele de isterie de la finalul jocului cu FC Botoșani.](https://www.cameravar.ro/anticipare-situatie-craiova-petrolul/)
 
 Pentru că lui Rotaru nu-i plac astfel de lucruri și le sancționează.
 

@@ -1,11 +1,15 @@
 ---
 title: Ce mi-a atras atenția la sondajul Avangarde legat de iubiri, susțineri și alte emoții intense din fotbalul românesc
+description: Aparent, deși românii se pricep la fotbal sunt foarte timizi să-și dea cu părerea. Ceea ce, evident, indică mai degrabă că respondenții n-au fost chiar sinceri în tot și-n toate
 slug: sondaj-avangarde-suporteri-fotbal
 date_published: 2023-09-17T09:46:57.000Z
 date_updated: 2024-06-30T11:03:13.000Z
 tags: ["Suporteri", "FCSB", "Rapid", "CS U Craiova", "Dinamo", "CSA Steaua"]
-excerpt: Aparent, deși românii se pricep la fotbal sunt foarte timizi să-și dea cu părerea. Ceea ce, evident, indică mai degrabă că respondenții n-au fost chiar sinceri în tot și-n toate
+permalink: "sondaj-avangarde-suporteri-fotbal/index.html"
+cover: "./sondaj-avangarde-echipele-cu-cei-mai-multi-suporteri.jpg"
 ---
+
+![Imagine spectaculoasă meci Liga 1 - stadionul Rapid - atmosferă superbă](./sondaj-avangarde-echipele-cu-cei-mai-multi-suporteri.jpg)
 
 Zilele trecute, [Digi 24 a dat publicității un sondaj](https://www.digi24.ro/stiri/sport/fotbal/sondaj-jumatate-dintre-romani-cred-ca-performanta-nationalei-de-fotbal-este-slaba-si-vor-schimbarea-lui-burleanu-de-la-frf-2504823) pe care-l solicitase și pe care Avangarde l-a realizat în perioada 9-13 septembrie.
 
@@ -24,7 +28,11 @@ Realitatea răspunsurilor pare să indice altceva.
 Asta mă face să cred că mulți dintre cei care au participat la sondaj n-au vreo treabă cu fotbalul local.
 
 Altfel, cum s-ar explica reținerea pe care o arată în privințe în care de altfel oricine simte nevoia să dea un verdict - gen este sau nu este Răzvan Burleanu vinovat pentru tot ce mișcă sau pentru tot ce-i mort în fotbalul nostru?
-![Părerea microbiștilor despre Răzvan Burleanu](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2Ff800718b-c178-4a4a-89be-d2442bb04934_800x450.jpeg)Doar cineva care n-are absolut nicio treabă cu fotbalul ar putea spune că nu poate aprecia sau nu știe să aprecieze activitatea lui Răzvan Burleanu. Chiar dacă, în realitate, lucrul acesta este adevărat. La modul concret, puțini au habar ce face și ce nu face bine Burleanu la FRF.
+
+![Părerea microbiștilor despre Răzvan Burleanu](./schimbare-burlenu.webp) 
+
+Doar cineva care n-are absolut nicio treabă cu fotbalul ar putea spune că nu poate aprecia sau nu știe să aprecieze activitatea lui Răzvan Burleanu. Chiar dacă lucrul acesta este adevărat pentru că, în realitate, puțini au habar ce face și ce nu face bine Burleanu la FRF.
+
 Concret, 31% dintre așa zișii urmăritori ai fotbalului românesc nu se pot pronunța în acest caz și alți 7% nu știu sau nu au răspuns.
 
 Sunt impresionat de această reținere a oamenilor într-o problemă sensibilă.
@@ -54,7 +62,9 @@ Adică echipe care au un număr relevant de susținători pe toată suprafața �
 În această situație se află-n mod clar Steaua și Dinamo.
 
 Și ar mai fi Craiova, chiar dacă cei mai mulți fani ai săi sunt mai ales în regiunea Olteniei și poate-n unele județe învecinate, există suporteri ai echipei și-n restul țării.
-![Cu ce echipe țin microbiștii români](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2Fabbef61b-3931-401d-b084-9d9d6b786adf_800x450.jpeg)
+
+![Cu ce echipe țin microbiștii români](./sondaj-fani-fotbal-romania.webp)
+
 Explicația nu ține doar de apetența unor olteni de-a migra și de-a duce după ei atât perfectul simplu, cât și pasiunile, dar și faptul că Universitatea Craiova a avut performanțe reale în anii ‘80 și asta nu putea rămâne fără nicio consencință la nivel de țară.
 
 Revenind la Rapid, cred că e printre rarele ocazii în care este peste Craiova în acest tip de sondaj, chestiune posibil explicabilă și prin situația cu cele două Craiove.
@@ -112,7 +122,7 @@ Dar mai ales extrem.
 
 **Cu ce echipă de club din România țineți?**
 
-- **FCSB - 43%**
+- FCSB - 43%
 - Dinamo - 11%
 - Rapid 8%
 - Universitatea Craiova 7%

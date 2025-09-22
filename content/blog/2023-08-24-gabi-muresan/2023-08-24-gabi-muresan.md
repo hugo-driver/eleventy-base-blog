@@ -1,13 +1,17 @@
 ---
 title: Ce nu ar trebui să uite fanii FCSB legat de Gabi Mureșan
+description: Fostul fotbalist al CFR-ului a rămas în memoria multor fani drept omul care l-a accidentat pe Rusescu. În realitate, a fost mult mai mult de atât.
 slug: gabi-muresan
 date_published: 2023-08-24T10:30:22.000Z
 date_updated: 2024-06-30T11:06:37.000Z
 tags: ["CFR Cluj", "FCSB", "Suporteri"]
-excerpt: Fostul fotbalist al CFR-ului a rămas în memoria multor fani drept omul care l-a accidentat pe Rusescu. În realitate, a fost mult mai mult de atât.
+permalink: "gabi-muresan/index.html"
+cover: "./gabi-muresan-de-ce-ar-trebui-sa-l-tii-minte.jpg"
 ---
 
-> "  Cheliosul ăla de la CFR care l-a lovit cu cotul pe Rusescu de era să-i scoată ochiul...".
+![Gabi Mureșan, pe vremea când juca la CFR Cluj](./gabi-muresan-de-ce-ar-trebui-sa-l-tii-minte.jpg)
+
+> "Cheliosul ăla de la CFR care l-a lovit cu cotul pe Rusescu de era să-i scoată ochiul...".
 
 Probabil asta își aduce aminte un fan obișnuit al Stelei despre Gabi Mureșan.
 
@@ -23,8 +27,9 @@ Logic, discuția ar devia spre o dezbatere de genul cine era mai dur: Cadu sau M
 
 Și apoi totul alunecă firesc spre Van Damme vs Bruce Lee.
 
-Iar Gabi Mureșan este uitat până când apare ceva despre el pe Facebook:
-![](__GHOST_URL__/content/images/2023/10/https-3A-2F-2Fsubstack-post-media.s3.amazonaws.com-2Fpublic-2Fimages-2Fab06074c-4f8a-44bc-883d-90255c39cd3e_1396x682.png)Vă spun eu, nu există 1-2 exemple de jucători rupți de Mureșan chiar dacă a luat suficiente roșii în carieră.
+Iar Gabi Mureșan este uitat până când apare ceva despre el pe Facebook, gen "ăsta a rupt 1-2 fotbaliști".
+
+Vă spun eu, nu există 1-2 exemple de jucători rupți de Mureșan chiar dacă a luat suficiente roșii în carieră.
 De unde această imagine?
 
 Numărul mare de cartonașe luate de Mureșan de-a lungul carierei - 10 roșii la CFR Cluj - poate ține loc de orice amintire concretă.

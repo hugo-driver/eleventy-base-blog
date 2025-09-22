@@ -1,12 +1,15 @@
 ---
 title: Povestea respectului real în fotbalul românesc - cazul Marius Șumudică
+description: "Șucu și Angelescu nu l-au vrut pe Șumudică la Rapid dintr-un motiv cât se poate de simplu: nu-l respectă. Uman vorbind, nu profesional."
 slug: de-ce-nu-sumudica
 date_published: 2023-07-08T07:16:26.000Z
 date_updated: 2024-06-30T11:37:33.000Z
 tags: ["Dan Șucu", "Rapid", "Antrenori"]
-excerpt: "Șucu și Angelescu nu l-au vrut pe Șumudică la Rapid dintr-un motiv cât se poate de simplu: nu-l respectă. Uman vorbind, nu profesional."
+permalink: "de-ce-nu-sumudica/index.html"
+cover: "./problema-lui-sumudica-angajare-antrenor.jpg"
 ---
 
+![Șumudică și un gest obscen care-l face greu angajabil de cluburile care țin la propria imagine](./problema-lui-sumudica-angajare-antrenor.jpg)
 În lumea fotbalului românesc se vântură des ideea de respect.
 
 Care uneori pare o chestiune importantă.
@@ -45,7 +48,7 @@ Sau să nu facă mare caz de acesta.
 
 În fine, filosofez atât pentru că urmează să scriu despre situația lui Marius Șumudică și a celor de la Rapid.
 
-[Iar un astfel de personaj](__GHOST_URL__/sumudica) și un astfel de club au nevoie de o introducere lămuritoare.
+[Iar un astfel de personaj](https://www.cameravar.ro/sumudica) și un astfel de club au nevoie de o introducere lămuritoare.
 
 ## Nu e vorba că Șucu nu-l place pe Șumudică sau că acesta e certat cu Daniel Niculae
 

@@ -1,11 +1,15 @@
 ---
 title: Ce înseamnă "FCSB are cel mai valoros lot"
+description: Mulți susțin acest lucru, puțini au avut ocazia să-și vadă cuvintele confirmate. Cota de piață sau talentul nu înseamnă mereu valoare
 slug: fcsb-are-cel-mai-valoros-lot
 date_published: 2023-08-10T16:41:03.000Z
 date_updated: 2024-06-30T11:33:05.000Z
 tags: ["FCSB", "Rapid"]
-excerpt: Mulți susțin acest lucru, puțini au avut ocazia să-și vadă cuvintele confirmate. Cota de piață sau talentul nu înseamnă mereu valoare
+permalink: "fcsb-are-cel-mai-valoros-lot/index.html"
+cover: "./ce-inseamna-fcsb-are-cel-mai-valoros-lot.jpg"
 ---
+
+![Florinel Coman și Octavian Popescu într-un nou meci slab al FCSB](./ce-inseamna-fcsb-are-cel-mai-valoros-lot.jpg)
 
 Aceasta este una dintre cele mai răspândite credințe când vine vorba de evaluarea loturilor de jucători ale echipelor cu pretenții din campionat:
 
