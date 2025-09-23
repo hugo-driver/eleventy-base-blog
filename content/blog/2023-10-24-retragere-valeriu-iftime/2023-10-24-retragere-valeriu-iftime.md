@@ -1,10 +1,15 @@
 ---
 title: De ce nu cred că Valeriu Iftime se va retrage de la FC Botoșani
+description: Iftime anunță periodic că se retrage, dar creșterile din afacerile personale + atracția față de fotbal îl vor ține probabil la echipă pe termen lung.
 slug: retragere-valeriu-iftime
 date_published: 2023-10-24T11:28:25.000Z
 date_updated: 2024-06-30T10:59:39.000Z
 tags: Conducători de club
+permalink: "retragere-valeriu-iftime/index.html"
+cover: "./valeriu-iftime-fc-botosani.jpg"
 ---
+
+![Patronul FC Botoșani, Valeriu Iftime, amenință din nou cu retragerea](./valeriu-iftime-fc-botosani.jpg)
 
 După Gigi Becali,  Valeriu Iftime este patronul cu cele mai multe retrageri din fotbal anunțate și nepuse-n faptă.
 
