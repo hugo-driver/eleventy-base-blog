@@ -1,14 +1,19 @@
 ---
 title: "Cine are moderatori mai buni: Digi Sport vs. Orange Sport"
+description: Topul celor mai buni moderatori de emisiuni dedicate analizei Ligii 1 - Radu Naum, Dan Udrea, Silviu Tudor Samuilă și Vali Moraru
 slug: cei-mai-buni-moderatori-liga-1
 date_published: 2024-02-01T10:41:26.000Z
 date_updated: 2024-06-30T10:43:19.000Z
 tags: Presa sportivă
+permalink: "cei-mai-buni-moderatori-liga-1/index.html"
+cover: "./dan-udrea-orange-sport-top-moderatori-liga-1.jpg"
 ---
+
+![Da Udrea, acum la Prima Sport, este printre cei mai buni moderatori de emisiuni dedicate Ligii 1](./dan-udrea-orange-sport-top-moderatori-liga-1.jpg)
 
 Ce poate fi mai frumos decât să ai contract de colaborare cu Digi Sport și să dai un verdict legat de cine are moderatori mai buni pentru emisiunile dedicate fotbalului nostru?
 
-Asta după ce am făcut și [topul celor mai buni analiști ai Ligii 1](__GHOST_URL__/cei-mai-buni-analisti-liga1/). 
+Asta după ce am făcut și [topul celor mai buni analiști ai Ligii 1](https://www.cameravar.ro/cei-mai-buni-analisti-liga1/). 
 
 Seamănă un pic cu situația în care Sergi Lopez scrie despre FCSB și steliștii îl felicită că e singurul obiectiv, spre invidia mea. Apropo, [ai putea să te abonezi la postările sale cu plată](https://www.patreon.com/sergilopez), ca să-l susții și cu fapte, nu doar cu vorbe.
 
@@ -20,7 +25,7 @@ Ce să zic?
 
 > "Viorel e cel mai bun, mai ales când mă invită pe mine".
 
-Și nici pe Dan Filoti nu-l includ pentru că deja [am scris pe-ndelete despre el](__GHOST_URL__/dan-filoti/) și nu m-a sunat ulterior să-mi zică ceva, orice. Ceea ce m-a durut un pic pentru că toți dorim atenție și mie îmi place să vorbesc cu el.
+Și nici pe Dan Filoti nu-l includ pentru că deja [am scris pe-ndelete despre el](https://www.cameravar.ro/dan-filoti/) și nu m-a sunat ulterior să-mi zică ceva, orice. Ceea ce m-a durut un pic pentru că toți dorim atenție și mie îmi place să vorbesc cu el.
 
 Bun...
 
@@ -59,7 +64,7 @@ Cu Dan am fost coleg niște ani la Gazeta Sporturilor și deși nu avem o relaț
 
 Dan produce emisiuni pentru suporterul de fotbal cu spirit ingineresc. Sau pentru inginerii cu spirit de suporter de fotbal. Dintre cei 4, doar Samuilă se mai apropie  de acest stil.
 
-În fine, merită să-l urmărești dacă vrei să vezi cum Mihai Stoica, un invitat dificil și intimidant pentru unii ziariști, [ajunge să se pună conștient sau nu în slujba emisiunii](__GHOST_URL__/televiziuni-sport-analisti-liga1/) moderate de Dan Udrea. Nu mereu, nu tot timpul, dar parcă mai mult decât oricând în aparițiile sale televizate.
+În fine, merită să-l urmărești dacă vrei să vezi cum Mihai Stoica, un invitat dificil și intimidant pentru unii ziariști, [ajunge să se pună conștient sau nu în slujba emisiunii](https://www.cameravar.ro/televiziuni-sport-analisti-liga1/) moderate de Dan Udrea. Nu mereu, nu tot timpul, dar parcă mai mult decât oricând în aparițiile sale televizate.
 
 Uneori, am impresia că Stoica nu-l prea place pe Udrea, dar ceva-mi spune că-l respectă mai mult decât obișnuiește să respecte oamenii din breasla noastră.
 
@@ -89,7 +94,7 @@ Eu am însă gusturile mele.
 
 Care gusturi duc la următorul verdict: **Naum e cel mai bun moderator de emisiune sportivă.**
 
-De altfel, pentru ceilalți ar fi și imposibil să concureze cu el pentru că are o structură profesională și academică diferită de ceilalți. Prin urmare, doar aparent compar moderator cu moderatori, [Naum e în propria sa categorie](__GHOST_URL__/cei-mai-buni-analisti-liga1/).
+De altfel, pentru ceilalți ar fi și imposibil să concureze cu el pentru că are o structură profesională și academică diferită de ceilalți. Prin urmare, doar aparent compar moderator cu moderatori, [Naum e în propria sa categorie](https://www.cameravar.ro/cei-mai-buni-analisti-liga1/).
 
 Glumind serios, cred că Naum poate să facă ce fac ceilalți dacă-și dă silința, dar pentru toți ceilalți moderatori din România ar fi aproape imposibil să fie ce este Naum.
 

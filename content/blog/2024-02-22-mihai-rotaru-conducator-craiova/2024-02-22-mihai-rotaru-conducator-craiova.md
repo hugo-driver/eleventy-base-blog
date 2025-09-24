@@ -4,9 +4,14 @@ slug: mihai-rotaru-conducator-craiova
 date_published: 2024-02-22T12:39:31.000Z
 date_updated: 2024-06-30T10:40:32.000Z
 tags: ["Mihai Rotaru", "CS U Craiova"]
+permalink: "mihai-rotaru-conducator-craiova/index.html"
+cover: "./mihai-rotaru-presedinte-craiova.jpg"
 ---
 
-Când diverși îl acuzau pe Mihai Rotaru că se implică prea mult în viața echipei, am spus că nu asta e marea problemă, ci faptul că [nu-și asumă întrutotul conducerea clubului](__GHOST_URL__/anticipare-situatie-craiova-petrolul/).
+![Mihai Rotaru, invitat la emisiunea lui Ovidiu Ioanițoia](./mihai-rotaru-presedinte-craiova.jpg)
+
+
+Când diverși îl acuzau pe Mihai Rotaru că se implică prea mult în viața echipei, am spus că nu asta e marea problemă, ci faptul că [nu-și asumă întrutotul conducerea clubului](https://www.cameravar.ro/anticipare-situatie-craiova-petrolul/).
 
 Și-ntâmplător, chiar asta a făcut după retragerea lui Sorin Cârțu din postura de președinte.
 
@@ -32,7 +37,7 @@ E ilogic.
 
 Petev este acum un antrenor mai adaptat Craiovei decât a fost în momentul numirii. Cunoaște mai bine jucătorii, clubul, atmosfera și chiar pe Rotaru.
 
-Povestea cu “[nu știe campionatul](__GHOST_URL__/mihai-rotaru-ivaylo-petev/)” este doar o scuză patriotică pentru cei care au impresia că antrenorii români merită mai mult decât reușesc ei înșiși să obțină de la viața profesională.
+Povestea cu “[nu știe campionatul](https://www.cameravar.ro/mihai-rotaru-ivaylo-petev/)” este doar o scuză patriotică pentru cei care au impresia că antrenorii români merită mai mult decât reușesc ei înșiși să obțină de la viața profesională.
 
 ## De ce teoria jucătorilor străini care nu înțeleg spiritul Craiovei e o exagerare
 
@@ -54,7 +59,7 @@ Rotaru a plătit peste 1.000.000 Euro ca să-i aducă pe acești străini, ceea 
 
 ## De ce Rotaru e unul dintre cei mai buni președinți posibili pentru Craiova
 
-Părerea mea este că [cea mai slabă verigă din fotbalul românesc sunt conducătorii de club.](__GHOST_URL__/cea-mai-slaba-veriga-fotbalul-romanesc/)
+Părerea mea este că [cea mai slabă verigă din fotbalul românesc sunt conducătorii de club.](https://www.cameravar.ro/cea-mai-slaba-veriga-fotbalul-romanesc/)
 
 Nu doar pentru că cei pe care-i avem sunt slab pregătiți în general, ci și pentru că lipsa aceasta de resurse nu e acoperită cu expați.
 
@@ -90,7 +95,7 @@ Ca și când, a face bani e o chestie ușoară, dar cumva sub demnitatea celor c
 
 Adică de cluburi.
 
-Sunt unul dintre cei care afirmă iar și iar [că un club de fotbal este mai mult decât o simplă societate comercială](__GHOST_URL__/importanta-patronului-in-fotbal/). Că nu poți trata un club ca pe o firmă oarecare.
+Sunt unul dintre cei care afirmă iar și iar [că un club de fotbal este mai mult decât o simplă societate comercială](https://www.cameravar.ro/importanta-patronului-in-fotbal/). Că nu poți trata un club ca pe o firmă oarecare.
 
 Dar această afirmație te poate face să pierzi din vedere un aspect foarte important: deși un club este mai mult decât o simplă firmă, totuși un club este și așa ceva.
 

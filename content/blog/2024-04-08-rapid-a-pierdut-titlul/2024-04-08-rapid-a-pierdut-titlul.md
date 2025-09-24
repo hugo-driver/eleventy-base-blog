@@ -4,7 +4,11 @@ slug: rapid-a-pierdut-titlul
 date_published: 2024-04-08T07:36:15.000Z
 date_updated: 2024-06-30T10:32:30.000Z
 tags: ["Rapid", "FCSB", "CS U Craiova"]
+permalink: "rapid-a-pierdut-titlul/index.html"
+cover: "./cine-a-pierdut-titlul.jpg"
 ---
+
+![Distribuția echipelor de la meciul Rapid - FCSB 4-0](./cine-a-pierdut-titlul.jpg)
 
 Unii cred că aseară Craiova a ieșit din lupta pentru titlu pentru că a pierdut meciul cu FCSB.
 
@@ -89,4 +93,4 @@ N-au putut, n-au avut.
 Adică au pierdut.
 
 PS: după ce au câștigat cu FCSB cu 4-0, am scris asta...
-![](__GHOST_URL__/content/images/2024/04/Screenshot-2024-04-08-at-10.35.12.png)
+![Comentariu Ștefan Beldie după Rpid - FCSB  4-0](comentariu-stefan-beldie-rapid-fcsb-4-0.jpg)
