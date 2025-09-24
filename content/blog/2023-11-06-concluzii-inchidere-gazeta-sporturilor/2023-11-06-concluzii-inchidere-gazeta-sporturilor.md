@@ -1,10 +1,16 @@
 ---
 title: Câteva concluzii după închiderea ediției tipărite a Gazetei Sporturilor
+description: De la 1 noiembrie, ziarul nu va mai fi trimis în tipografie și va fi urcat online sub forma deja consumată de o bună parte a publicului Gazetei Sporturilor
 slug: concluzii-inchidere-gazeta-sporturilor
 date_published: 2023-11-06T09:53:49.000Z
 date_updated: 2024-06-30T10:56:30.000Z
 tags: ["Presa sportivă", "Suporteri"]
+permalink: "concluzii-inchidere-gazeta-sporturilor/index.html"
+cover: "./redactia-gazetei-sporturilor.jpg"
 ---
+
+![Imgine din redacția Gazetei Sporturilor înainte de închiderea ediției de print](./redactia-gazetei-sporturilor.webp)
+
 
 Pe 1 noiembrie, Gazeta Sporturilor a apărut pentru ultima dată în formatul clasic.
 
@@ -38,7 +44,7 @@ Sau dispar ca importanță din raza de interes a celor caredecid ce-nseamnă să
 
 Nu toți oamenii au parte de bucurii intense în fiecare zi.
 
-Iar o veste proastă pentru unii dintre cei pe care-i disprețuiești sau urăști de-a dreptul [poate fi o veste bună pentru tine](__GHOST_URL__/concediere-ziaristi-sportivi-mironica-cosma/).
+Iar o veste proastă pentru unii dintre cei pe care-i disprețuiești sau urăști de-a dreptul [poate fi o veste bună pentru tine](https://www.cameravar.ro/concediere-ziaristi-sportivi-mironica-cosma/).
 
 Ca și-n cazul poveștii cu demiterea lui Țepelin, pe site-ul Gazetei au apărut o grămadă de comentarii ale unor cititori ai site-ului bucuroși că în sfârșit se-ntâmplă încă ceva rău pentru ziariști și ceva bun pentru ei.
 
@@ -134,7 +140,7 @@ Nu spun că n-ar mai fi scris despre asta, dar n-am mai văzut eu - anume, că �
 
 Sincer, chestiunea aceasta este foarte distractivă pentru mine.
 
-Eu am un istoric bogat în ceea ce privește [raportarea nu tocmai "respectuoasă" la public](__GHOST_URL__/tolontan-hamlet-si-chiriches/).
+Eu am un istoric bogat în ceea ce privește [raportarea nu tocmai "respectuoasă" la public](https://www.cameravar.ro/tolontan-hamlet-si-chiriches/).
 
 În ce sens?
 
@@ -174,7 +180,7 @@ Dar apoi am aflat [din ce a scris Dan Udrea](https://www.gsp.ro/opinii/editorial
 
 Două lucruri trebuie să remarc însă...
 
-În primul rând, c-am fost și-am rămas singurul ziarist care a spus că [denumirea Superliga este comică](__GHOST_URL__/de-ce-nu-superliga-liga1/) pentru fotbalul nostru de primă ligă.
+În primul rând, c-am fost și-am rămas singurul ziarist care a spus că [denumirea Superliga este comică](https://www.cameravar.ro/de-ce-nu-superliga-liga1/) pentru fotbalul nostru de primă ligă.
 
 Asta deși sunt și singurul ziarist care a susținut insistent că avem un fotbal decent raportat la finanțarea sa.
 
@@ -182,7 +188,7 @@ Amuzant, cei care de ani de zile spun că avem un fotbal slab tac mărunt în co
 
 Penibil.
 
-Al doilea lucru remarcabil este că sunt singurul ziarist care a scris despre faptul că [pariurile sunt un fel de diabet al presei sportive](__GHOST_URL__/cancerul-presei-sportive-casele-de-pariuri/) înainte să apară public ceva despre problemele lui Țepelin și ale colegilor săi.
+Al doilea lucru remarcabil este că sunt singurul ziarist care a scris despre faptul că [pariurile sunt un fel de diabet al presei sportive](https://www.cameravar.ro/cancerul-presei-sportive-casele-de-pariuri/) înainte să apară public ceva despre problemele lui Țepelin și ale colegilor săi.
 
 Nu cu mult timp înainte, aproape două luni înainte.
 

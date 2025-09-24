@@ -1,10 +1,16 @@
 ---
 title: De ce s-a vopsit Costin Ștucan
+description: Îl bănuiesc pe Costin de-o-ncercare reușită de-a obține atenție.Atât în momentul angajamentului de-a se vopsi roșu turbat dacă ne calificăm la Euro, dar mai ales în acest moment, când a trecut la fapte.
 slug: de-ce-s-a-vopsit-costin-stucan
 date_published: 2023-11-20T08:30:36.000Z
 date_updated: 2024-06-30T10:53:40.000Z
 tags: Presa sportivă
+permalink: "de-ce-s-a-vopsit-costin-stucan/index.html"
+cover: "./de-ce-si-a-vopsit-costin-stucan-parul-rosu.jpg"
 ---
+
+![Costin Ștucan vopsit roșu în cap după ce a pierdut un pariu legat de calificarea României la Euro](./de-ce-si-a-vopsit-costin-stucan-parul-rosu.jpg)
+
 
 Cazul Costin Ștucan pare unul aparte, dar în realitate este relevant pentru mulți dintre cei care trăim / lucrăm public.
 
@@ -140,7 +146,7 @@ Habar n-am.
 
 Depinde de fiecare om în parte.
 
-De exemplu, [când vorbesc aiurea și faptele demonstrează că am vorbit aiurea](__GHOST_URL__/anticipare-situatie-craiova-petrolul/), sunt tentat să fac o chestie total nespectaculoasă.
+De exemplu, [când vorbesc aiurea și faptele demonstrează că am vorbit aiurea](https://www.cameravar.ro/anticipare-situatie-craiova-petrolul/), sunt tentat să fac o chestie total nespectaculoasă.
 
 Adică, să spun c-am vorbit aiurea pentru că faptele au arătat altceva.
 
@@ -150,7 +156,7 @@ Nu care cumva să se uite cât de des am eu dreptate și nu care cumva să cread
 
 Da, iarăși o chestie care implică dorința de-a primi atenție.
 
-Apropo de asta, imediat după tragerea la sorți a acestei grupe, am scris aici că după părerea mea România nu doar că se va califica la Euro 2024,  [dar că avem șanse reale să terminăm pe primul lor, înaintea Elveției](__GHOST_URL__/ne-calificam-la-euro/). 
+Apropo de asta, imediat după tragerea la sorți a acestei grupe, am scris aici că după părerea mea România nu doar că se va califica la Euro 2024,  [dar că avem șanse reale să terminăm pe primul lor, înaintea Elveției](https://www.cameravar.ro/ne-calificam-la-euro/). 
 
 Fără însă să-mi asum că fac cine știe ce gest dramatic dacă nu se întâmplă lucrurile cum le-am anunțat.
 
@@ -164,7 +170,7 @@ Așa că nu mă vopsesc roșu-n cap, ci doar încerc să spun ceea ce cred pe ba
 
 ## Poate fi Ștucan altfel decât este Ștucan?
 
-Când am făcut [prezentarea personajului Șumudică](__GHOST_URL__/sumudica/), am întărit o idee -  dacă de mâine, acesta și-ar schimba total comportamentul și ar deveni un monument de "seriozitate", probabil că n-ar mai fi la fel de bun antrenor.
+Când am făcut [prezentarea personajului Șumudică](https://www.cameravar.ro/sumudica/), am întărit o idee -  dacă de mâine, acesta și-ar schimba total comportamentul și ar deveni un monument de "seriozitate", probabil că n-ar mai fi la fel de bun antrenor.
 
 Asta pentru că o parte importantă a talentului său izvorăște exact de unde izvorăsc și reacțiile / atitiudinile sale publice controversate.
 

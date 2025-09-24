@@ -1,14 +1,20 @@
 ---
-title: De ce decizia lui Rotaru de-a-l alege pe bulgarul Ivaylo Petev ca antrenor al Craiovei pare una foarte bună
+title: De ce bulgarul Petev ar pute reuși la Craiova
+description: De ce decizia lui Rotaru de-a-l alege pe bulgarul Ivaylo Petev ca antrenor al Craiovei pare una foarte bună.
 slug: mihai-rotaru-ivaylo-petev
 date_published: 2023-11-09T07:47:18.000Z
 date_updated: 2024-06-30T10:55:20.000Z
 tags: ["Mihai Rotaru", "CS U Craiova", "Antrenori"]
+permalink: "mihai-rotaru-ivaylo-petev/index.html"
+cover: "./ivaylo-petev-la-antrenamentul-craiovei.jpg"
 ---
+
+![Ivaylo Petev, alegera lui Mihai Rotaru pentru banca Craiovei, pare un antrenor potrivit de această dată.](./ivaylo-petev-la-antrenamentul-craiovei.jpg)
+
 
 Am o teorie legată de antrenorii români...
 
-După [conducătorii de club](__GHOST_URL__/cea-mai-slaba-veriga-fotbalul-romanesc/), antrenorii români sunt a doua cea mai slabă verigă a fotbalului nostru.
+După [conducătorii de club](https://www.cameravar.ro/cea-mai-slaba-veriga-fotbalul-romanesc/), antrenorii români sunt a doua cea mai slabă verigă a fotbalului nostru.
 
 E o simplă teorie bazată pe chestiuni subiective precum:
 
@@ -23,8 +29,8 @@ E o simplă teorie bazată pe chestiuni subiective precum:
 
 Teorie conform căreia în fotbalul românesc există două categorii de oameni de foarte bună calitate:
 
-- [**suporterii din tribune**](__GHOST_URL__/cel-mai-important-obiectiv-liga1/) pentru că cei care consumă fotbalul prin prezență fizică pe stadion au un rol major în creșterea spectacolului de care beneficiază într-un final și cei care doar se uită la TV
-- [**privații care finanțează echipe de fotbal**](__GHOST_URL__/importanta-patronului-in-fotbal/) pentru că cine investește / plătește / riscă e întotdeauna valoros. Da, știu, e neplăcut să auzi asta, dar e un text despre realitate, nu despre ce place sau nu place în general publicului.
+- [**suporterii din tribune**](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1/) pentru că cei care consumă fotbalul prin prezență fizică pe stadion au un rol major în creșterea spectacolului de care beneficiază într-un final și cei care doar se uită la TV
+- [**privații care finanțează echipe de fotbal**](https://www.cameravar.ro/importanta-patronului-in-fotbal/) pentru că cine investește / plătește / riscă e întotdeauna valoros. Da, știu, e neplăcut să auzi asta, dar e un text despre realitate, nu despre ce place sau nu place în general publicului.
 
 Unde sunt ziariștii în toată povestea asta?
 
@@ -68,7 +74,7 @@ De asta, a adus un bulgar cu rezultate la Ludogorets și cu experiență la nive
 
 Ce-nseamnă asta?
 
-Printre multe altele, a adus un om capabil să facă selecție. Iar după cum ți-am tot spus în trecut, [evaluarea corectă a lotului celor de la Craiova](__GHOST_URL__/marea-problema-a-lui-radoi/) este cel mai dificil lucru cu care clubul se confruntă în realitate.
+Printre multe altele, a adus un om capabil să facă selecție. Iar după cum ți-am tot spus în trecut, [evaluarea corectă a lotului celor de la Craiova](https://www.cameravar.ro/marea-problema-a-lui-radoi/) este cel mai dificil lucru cu care clubul se confruntă în realitate.
 
 Asta pentru că au în continuare în lot sau împrumutați jucători cu talent real și cu o vârstă bună care nu oferă suficient pentru pretențiile clubului.
 

@@ -1,10 +1,16 @@
 ---
 title: De ce publică Gazeta articole cu femei care-și flutură sânii prin arenele sportive
+description: Din păcate, Gazeta Sporturilor nu recunoaște diversitatea aproape monolitică a publicului său de bărbați albagii.
 slug: gazeta-sporturilor-articole-femei-goale
 date_published: 2023-11-22T09:48:05.000Z
 date_updated: 2024-06-30T10:54:25.000Z
 tags: Presa sportivă
+permalink: "gazeta-sporturilor-articole-femei-goale/index.html"
+cover: "./orientarea-editoriala-a-gazetei-sporturilor.jpg"
 ---
+
+![Orientarea editorial-sexuală a Gazetei Sporturilor](./orientarea-editoriala-a-gazetei-sporturilor.jpg)
+
 
 De foarte mulți ani, diverși acuză Gazeta Sporturilor că publică poze cu femei goale.
 
@@ -17,7 +23,7 @@ Totuși, acuza a fost atât de populară încât a continuat să fie vânturată
 Degeaba.
 
 Ceva-mi spune că chiar și-n aceste momente, când ediția tipărită a Gazetei nu mai există, se vor găsi "cititori" care să afirme că nu-l mai cumpără tocmai pentru că prezența acestor imagini li se pare o chestiune degradantă.
-
+orientarea-editoriala-a-gazetei-sporturilor.
 Iar trecerea lui Tolontan la Libertatea, ziarul care a impus în mentalul colectiv ideea de fată de la pagina 5, nu a ajutat în vreun fel Gazeta din acest punct de vedere.
 
 În schimb, lucrurile stau diferit pentru site-ul gsp.ro
@@ -26,7 +32,7 @@ Online-ul a fost dintotdeauna mai puțin inhibat decât printul și aici apar î
 
 Sau doamne a căror activitate nu poate fi prezentată fără ajutorul unei galerii de vreo 40 de imagini relevante.
 
-[Gen cea mai sexy antrenoare din handbalul românesc.](__GHOST_URL__/ipocrizie-gsp-mangia/)
+[Gen cea mai sexy antrenoare din handbalul românesc.](https://www.cameravar.ro/ipocrizie-gsp-mangia/)
 
 Bun, de ce se întâmplă asta?
 
@@ -68,7 +74,7 @@ Dacă nu mă crezi, citește comentariile postate în subsolul oricărui articol
 
 Ca ziariștii să recunoască această diversitate, trebuie ori să-i auzi vorbind în particular, ori să fie atacați de-o manieră care să-i doară.
 
-De exemplu, ca atunci când Gazeta anunța închiderea ediției tipărite și [o parte vocală a publicului se bucura de răul ziariștilor](__GHOST_URL__/concluzii-inchidere-gazeta-sporturilor/).
+De exemplu, ca atunci când Gazeta anunța închiderea ediției tipărite și [o parte vocală a publicului se bucura de răul ziariștilor](https://www.cameravar.ro/concluzii-inchidere-gazeta-sporturilor/).
 
 Ei, atunci, unii ziariști au găsit resurse să afirme lucruri pe care le gândeau, dar nu le spuneau public.
 
