@@ -4,7 +4,11 @@ slug: anticipare-declin-rapid
 date_published: 2024-04-16T07:50:45.000Z
 date_updated: 2024-06-30T10:31:57.000Z
 tags: ["Rapid", "Presa sportivă"]
+permalink: "anticipare-declin-rapid/index.html"
+cover: "./anticipare-declin-rapid.jpg"
 ---
+
+![Jucătorii Rapidului după ce u învins FCSB cu 4-0](./anticipare-declin-rapid.jpg)
 
 Imediat după ce Rapid a bătut FCSB cu 4-0, am scris că Rapid n-a făcut altceva decât să relanseze campionatul inclusiv pentru Craiova și CFR Cluj.
 
@@ -32,6 +36,6 @@ Da, vorbesc despre ceea ce nu văd / nu cunosc.
 
 Sau dacă văd meciurile, le văd cu tot felul de prejudecăți, preconcepții gen “campionat slab” și nu înțeleg ceea ce văd. Dacă mai stau și cu ochii-n telefoane să vadă ce bilet le iese la pariuri, gata, a fugit puiul cu ața fotbalului.
 
-Deci faptul că eu am anticipat această posibilitate n-are nicio legătură cu vreo [super capacitate de-a mea de-a anticipa ce se întâmplă](__GHOST_URL__/ne-calificam-la-euro/), ci cu un fapt absolut banal - mă uit la meciuri și o fac cu atenție.
+Deci faptul că eu am anticipat această posibilitate n-are nicio legătură cu vreo [super capacitate de-a mea de-a anticipa ce se întâmplă](https://www.cameravar.ro/ne-calificam-la-euro/), ci cu un fapt absolut banal - mă uit la meciuri și o fac cu atenție.
 
 Atât, nimic mai mult.

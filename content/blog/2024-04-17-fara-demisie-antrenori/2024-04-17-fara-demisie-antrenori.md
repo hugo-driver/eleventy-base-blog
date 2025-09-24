@@ -1,10 +1,15 @@
 ---
 title: De ce niciun antrenor n-ar trebui să-și dea demisia
+description: Nicolae Dică este un exemplu de antrenor care își dă demisia pentru că-și pierde prea rapid încrederea în sine.
 slug: fara-demisie-antrenori
 date_published: 2024-04-17T08:36:44.000Z
 date_updated: 2024-06-30T10:30:44.000Z
 tags: ["Antrenori", "Conducători de club"]
+permalink: "fara-demisie-antrenori/index.html"
+cover: "./nicolae-dica-demisie.jpg"
 ---
+
+![Nicolae Dică s-a grăbit din nou să-și de demisia](./nicolae-dica-demisie.jpg)
 
 Foarte bune ideile lui Panduru de la Orange Sport [legate de eroarea antrenorilor care-și dau demisia](https://www.youtube.com/watch?v=oPoe19kkH-g) sub presiunea rezultatelor, a suporterilor sau a conducerii.
 
@@ -84,7 +89,7 @@ Dacă acești oameni din executivul managerial al cluburilor - președinți, dir
 
 Și-și permit la nesfârșit să fie proștii fotbalului, dar să-i facă pe alții să plătească pentru prostia lor - antrenori, jucători și patroni uneori.
 
-Le spun [proștii fotbalului](__GHOST_URL__/cea-mai-slaba-veriga-fotbalul-romanesc/) pentru că tagma conducătorilor de club este cea care angajează antrenori pe care-i tot schimbă iar și iar dovedind nu că antrenorii sunt slabi, ci că ei sunt incapabili să găsească antrenori buni.
+Le spun [proștii fotbalului](https://www.cameravar.ro/cea-mai-slaba-veriga-fotbalul-romanesc/) pentru că tagma conducătorilor de club este cea care angajează antrenori pe care-i tot schimbă iar și iar dovedind nu că antrenorii sunt slabi, ci că ei sunt incapabili să găsească antrenori buni.
 
 Sau sunt prea isterici ca să-i lase pe antrenori să lucreze.
 
