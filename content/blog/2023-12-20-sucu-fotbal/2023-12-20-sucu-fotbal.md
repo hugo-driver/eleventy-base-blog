@@ -1,10 +1,15 @@
 ---
 title: Șucu e pe punctul să descopere ceva interesant legat de fotbalul românesc... Sau nu.
+description: Patronul Rapidului a crezut că dacă fotbalul e populat cu oameni ne pregătiți, automt va obține rapid succesul pe care și-l dorește.
 slug: sucu-fotbal
 date_published: 2023-12-20T08:11:46.000Z
 date_updated: 2024-06-30T10:46:00.000Z
 tags: ["Dan Șucu", "Rapid"]
+permalink: "sucu-fotbal/index.html"
+cover: "./valeriu-iftime-fc-botosani.jpg"
 ---
+
+![Dan Șucu, dezamăgit de o nouă înfrângere a Rapidului](./dan-sucu-dupa-un-meci-pierdut-de-rapid.webp)
 
 De câte ori văd imagini cu Dan Șucu nelămurit de evoluțiile Rapidului, de atâtea ori îmi vine în minte o situație pe care acesta a trăit-o acum mulți ani, pe la începuturile afacerilor sale cu mobilă.
 
@@ -94,6 +99,6 @@ Pentru că Hagi este singurul om care se pricepe real la fotbal dintre cei care 
 
 Marele său neajuns este că nu se "pricepe" la bani pe cât se pricepe la fotbal și asta îl limitează deja. Nu atât de mult pe cât e limitat Șucu în acest moment de neînțelegerea fenomenului, dar totuși...
 
-Acum, secretul este ca [Șucu să aibă răbdarea să progreseze](__GHOST_URL__/5-lucruri-aduce-dan-sucu-in-liga1/) în ceea ce privește înțelegerea fotbalului așa cum a avut răbdare cu acei angajați ai fabricii de mobilă de la Târgu Mureș.
+Acum, secretul este ca [Șucu să aibă răbdarea să progreseze](https://www.cameravar.ro/5-lucruri-aduce-dan-sucu-in-liga1/) în ceea ce privește înțelegerea fotbalului așa cum a avut răbdare cu acei angajați ai fabricii de mobilă de la Târgu Mureș.
 
 Dacă va avea, banii săi și apoi banii Rapidului vor începe să conteze cu adevărat tocmai pentru că vor fi bani investiți de oameni care știu ce fac, nu oameni care ghicesc ce fac.

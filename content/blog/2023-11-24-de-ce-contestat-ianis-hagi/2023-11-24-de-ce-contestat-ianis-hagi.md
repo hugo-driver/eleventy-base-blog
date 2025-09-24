@@ -1,10 +1,16 @@
 ---
 title: De ce nu-l suportă unii pe Ianis Hagi
+description: O explicație neplăcută, dar adevărată pentru care Ianis Hagi este contestat fotbalistic și nu numai.
 slug: de-ce-contestat-ianis-hagi
 date_published: 2023-11-24T16:00:00.000Z
 date_updated: 2024-06-30T10:54:46.000Z
 tags: ["Suporteri", "Echipa națională"]
+permalink: "de-ce-contestat-ianis-hagi/index.html"
+cover: "./ianis-hagi.jpg"
 ---
+
+![Ianis Hagi este unul dintre cei mai contestați, dar și iubiți jucători ai naționalei](./ianis-hagi.jpg)
+
 
 Nu există meci al naționalei care să nu atragă comentarii din acestă categorie:
 

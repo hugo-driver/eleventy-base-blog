@@ -1,10 +1,15 @@
 ---
 title: De ce fanii FCSB nu vor boicota Digi Sport
+description: Fanii FCSB amenință des cu boicotarea presei sportive când ceva nu le convine în relație cu munca ziariștilor, dar faptic, asta nu se întâmplă
 slug: fani-fcsb-boicot-vali-moraru-digi-sport
 date_published: 2024-01-31T07:09:00.000Z
 date_updated: 2024-06-30T10:34:11.000Z
 tags: ["FCSB", "Suporteri", "Presa sportivă"]
+permalink: "fani-fcsb-boicot-vali-moraru-digi-sport/index.html"
+cover: "./scandal-vali-moraru-decebal-radulescu-ilie-dumitrescu-digi-sport.jpg"
 ---
+ 
+![Vali Moraru și Decebal Rădulescu au reușit să irite din nou fanii FCSB](./scandal-vali-moraru-decebal-radulescu-ilie-dumitrescu-digi-sport.jpg)
 
 Disputa Vali Moraru & Decebal Rădulescu vs. Ilie Dumitrescu pe [tema meritelor și statutului pe care le au antrenorii FCSB](https://www.youtube.com/watch?v=b3rs2Wx6s4w) naște o mică-mare revoltă online în rândul fanilor roș-albaștri.
 
@@ -16,13 +21,13 @@ Vali Moraru se rezumă la a constata că un antrenor care lasă deciziile tehnic
 
 Un individ teleghidat de pe canapeau tehnică, cum ar zice Dan Ștefănescu.
 
-Sună mai blând cum spun eu pentru că eu mă exprim în scris și pentru că probabil sunt cam singurul ziarist [care-l înțelege pe Gigi Becali la modul real](__GHOST_URL__/de-ce-il-urasti-pe-becali/). 
+Sună mai blând cum spun eu pentru că eu mă exprim în scris și pentru că probabil sunt cam singurul ziarist [care-l înțelege pe Gigi Becali la modul real](https://www.cameravar.ro/de-ce-il-urasti-pe-becali/). 
 
 Colegii mei au spus ce au avut de spus pe un ton ridicat, pe alocuri strigat.
 
 ## Arată-mi suporterul care crede că presa e obiectivă cu echipa sa!
 
-În condițiile acestea, [Sergi Lopez](__GHOST_URL__/sergi-lopez/), cel mai influent suporter stelist care postează pe Facebook și [Patreon](https://www.patreon.com/sergilopez) diverse comentarii sau analize legate de echipa patronată de Becali, scrie despre motivele pentru care Moraru și Rădulescu greșesc.
+În condițiile acestea, [Sergi Lopez](https://www.cameravar.ro/sergi-lopez/), cel mai influent suporter stelist care postează pe Facebook și [Patreon](https://www.patreon.com/sergilopez) diverse comentarii sau analize legate de echipa patronată de Becali, scrie despre motivele pentru care Moraru și Rădulescu greșesc.
 
 Și nu doar că ar greși, ci și că ar avea o atitudine în total dezacord cu statutul de ziarist profesionist.
 
@@ -41,7 +46,9 @@ Adică e atât de des vehiculată încât ai crede că ar fi adevărată dacă n
 În fine, așa cum era de așteptat, [respectivele postări de pe Facebook](https://fb.watch/pVGspsfJIg/) au strâns niște sute de comentarii, majoritatea furioase de-a dreptul.
 
 Mai mult, dincolo de numeroasele jigniri la adresa celor doi ziariști, apare și îndemnul lucid de-a sabota Digi Sport.
-![](__GHOST_URL__/content/images/2024/01/Screenshot-2024-01-31-at-08.11.59.png)
+
+![Chemare la boicotarea Digi Sport de către fanii FCSB](./boicot-fani-fcsb-digi-sport)
+
 Adică, să-i lovească pe ziariști și postul care-i găzduiește acolo unde doare cel mai tare - la audiență. 
 
 Adică la bani, desigur.
@@ -64,7 +71,7 @@ Prin urmare, te vei uita în continuare la Digi Sport.
 
 Și te vei umple de furie când Vali Moraru și Decebal Rădulescu spun lucruri care nu-ți convin, dar cu care erai de acord cu ceva vreme în urmă.
 
-Sau când [Dan Filoti face orice](__GHOST_URL__/dan-filoti/).
+Sau când [Dan Filoti face orice](https://www.cameravar.ro/dan-filoti/).
 
 ## E dreptul oricărui suporter să fie ipocrit și dreptul meu de-a remarca asta
 

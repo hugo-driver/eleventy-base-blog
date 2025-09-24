@@ -1,10 +1,15 @@
 ---
 title: De ce Digi Sport ar trebui să-i aducă pe Ion Crăciunescu și pe Marius Avram în aceeași emisiune
+description: Digi Sport n-ar trebui să aleagă între Crăciunescu și Avram, ci să-i folosească pe amândoi chiar în aceeași emisiune
 slug: digi-sport-emisiune-craciunescu-avram
 date_published: 2023-12-15T09:02:53.000Z
 date_updated: 2024-06-30T10:55:41.000Z
 tags: ["Presa sportivă", "Arbitraje"]
+permalink: "digi-sport-emisiune-craciunescu-avram/index.html"
+cover: "./ion-craciunescu-digi-sport.jpg"
 ---
+
+![Cadru-tip din emisiunile în care Ion Crăciunescu și Marius Avram ar participa împreună la Digi Sport](./ion-craciunescu-digi-sport.jpg)
 
 Zilele trecute, Ion Crăciunescu și-a exprimat în direct o nemulțumire legată de statutul său la Digi Sport.
 
@@ -18,7 +23,7 @@ Mai exact, legat de ceea ce percepe dânsul despre acest statut.
 
 > **Ion Crăciunescu**: Ah, am înțeles, analistul Digi Sport… Eu nu mai sunt, a ajuns Marius Avram?!
 
-> **Radu Naum**: Cine a spus că nu sunteți analist?”
+> **Radu Naum**: Cine a spus că nu sunteți analist?
 
 > **Ion Crăciunescu**: La mine nu mai scrie analist. Scrie la emisiuni: «Marius Avram, analist Digi Sport».
 
@@ -88,7 +93,7 @@ Nu am vreo informație legată de această chestiune, dar bănuiesc faptul că "
 
 Și mai bănuiesc că nu este cineva din conducerea editorială a postului, adică nu e un ziarist. 
 
-Speculez asta pentru că breasla jurnaliștilor nu are prea des ocazia de-a inspira asemenea seriozitate precum ce anunțată de fostul mare arbitru.
+Speculez asta pentru că breasla jurnaliștilor nu are prea des ocazia de-a inspira asemenea seriozitate precum cea anunțată de fostul mare arbitru.
 
 Probabil e vreunul dintre "cabliști", adică oameni din managementul Digi Sport care au un cuvânt greu de spus fără să aibă istoric în presă, ci doar cunoaștere de business.
 

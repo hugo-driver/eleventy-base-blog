@@ -1,10 +1,15 @@
 ---
 title: Dan Filoti - ghid de înțelegere a personajului
+description: Tot ceea ce merită să știi despre Dan Filoti, plus ceva în plus din perspective la care nu te-ai gândit.
 slug: dan-filoti
 date_published: 2024-01-06T13:19:18.000Z
 date_updated: 2024-06-29T16:31:13.000Z
 tags: Presa sportivă
+permalink: "dan-filoti/index.html"
+cover: "./dan-filoti-digi-sport.jpg"
 ---
+
+![Dan Filoti în timpul unei emisiuni la Digi Sport](./dan-filoti-digi-sport.jpg)
 
 Dan Filoti este un moderator Digi Sport care reușește să scoată din sărite o bună parte a publicului stelist prin ceea ce respectivii numesc "rapidismul său feroce".
 
@@ -31,7 +36,7 @@ Spre deosebire de mine care țin la rândul meu cu o echipă și vă las să fi�
 După părerea mea, Dan a făcut o eroare.
 
 Nu pentru c-a spus adevărul, ci pentru că publicul din România nu poate face față senin adevărului. 
-![](https://media.tenor.com/2pEZVMEKZvYAAAAC/you-cant-handle-the-truth-handle-the-truth.gif)
+
 Ideea care rămâne este că-n lumea vorbelor - presa sportivă și numai - faptele sunt de multe ori mai slabe decât declarațiile. 
 
 Adică, din momentul în care un ziarist spune că este simpatizantul / fanul unei echipe, acel ziarist nu mai scapă vreodată de bănuiala că face jocurile respectivei echipe.
@@ -64,7 +69,7 @@ Sau fecesebiști cum li se spune moderno-juridic.
 
 De ce?
 
-Pentru că suporterii marilor echipe, așa cum este FCSB [sunt foarte sensibili de felul lor](__GHOST_URL__/cum-sa-tii-cu-fcsb/). 
+Pentru că suporterii marilor echipe, așa cum este FCSB [sunt foarte sensibili de felul lor](https://www.cameravar.ro/cum-sa-tii-cu-fcsb/). 
 
 Au o foarte mică toleranță când vine vorba de orice le ia din expunere. Exact așa cum niște copii învățați să primească doar ei jucării se supără când apare unul care primește și el una.
 
@@ -90,7 +95,7 @@ De exemplu, ori de câte ori am avut ocazia să modereze emisiuni, știi care er
 
 Ceream ca eu să nu dau vreodată telefon să invit pe cineva. Să se ocupe producătorii, cei din redacție, oricine, dar nu eu.
 
-[Asta deși țin la rândul meu cu o echipă](__GHOST_URL__/relatii-ziaristi-oameni-din-fotbal/) și aș fi putut pe logica de mai sus să aduc la rândul meu oameni asociabili cu respectiva formație.
+[Asta deși țin la rândul meu cu o echipă](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal/) și aș fi putut pe logica de mai sus să aduc la rândul meu oameni asociabili cu respectiva formație.
 
 ## Cât de bun ziarist sportiv este Dan Filoti
 

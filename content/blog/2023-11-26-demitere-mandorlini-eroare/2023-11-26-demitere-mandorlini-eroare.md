@@ -1,10 +1,16 @@
 ---
 title: Varga greșește dacă-l dă afară pe Mandorlini de la CFR Cluj
+description: De ce demiterea lui Mandorlini ar fi o mare eroare pentru CFR Cluj și care e adevărata problemă a echipei ardelene.
 slug: demitere-mandorlini-eroare
 date_published: 2023-11-26T11:55:15.000Z
 date_updated: 2024-06-30T10:56:08.000Z
 tags: ["CFR Cluj", "Antrenori"]
+permalink: "demitere-mandorlini-eroare/index.html"
+cover: "./andrea-mandorlini-cfr-cluj.jpg"
 ---
+
+![Italianul Mandorlini a avut rezultate decente raportat la problemele masive de lot de la CFR Cluj](./andrea-mandorlini-cfr-cluj.jpg)
+
 
 Zvonurile sunt mai vechi, dar s-au întețit după fiecare dintre ultimele 3 meciuri în care CFR Cluj nu a câștigat.
 
@@ -44,7 +50,7 @@ Sigur, ai putea crede că asta e explicabil prin prisma faptului că n-au la fel
 
 În mod real, presa sportivă are o problemă de reflexe când vine vorba de CFR Cluj. 
 
-De asta, pentru mulți nu există dimensiuni reale a ceea ce a reușit Mandorlini să facă sezonul acesta [într-un context cu totul aparte](__GHOST_URL__/marea-schimbarea-cfr/).
+De asta, pentru mulți nu există dimensiuni reale a ceea ce a reușit Mandorlini să facă sezonul acesta [într-un context cu totul aparte](https://www.cameravar.ro/marea-schimbarea-cfr/).
 
 A luat echipa de la Petrescu după ce acesta a încadrat-o în niște idei de joc și în niște repere tactice care păreau lipite pentru totdeauna de jucători.
 
