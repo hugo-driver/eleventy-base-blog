@@ -1,11 +1,16 @@
 ---
 title: "Noul obiectiv al lui Iordănescu sau al oricui va veni la națională: vânzarea lui Darius Olaru"
+description: Ca de obicei când Becali are de vândut un jucător, echipa națională devine principala sa platformă de marketing. Acum, e ândul lui Olaru.
 slug: vanzare-darius-olaru
 date_published: 2024-07-03T07:17:40.000Z
 date_updated: 2024-07-03T07:29:22.000Z
 tags: ["Echipa națională", "FCSB"]
 excerpt: Se pare că-n sfârșit pleacă Florinel Coman, dar nu răsuflați ușurați. Urmează vânzarea lui Darius Olaru
+permalink: "vanzare-darius-olaru/index.html"
+cover: ".https://www.cameravar.ro.jpg"
 ---
+
+![Darius Olaru și Mihai Stoica, unul dintre oamenii care pun presiune pe oricine poate juta la vânzarea căpitanului FCSB](./mihai-stoica-darius-olaru.jpg)
 
 Puține lucruri sunt mai amuzante decât eforturile FCSB de-a-și vinde fotbaliștii cu ajutorul echipei naționale.
 
@@ -59,7 +64,7 @@ Auuuzi, cum ar zice domnul Becali, selecționerul să-i dea telefon patronului u
 
 ## Becali ca Becali, dar Mihai Stoica e la cu totul alt nivel
 
-Dacă Becali pare un clasic al marketingului direct care are o ofertă și bombardează o listă de posibili clienți cu mesajele sale, [Mihai Stoica e cu totul altceva](__GHOST_URL__/mihai-stoica/).
+Dacă Becali pare un clasic al marketingului direct care are o ofertă și bombardează o listă de posibili clienți cu mesajele sale, [Mihai Stoica e cu totul altceva](https://www.cameravar.ro/mihai-stoica/).
 
 Aș zice că seamănă în abordări cu un vrăjitor din zona MLM.
 

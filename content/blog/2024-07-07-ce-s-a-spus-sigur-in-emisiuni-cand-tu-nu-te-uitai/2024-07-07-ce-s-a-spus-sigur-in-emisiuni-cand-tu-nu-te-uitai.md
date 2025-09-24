@@ -1,11 +1,17 @@
 ---
 title: Ce s-a spus sigur în emisiuni când tu nu te uitai
+description: Așa cum Ilie Dumitrescu are stilul său inclusiv când duce gunoiul, așa și ceilalți ziariști sau analiști care apar în emisiunile dedicate fotbalului au stilul lor greu de confundat
 slug: ce-s-a-spus-sigur-in-emisiuni-cand-tu-nu-te-uitai
 date_published: 2024-07-07T10:31:20.000Z
 date_updated: 2024-07-07T11:33:28.000Z
 tags: Presa sportivă
-excerpt: Așa cum Ilie Dumitrescu are stilul său inclusiv când duce gunoiul, așa și ceilalți ziariști sau analiști care apar în emisiunile dedicate fotbalului au stilul lor greu de confundat
+permalink: "ce-s-a-spus-sigur-in-emisiuni-cand-tu-nu-te-uitai/index.html"
+cover: "./mihai-stoica-vali-moraru-decebal-radulescu.jpg"
 ---
+
+![Mihai Stoica, bucurându-se de emisiunile în care apare Decebal Rădulescu](./mihai-stoica-vali-moraru-decebal-radulescu.jpg)
+
+Declarație reală, dar totuși inventată a lui Mihai Stoica: "Ziariștii mei preferați sunt Vali Moraru și Decebal Rădulescu. De ce? Pentru că Biblia spune să ne iubim aproapele, iar ei doi sunt tot timpul în cârca noastră".
 
 În mare, s-a spus ceea ce se spune și când te uiți. 
 
@@ -91,4 +97,4 @@ Nici măcar autorii acestei realități.
 
 ### Ștefan Beldie, nemulțumit evident că doar el însuși este impresionat de previziunile sale scrise pe CameraVAR.ro
 
-> Aud diverși spunând că nimeni nu-și imagina că echipa națională va avea aceste rezultate în calificări... Păi, [eu am scris clar](__GHOST_URL__/ne-calificam-la-euro/), înainte de primul meci din acea grupă, nu doar că ne vom califica la Euro, dar că avem și șanse foarte bune să terminăm pe primul loc în grupă. Sau mulți spun că nu se aștepta nimeni ca Rapidul să aibă acea cădere după meciul cu Steaua... Pardon, FCSB. [Tot eu am scris](__GHOST_URL__/anticipare-declin-rapid/) că acel rezultat îi păcălește pe cei care nu se uită atent la fotbal, cum mă uit eu, care văd toate meciurile posibile din Liga 1 și din Liga a 2-a... OK, numai puțin să-mi termin ideea... Deci unii au impresia că pot vorbi despre fotbal fără să se uite la meciuri, ci doar la rezultate. Acela e jucat la pariuri, nu urmărit de meciuri. [Iar pariurile sunt diabetul presei sportive!](__GHOST_URL__/cancerul-presei-sportive-casele-de-pariuri/)
+> Aud diverși spunând că nimeni nu-și imagina că echipa națională va avea aceste rezultate în calificări... Păi, [eu am scris clar](__GHOST_URL__/ne-calificam-la-euro/), înainte de primul meci din acea grupă, nu doar că ne vom califica la Euro, dar că avem și șanse foarte bune să terminăm pe primul loc în grupă. Sau mulți spun că nu se aștepta nimeni ca Rapidul să aibă acea cădere după meciul cu Steaua... Pardon, FCSB. [Tot eu am scris](https://www.cameravar.ro/anticipare-declin-rapid/) că acel rezultat îi păcălește pe cei care nu se uită atent la fotbal, cum mă uit eu, care văd toate meciurile posibile din Liga 1 și din Liga a 2-a... OK, numai puțin să-mi termin ideea... Deci unii au impresia că pot vorbi despre fotbal fără să se uite la meciuri, ci doar la rezultate. Acela e jucat la pariuri, nu urmărit de meciuri. [Iar pariurile sunt diabetul presei sportive!](https://www.cameravar.ro/cancerul-presei-sportive-casele-de-pariuri/)

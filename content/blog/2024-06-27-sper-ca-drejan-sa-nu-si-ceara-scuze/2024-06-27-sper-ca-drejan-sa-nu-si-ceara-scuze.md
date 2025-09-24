@@ -4,7 +4,14 @@ slug: sper-ca-drejan-sa-nu-si-ceara-scuze
 date_published: 2024-06-27T17:45:43.000Z
 date_updated: 2024-06-30T10:48:30.000Z
 tags: ["Presa sportivă", "Suporteri", "Echipa națională"]
+permalink: "sper-ca-drejan-sa-nu-si-ceara-scuze/index.html"
+cover: "./narcis-drejan-critici-stanciu.jpg"
 ---
+
+![Narcis Drejan într-o vacanță de culturalizare a publicului său](./narcis-drejan-critici-stanciu.jpg)
+
+Citat inventat din Drejan: "Eu mă uit la meciurile voastre și mă simt ca-n Procesul lui Kafka. Normal că apoi ce scriu vă face să vă simțiți ca-n Metamorfoza. Fiecare cu durerea lui. Citiți-l, bă, măcar pe Freud, și veți da centrări mai bune!..."
+
 
 Ce moment mai bun este să discuți despre fapta reprobabilă a unui ziarist care s-a exprimat dur-violent la adresa tricolorilor decât acum, când toată lumea trăiește extazul calificării?
 
@@ -20,7 +27,7 @@ Vezi?
 
 Sunt două condiții.
 
-Nu e suficient să consideri c-ai făcut o greșeală, ci să o și regreți. Altfel, scuzele care încearcă să-ți salveze propria piele de mușcăturile amestecate ale celor îndreptățiți și ale [șacalilor de ocazie](__GHOST_URL__/generatia-de-souffle/) sunt fără valoare.
+Nu e suficient să consideri c-ai făcut o greșeală, ci să o și regreți. Altfel, scuzele care încearcă să-ți salveze propria piele de mușcăturile amestecate ale celor îndreptățiți și ale [șacalilor de ocazie](https://www.cameravar.ro/generatia-de-souffle/) sunt fără valoare.
 
 Mai mult, nu produc absolut nicio reparație pentru cel față de care ai greșit, ci doar oferă satisfacție unor indivizi morți după plăcerea de-a-i vedea pe alții în posturi pe care ei le consideră umilitoare: “Hăhăhă, și-a cerut scuze!”.
 
@@ -44,7 +51,7 @@ De exemplu, zici ca mine că Petrolul a fost în ultimele două sezoane o echip�
 
 Am greșit?
 
-[Da, am anticipat greșit](__GHOST_URL__/anticipare-situatie-craiova-petrolul/).
+[Da, am anticipat greșit](https://www.cameravar.ro/anticipare-situatie-craiova-petrolul/).
 
 Regret?
 
@@ -78,11 +85,13 @@ Pentru că presa nu face vreodată efortul de-a explica regulile jocului.
 
 Printre aceste reguli, există și următoarele 3:
 
-1. **Nu scriem ceea ce vrea publicul să scriem, ci ceea ce interesează publicul. **Degeaba spui că nu vrei să auzi ce spune Gigi Becali pentru că în practică există o masă uriașă de oameni interesați de ce spune Gigi Becali.
+1. **Nu scriem ceea ce vrea publicul să scriem, ci ceea ce interesează publicul.** Degeaba spui că nu vrei să auzi ce spune Gigi Becali pentru că în practică există o masă uriașă de oameni interesați de ce spune Gigi Becali.
+
 2. **Textele de opinie reprezintă uneori în toată splendoarea sa gândirea subiectivă a autorului.** Degeaba te enervează, e părerea omului. Cum părerea ta poate fi că cel care a scris e un idiot. Nu-l mai citi și mergi mai departe.
+
 3. **Când presa își laudă publicul că e frumos, inteligent, special, bla-bla, fii sigur că presa minte printr-o generalizare grosolană**. Mai mult, cei care spun asta încearcă să compenseze faptul că nu te respectă printr-un act jurnalistic de calitate.
 
-# Ce aș face în locul lui Narcis Drejan
+## Ce aș face în locul lui Narcis Drejan
 
 Am văzut că la fiecare text pe care-l scrie după ce-a-nceput Euro, vin diverși care-i cer să arate că-i este rușine de ceea ce a spus, să-și ceară scuze, să nu mai fie laș și altele de gen.
 
@@ -104,11 +113,11 @@ Cam asta ar fi ideea în mare.
 
 Dacă n-aș considera că am greșit în vreun fel, le-aș mulțumi tricolorilor că după performanța de la Euro au reușit să mai șteargă parțial din impresia deplorabilă pe care mi-au produs-o la acele două partide de pregătire.
 
-Și categoric aș face mișto de acea parte a publicului profund ipocrită care azi sunt alături de tricolori, iar ieri sunt alături de tricolori dar de-o manieră forțat sexuală.
+Și categoric aș face mișto de acea parte a publicului profund ipocrită care azi este alături de tricolori, iar ieri era alături de tricolori dar de-o manieră forțat sexuală.
 
-Hehehe, întotdeauna e bine să identifici ipocrizia când un ipocrit încearcă să  se dea virtuos. 
+Hehehe, întotdeauna e bine să identifici ipocrizia când un ipocrit încearcă să se dea virtuos. 
 
-Bine, adevărul este că-i greu să simulez astfel de scenarii pentru că sunt singurul ziarist din România care a spus înainte să se joace primul meci pentru calificarea la Euro că [avem șanse mari să mergem la turneul final, chiar de pe primul loc, înaintea Elveției.](__GHOST_URL__/ne-calificam-la-euro/)
+Bine, adevărul este că-i greu să simulez astfel de scenarii pentru că sunt singurul ziarist din România care a spus înainte să se joace primul meci pentru calificarea la Euro că [avem șanse mari să mergem la turneul final, chiar de pe primul loc, înaintea Elveției.](https://www.cameravar.ro/ne-calificam-la-euro/)
 
 În fine, ceea ce mi se pare mie că ar reprezenta o super protecție pentru orice ziarist care are tendința de-a se înflăcăra și a se lăsa dus de val este o regulă pe care încerc cu destul de mult succes să o aplic de multă vreme.
 

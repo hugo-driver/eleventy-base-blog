@@ -1,17 +1,21 @@
 ---
 title: De ce Adrian Mutu ar fi cel mai problematic selecționer pentru interesele FCSB
+description: Din lista celor vehiculați ca posibili viitori antrenori ai naționalei, Becali ar avea probleme mari cu o singură variantă - Adrian Mutu
 slug: adrian-mutu-problema-becali
 date_published: 2024-07-04T10:01:54.000Z
 date_updated: 2024-07-04T10:01:54.000Z
 tags: ["Gigi Becali", "FCSB", "FRF", "Antrenori"]
-excerpt: Din lista celor vehiculați ca posibili viitori antrenori ai naționalei, Becali ar avea probleme mari cu o singură variantă - Adrian Mutu
+permalink: "adrian-mutu-problema-becali/index.html"
+cover: "./adrian-mutu-selectioner-anti-becali.jpg"
 ---
+
+![Nicolae](./adrian-mutu-selectioner-anti-becali.jpg)
 
 Cel mai probabil, Edward Iordănescu va pleca după acest turneu final reușit și va lăsa locul altui selecționer.
 
 Dar numirea acestui nou antrenor al echipei naționale poate deveni o problemă foare spinoasă pentru cea mai vocală echipă din Liga 1 când vine vorba de convocări - FCSB.
 
-După cum am explicat deja în detaliu, miza pentru care Gigi Becali și Mihai Stoica sunt în stare să calce totul în picioare este [să aibă cât mai mulți fotbaliști la națională](__GHOST_URL__/vanzare-darius-olaru/) pentru profita de creșterea de cotă pe care convocările și jocurile o produc.
+După cum am explicat deja în detaliu, miza pentru care Gigi Becali și Mihai Stoica sunt în stare să calce totul în picioare este [să aibă cât mai mulți fotbaliști la națională](https://www.cameravar.ro/vanzare-darius-olaru/) pentru profita de creșterea de cotă pe care convocările și jocurile o produc.
 
 Desigur, același lucru îl dorește și patronul Rapidului, Dan Șucu. A și anunțat public că vrea 3-4 jucători la fiecare echipă reprezentativă.
 
@@ -69,7 +73,7 @@ Dacă Șumudică nu prinde rapid un contract, va fi tare amuzant să vedem cum s
 
 Așa cum am mai spus, nimeni nu-i poată contesta flerul de antrenor lui Șumudică. Chiar cred că principalele sale calități profesionale ar putea să fie mai bine exploatate din postura de selecționer decât de antrenor care lucrează zi de zi cu jucătorii.
 
-Doar că [Șumudică este Șumudică](__GHOST_URL__/sumudica/), iar Burleanu nu cred că va accepta o astfel de variantă din partea directorului tehnic al FRF, Mihai Stoichiță, cel care și face propunerea.
+Doar că [Șumudică este Șumudică](https://www.cameravar.ro/sumudica/), iar Burleanu nu cred că va accepta o astfel de variantă din partea directorului tehnic al FRF, Mihai Stoichiță, cel care și face propunerea.
 
 De altfel, nici nu cred că Mihai Stoichiță va merge cu propunerea Șumudică.
 
@@ -139,7 +143,7 @@ Acum, pe lista de nume vehiculate de presă toți sunt oameni serioși în opini
 
 Prin urmare, o eventuală numire a lui Mutu va însemna inclusiv o tăiere a macaroanei lui Becali când vine vorba de-a încerca să influențeze selecția. Poate face gălăgie, dar nu va fi gălăgia șmecheră pe care a făcut-o cu Iordănescu știind că va obține ceva - Șut în sfârșit convocat, Olaru un pic jucat, Coman băgat chiar când era cazul  - ci gălăgia îndurerată a celui care știe că nu va obține nimic.
 
-Și inclusiv acest aspect va fi de mare interes pentru Burleanu, [care nu-l place pe Becali în mod evident](__GHOST_URL__/solutia-patronilor-regula-u21/) și care nu dorește ca interesele acestuia să fie în vreun fel servite de echipa națională dincolo de ceea ce chiar jucătorii FCSB reușesc onest să obțină.
+Și inclusiv acest aspect va fi de mare interes pentru Burleanu, [care nu-l place pe Becali în mod evident](https://www.cameravar.ro/solutia-patronilor-regula-u21/) și care nu dorește ca interesele acestuia să fie în vreun fel servite de echipa națională dincolo de ceea ce chiar jucătorii FCSB reușesc onest să obțină.
 
 **PS**: unii dintre voi mi-ați atras atenția în mod corect că și Hagi face presiune ca Ianis să joace la națională. 
 
@@ -149,4 +153,4 @@ Doar că lucrurile sunt mult mai spectaculoase în practica lui Becali și Mihai
 
 În plus, așa cum ziceam, doar Becali se poate lăuda public cu telefoane liniștitoare de la selecționer și poate să spună cu tupeu maxim că dacă ar fi sunat și anunțat din timp că un anume jucător - miză de la FCSB nu e convocat / nu joacă atunci n-ar fi nicio problemă.
 
-În fine, trebuie să recunosc că am ceva cu FCSB, nu că o parte a suporterilor acestui club [sunt cei mai sensibili și ușor ofensabili fani din România](__GHOST_URL__/fani-fcsb-boicot-vali-moraru-digi-sport/) când vine vorba de a prezenta adevăruri neplăcute despre echipa / personajele asociate echipei cu care țin. 
+În fine, trebuie să recunosc că am ceva cu FCSB, nu că o parte a suporterilor acestui club [sunt cei mai sensibili și ușor ofensabili fani din România](https://www.cameravar.ro/fani-fcsb-boicot-vali-moraru-digi-sport/) când vine vorba de a prezenta adevăruri neplăcute despre echipa / personajele asociate echipei cu care țin. 

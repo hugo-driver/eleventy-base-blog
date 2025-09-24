@@ -1,11 +1,15 @@
 ---
 title: Conflictul rapidist dintre albi și vișinii
+description: Cel mai spectaculos lucru la Rapid este disputa online dintre fanii care susțin aproape orbește direcția în care merge clubul și cei care cred la fel de orbește că orice face Șucu e o imensă eroare. 
 slug: conflictul-dintre-albi-si-visinii
 date_published: 2024-07-11T16:36:30.000Z
 date_updated: 2024-07-12T06:07:50.000Z
 tags: ["Rapid", "Suporteri"]
-excerpt: Cel mai spectaculos lucru la Rapid este disputa online dintre fanii care susțin aproape orbește direcția în care merge clubul și cei care cred la fel de orbește că orice face Șucu e o imensă eroare. 
+permalink: "conflictul-dintre-albi-si-visinii/index.html"
+cover: "./galerie-rapid.jpg"
 ---
+
+![Fanii Rapidului sunt scindați între cei care-s mulțumiți orice s-ar întâmpla la echipă și cei veșnic nemulțumiți](./galerie-rapid.jpg)
 
 Dacă urmărești pagina oficială de Facebook a clubului sau [pagina celui mai important influencer giuleștean](https://www.facebook.com/tudor.bogdan.338), vei observa destul de rapid ceva interesat și interesant în același timp.
 
@@ -20,10 +24,12 @@ Doar că atât vișiniii care se manifestă des critic față de deciziile sau i
 ## Vișiniilor nu le place nimic, albilor le place totul, mai puțin gălăgia vișiniilor
 
 Dacă vișiniii reclamă că nu s-au făcut transferuri potrivite, albii le atrag atenția că nu au apucat să vadă ce-i de capul respectivilor jucători sau le ironizează capacitățile de scouteri / antrenori.
-![Dialog între doi suporteri ai Rapidului pe tema transferurilor.](__GHOST_URL__/content/images/2024/07/Screenshot-2024-07-11-at-19.10.10.png)
+
+![Dialog între doi suporteri ai Rapidului pe tema transferurilor.](./conflict-intre-suporteri-rapid.jpg)
+
 Dacă vișiniii reclamă că abonamentele sunt prea scumpe, albii vin atât cu argumente care să susțină acea creștere de preț, dar și cu ironii legate de aplecarea spre mocăciune sau ieftineală a acestora.
 
-Dacă vișiniii ar fi preferat un alt antrenor,[ inclusiv Șumudică](__GHOST_URL__/de-ce-nu-sumudica/), albii se arată indignați ca și când Lennon poate fi judecat că-i bun doar de cei care l-au angajat, dar nu poate fi bănuit că-i nepotrivit de cei care ar fi avut altă preferință.
+Dacă vișiniii ar fi preferat un alt antrenor,[ inclusiv Șumudică](https://www.cameravar.ro/de-ce-nu-sumudica/), albii se arată indignați ca și când Lennon poate fi judecat că-i bun doar de cei care l-au angajat, dar nu poate fi bănuit că-i nepotrivit de cei care ar fi avut altă preferință.
 
 În fine, lucrurile se desfășoară exact cum se desfășoară-n general disputele online - uneori cu logică, alteori doar cu dorința de-a avea dreptate.
 
@@ -51,7 +57,7 @@ Iar teama lor e legată mai ales de prezent.
 
 De exemplu, în contextul actual, când Rapid se află după mulți ani din nou în postura de echipă care contează în campionatul nostru, nerăbdarea vișiniilor a înflorit.
 
-Mai mult, sezonul trecut i-a agitat suplimentar pentru că-n ciuda faptului că Rapid a terminat abia pe locul 6, [de fapt sunt singura formație care poate spune că a pierdut titlul în fața FCSB](__GHOST_URL__/rapid-a-pierdut-titlul/).
+Mai mult, sezonul trecut i-a agitat suplimentar pentru că-n ciuda faptului că Rapid a terminat abia pe locul 6, [de fapt sunt singura formație care poate spune că a pierdut titlul în fața FCSB](https://www.cameravar.ro/rapid-a-pierdut-titlul/).
 
 Celelalte formații care au avut șanse reale când a început play off-ul au fost prea puțin amenințătoare pentru forța campioanei. Singurii capabili să șteargă pe jos până aproape de concret cu echipa lui Becali au fost giuleștenii, iar neputința ulterioară i-a înnebunit pe vișinii.
 
@@ -88,12 +94,16 @@ Ideal, să nu iasă pe zero.
 Să piardă un pic pentru că are de unde.
 
 De asemenea, tot cei cu astfel de concepții sunt convinși că oamenii cu bani sunt doar niște proști norocoși sau niște profitori de contexte politice / securistice.
-![Comentariul unui suporter care crede că patronii sunt proști cu bani](__GHOST_URL__/content/images/2024/07/Screenshot-2024-07-11-at-18.22.18.png)Cum spuneam, bogații sunt doar niște proști cu bani
+
+![Comentariul unui suporter care crede că patronii sunt proști cu bani](./fani-rapid-conflict-conducere.jpg)
+
+Cum spuneam, bogații sunt doar niște proști cu bani
+
 În schimb, albii par să aibă o deschidere ceva mai mare față de ideea de capitalism și de bani făcuți prin muncă și inspirație. Nu i-aș bănui că nu au și ei clasica invidie față de omul cu bani, dar în contextul acesta preferă mai degrabă să se alăture lui Șucu în cruciade de genul “al nostru are bani și e civilizat, al vostru e un cioban”.
 
 ### Presa sportivă e presă sportivă, iar suporterii sunt suporteri
 
-Știi deja că am cea mai bună părere pe care cineva o poate avea despre presa sportivă. Adică, o consider [cea mai valoroasă formă de jurnalism practicat în România](__GHOST_URL__/suprematia-presei-sportive/).
+Știi deja că am cea mai bună părere pe care cineva o poate avea despre presa sportivă. Adică, o consider [cea mai valoroasă formă de jurnalism practicat în România](https://www.cameravar.ro/suprematia-presei-sportive/).
 
 Doar că...
 
@@ -111,7 +121,7 @@ Poate doar perversitatea unora dintre ziariștii care încearcă să-și rezolve
 
 Trist, dar adevărat.
 
-De partea cealaltă a ecranului se află publicul, deci inclusiv suporterii. Care suporteri sunt mereu inteligenți și frumoși. [Ceea ce reprezintă o generalizare penibilă.](__GHOST_URL__/gazeta-sporturilor-articole-femei-goale/)
+De partea cealaltă a ecranului se află publicul, deci inclusiv suporterii. Care suporteri sunt mereu inteligenți și frumoși. [Ceea ce reprezintă o generalizare penibilă.](https://www.cameravar.ro/gazeta-sporturilor-articole-femei-goale/)
 
 Nu toți suporterii sunt inteligenți.
 
@@ -121,4 +131,4 @@ Inclusiv în situația în care vor simți nevoia să aleagă o tabără în ace
 
 **PS 1**: am observat ceva pe pagina de Facebook a clubului - prea multe "conturi anonime" sar instant în apărarea lui Șucu.  Eram obișnuit ca  mai degrabă cei care acuză să fie dornici să-și ascundă indentitatea decât cei care apără o cauză. 
 
-**PS 2**: unii vor crede că textul de față este o încercare de-a-nvrăjbi lucrurile într-un moment în care Rapidul merge bine și [presa se teme că are interese murdare](__GHOST_URL__/relatii-ziaristi-oameni-din-fotbal/). Există situații în care atitudinile paranoice pot fi sănătoase, dar nu și prostia. 
+**PS 2**: unii vor crede că textul de față este o încercare de-a-nvrăjbi lucrurile într-un moment în care Rapidul merge bine și [presa se teme că are interese murdare](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal/). Există situații în care atitudinile paranoice pot fi sănătoase, dar nu și prostia. 

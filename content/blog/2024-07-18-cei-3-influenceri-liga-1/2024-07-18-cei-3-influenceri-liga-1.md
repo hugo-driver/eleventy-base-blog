@@ -1,21 +1,27 @@
 ---
-title: Cei 3 influenceri care au speriat netul - Sergi Lopez, Daniel Șendre și Bogdan Tudor - Baratki
+title: Cei 3 influenceri care au speriat Liga 1 - Sergi Lopez, Daniel Șendre și Bogdan Tudor - Baratki
+description: 3 suporteri reușesc prin scrierile lor să influențeze masiv modul în care restul fanilor văd activitatea FCSB, Dinamo și Rapid
 slug: cei-3-influenceri-liga-1
 date_published: 2024-07-18T08:00:15.000Z
 date_updated: 2024-07-18T08:23:42.000Z
 tags: ["Presa sportivă", "Suporteri"]
-excerpt: 3 suporteri reușesc prin scrierile lor să influențeze masiv modul în care restul fanilor văd activitatea FCSB, Dinamo și Rapid
+permalink: "cei-3-influenceri-liga-1/index.html"
+cover: "./sergi-lopez-daniel-sendre-bogdan-tudor-baratki.jpg"
 ---
+
+![Imagine simbol pentru influența celor 3 influenceri ai marilor echipe bucureștene](./sergi-lopez-daniel-sendre-bogdan-tudor-baratki.jpg)
+
+Sergi Lopez: "Steaua!" / Șendre: "Dă, Doamne, să fie un acționar cu bani pentru Dinamo! Renovatio?" / Baratki: Fals! E profitul operațional al Rapidului, dar aș fi vrut să fie un număr 6 care să ne rezolve problemele de la mijlocul terenului!". 
 
 Mă refer la cele mai influente 3 voci din online-ul românesc când vine vorba de FCSB, Dinamo și Rapid.
 
-Adică la [Sergi Lopez (ex. Kalasnikov)](__GHOST_URL__/sergi-lopez/), [Daniel Șendre](https://www.facebook.com/daniel.sendre/) și [Bogdan Tudor (Baratki)](https://www.facebook.com/tudor.bogdan.338). Nicio altă scriitură care e dedicată echipelor în cauză nu are mai multă influență decât a lor.
+Adică la [Sergi Lopez (ex. Kalasnikov)](https://www.cameravar.ro/sergi-lopez/), [Daniel Șendre](https://www.facebook.com/daniel.sendre/) și [Bogdan Tudor (Baratki)](https://www.facebook.com/tudor.bogdan.338). Nicio altă scriitură care e dedicată echipelor în cauză nu are mai multă influență decât a lor.
 
 În raport cu ziariștii din presa tradițională, respectivii se diferențiază prin faptul că sunt fani declarați ai echipelor despre care scriu și-n mod paradoxal asta-i face mai credibili în ochii unui număr semnificativ de suporteri.
 
 Ceea ce e firesc și aberant în același timp.
 
-Firesc în sensul că o bună parte a publicului nu mai dă doi lei pe [obiectivitatea muncită a unor ziariști](__GHOST_URL__/relatii-ziaristi-oameni-din-fotbal/) și aberant pentru că respectivii au o relație emoțională cu subiectul scrierilor lor.
+Firesc în sensul că o bună parte a publicului nu mai dă doi lei pe [obiectivitatea muncită a unor ziariști](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal/) și aberant pentru că respectivii au o relație emoțională cu subiectul scrierilor lor.
 
 ## De ce pot fi numiți influenceri Lopez, Șendre și Baratki
 
@@ -65,7 +71,7 @@ sau
 
 Uneori însă, când se-ntâmplă ca faptele să fie în mod evident în favoarea echipei sale, se lăcomește să marcheze din toate pozițiile spre marea bucurie a celor care țin cu FCSB și marea indignare a celor care țin cu oricine altcineva.
 
-Este bănuit de mulți că e alter ego-ul online al lui [Mihai Stoica](__GHOST_URL__/mihai-stoica/), ceea ce ar trebui să fie un compliment pentru el. 
+Este bănuit de mulți că e alter ego-ul online al lui [Mihai Stoica](https://www.cameravar.ro/mihai-stoica/), ceea ce ar trebui să fie un compliment pentru el. 
 
 ### Daniel Șendre - “Fraților... Fraților!!! Aici e Dinamo!!!”
 
@@ -111,7 +117,7 @@ Lopez și Șendre au făcut totuși ceva pași în direcția unei schimbări.
 
 [Sergi Lopez prin deschiderea unui cont de Patreon](https://www.patreon.com/sergilopez), unde postează o mică parte din ceea ce produce și consideră ca fiind demn de-a fi oferit contra cost.
 
-Șendre încearcă să monetizeze ceea ce produce [prin intermediul unui site propriu](https://www.danielsendre.ro/), care are în spate o platformă capabilă să-l ajute să încaseze bani pentru munca sa.
+Șendre încearcă să monetizeze ceea ce produce prin intermediul Facebook.
 
 Din păcate, după părerea mea, ambii au prețuri mult prea scăzute pentru ceea ce oferă.
 
@@ -129,7 +135,7 @@ Apropo, acestea sunt opinii de-ale mele. Fiecare în parte poate să aibă alte 
 
 După cum vezi, nu spun despre acest tip de conținut c-ar fi jurnalism. Nu pentru că aș fi invidios pe realizările lor (sunt), ci pentru că nu este jurnalism.
 
-Pe de altă parte, așa cum am spus, nivelul de-ncredere în munca presei clasice este atât de scăzut, încât și [cea mai performantă formă de jurnalism din România](__GHOST_URL__/suprematia-presei-sportive/) are de suferit.
+Pe de altă parte, așa cum am spus, nivelul de-ncredere în munca presei clasice este atât de scăzut, încât și [cea mai performantă formă de jurnalism din România](https://www.cameravar.ro/suprematia-presei-sportive/) are de suferit.
 
 Iar unul dintre efectele acestei suferințe este orientarea unei părți a publicului (și) spre acest tip de conținut.
 

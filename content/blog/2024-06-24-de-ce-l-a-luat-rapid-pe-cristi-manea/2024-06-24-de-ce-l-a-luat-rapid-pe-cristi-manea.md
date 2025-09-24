@@ -1,10 +1,15 @@
 ---
 title: De ce l-a luat Rapid pe Cristi Manea
+description: Rapid pare să-l fi luat pe fundașul CFR-ului mai degrabă pentru că a avut oportunitatea aceasta, nu pentru că avea o nevoie deosebită de încă un fundaș dreapta.
 slug: de-ce-l-a-luat-rapid-pe-cristi-manea
 date_published: 2024-06-24T16:13:42.000Z
 date_updated: 2024-07-08T07:50:21.000Z
 tags: Rapid
+permalink: "e-ce-l-a-luat-rapid-pe-cristi-manea/index.html"
+cover: ".cristi-manea-rapid.jpg"
 ---
+
+![Manea ridică la 3 numărul fundașilor dreapta din lotul Rapidului](./cristi-manea-rapid.jpg)
 
 Sezonul trecut, Rapid a avut multe probleme. 
 

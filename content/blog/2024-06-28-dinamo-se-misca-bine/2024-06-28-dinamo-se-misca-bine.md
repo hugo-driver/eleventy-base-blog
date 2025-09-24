@@ -1,10 +1,18 @@
 ---
 title: De ce-mi place cum se mișcă Dinamo în această vară
+description: Dinamo pare să știe ce vrea de la viața sa în Liga 1, iar asta se vede inclusiv în strategia de construire  lotului
 slug: dinamo-se-misca-bine
 date_published: 2024-06-28T12:09:54.000Z
 date_updated: 2024-06-30T10:24:34.000Z
 tags: Dinamo
+permalink: "dinamo-se-misca-bine/index.html"
+cover: "./andrei-nicolescu-revolutie-dinamo.jpg"
 ---
+
+![Andrei Nicolescu pozând sofisticat așa cum îi place să apară în orice acțiune publică](./andrei-nicolescu-revolutie-dinamo.jpg)
+
+Am ales cu grijă această poză pentru că-n ea Andrei Nicolescu pare să privească în sufletul dinamovistului care-l înjură reflex și-i răspunde cu privirea: "Bro, sunt mai disperat decât tine să reușesc!"
+
 
 Turneul final, transferurile Rapidului și ale Craiovei, popularitatea FCSB fac în acest moment ca lumea să nu remarce prea mult ce se-ntâmplă la Dinamo.
 
@@ -48,7 +56,7 @@ Andrei Nicolescu a anunțat în podcastul [Tare de Tot cu Viorel Grigoroiu](http
 
 Aș remarca finețea actului.
 
-Popular, pisica se rupe-n două, dar [Andrei Nicolescu cu stilul său](https://iamsport.ro/editorial/de-ce-se-exprima-andrei-nicolescu-asa-cum-se-exprima-cele-3-mari-ghinioane-id7927.html) nu acceptă rele tratamente la adresa animalelor, nici mișcări de zdrențuire a unui proiect. De aici și formula “am tăiat”, care presupune atât rapiditate în acțiune, cât precizie.
+Popular, pisica se rupe-n două, dar [Andrei Nicolescu cu stilul său](https://iamsport.ro/editorial/de-ce-se-exprima-andrei-nicolescu-asa-cum-se-exprima-cele-3-mari-ghinioane-id7927.html) nu acceptă rele tratamente la adresa animalelor, nici o mișcare de zdrențuire a unui proiect. De aici și formula “am tăiat”, care presupune atât rapiditate în acțiune, cât și precizie.
 
 Serios vorbind, declarația sa este importantă nu doar pentru că oferă speranțe fanilor, ci și pentru că exprimările publice de genul acesta îi obligă pe cei care le fac.
 

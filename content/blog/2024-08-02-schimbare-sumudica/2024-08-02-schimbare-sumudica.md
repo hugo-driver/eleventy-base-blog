@@ -1,15 +1,19 @@
 ---
 title: 7 lucruri pe care ar trebui să le facă Șumudică pentru a nu se mai face de râs în emisiuni
+description: Dacă Șumudică ar face aceste lucruri nu și-ar pierde spiritul, dar ar reuși să-și îmbunătățească masiv imaginea în ochii celor care-l pot angaja în fotbalul românesc și nu numai
 slug: schimbare-sumudica
 date_published: 2024-08-02T09:25:47.000Z
 date_updated: 2024-08-02T09:28:52.000Z
 tags: Rapid
-excerpt: Dacă Șumudică ar face aceste lucruri nu și-ar pierde spiritul, dar ar reuși să-și îmbunătățească masiv imaginea în ochii celor care-l pot angaja în fotbalul românesc și nu numai
+permalink: "schimbare-sumudica/index.html"
+cover: "./marius-sumudica-lennon.jpg"
 ---
+
+![Șumudică pare să nu se poată abține să se facă de râs în emisiunile dedicate Ligii 1](./marius-sumudica-lennon.jpg)
 
 Nu spun că e ceva ușor de făcut.
 
-[Șumudică este Șumudică](__GHOST_URL__/sumudica/).
+[Șumudică este Șumudică](https://www.cameravar.ro/sumudica/).
 
 Dar dacă ar face ceea ce spun eu în continuare, ar avea șansa să-și schimbe imaginea de-o manieră favorabilă lui, nu favorabilă altora - ex. presei sportive care-i exploatează apucăturile.
 

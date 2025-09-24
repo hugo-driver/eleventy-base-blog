@@ -1,11 +1,15 @@
 ---
 title: Ce va fi cu Golazo.ro?
+description: Tolontan se află din nou în postura de-a construi ceva de la zero, dar fără sprijinul vizionar al lui Adrian Sârbu, fără Ovidiu Ioanițoaia, fără o televiziune în spate. Și fără banii caselor de pariuri, cel puțin momentan.
 slug: ce-va-fi-cu-golazo-ro
 date_published: 2024-07-06T17:42:20.000Z
 date_updated: 2024-07-07T11:11:32.000Z
 tags: Presa sportivă
-excerpt: Tolontan se află din nou în postura de-a construi ceva de la zero, dar fără sprijinul vizionar al lui Adrian Sârbu, fără Ovidiu Ioanițoaia, fără o televiziune în spate. Și fără banii caselor de pariuri, cel puțin momentan.
+permalink: "ce-va-fi-cu-golazo-ro/index.html"
+cover: "./nicolae-dica-demisie.jpg"
 ---
+
+![Cătălin Tolontan are din nou ocazia să o ia de la zero în presa de sport cu Golazo](./golazo.ro-catalin-tolontan.jpg)
 
 [Golazo.ro](https://golazo.ro/) este un nou site de sport / fotbal lansat de o parte a echipei care a plecat recent de la Gazetă împreună cu Cătălin Tolontan.
 
@@ -25,7 +29,7 @@ Marile obstacole cu care se confruntă noul site sunt evidente. Atât de evident
 
 Cel puțin în acest moment, nu văd reclame la vreuna dintre casele de pariuri pe site. Cel puțin pentru moment, probabil că există o politică în acest sens, altfel nu s-ar explica situația.
 
-Ca simplă apreciere, e o eroare. O spun deși eu însumi aproape că fac un titlu de glorie din faptul că nu am contract cu cineva din respectiva industrie și consider respectivă sursă de finanțare + relaționare [o formă de diabet pentru media sportive](__GHOST_URL__/cancerul-presei-sportive-casele-de-pariuri/).
+Ca simplă apreciere, e o eroare. O spun deși eu însumi aproape că fac un titlu de glorie din faptul că nu am contract cu cineva din respectiva industrie și consider respectivă sursă de finanțare + relaționare [o formă de diabet pentru media sportive](https://www.cameravar.ro/cancerul-presei-sportive-casele-de-pariuri/).
 
 Pe de altă parte, contextul plecării lor de la Gazetă i-ar face probabil să se rușineze în eventualitatea în carea ar deveni permeabili pentru contractele de gen. Desigur, caracatița industriei, Superbet, are reclamă pe HotNews, principalul site al grupului din care face parte și Golazo.
 

@@ -1,10 +1,15 @@
 ---
 title: Ce trebuie să facă patronii din Liga 1 ca Burleanu să modifice “regula U21” în favoarea lor
+description: Patronii care nu mai suportă regula U21 trebuie să-l trateze pe Burleanu cu mai mult respect forțat decât își imaginează
 slug: solutia-patronilor-regula-u21
 date_published: 2024-06-26T11:24:08.000Z
 date_updated: 2024-07-03T03:46:04.000Z
 tags: FRF
+permalink: "solutia-patronilor-regula-u21/index.html"
+cover: "./razvan-burleanu-regula-u21.jpg"
 ---
+
+![Răzvan Burleanu se pregătește să fie zdravăn periat de patronii din Liga 1](./razvan-burleanu-regula-u21.jpg)
 
 La un moment dat, Gigi Becali a anunțat că FRF va renunța la regulă în forma actuală și o va transforma într-o chestie facultativă.
 

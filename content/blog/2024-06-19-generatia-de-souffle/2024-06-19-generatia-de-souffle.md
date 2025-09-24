@@ -1,10 +1,16 @@
 ---
 title: Generația de soufflé
+description: De ce am numit această generație a echipei naționalei drept generația de soufflé. Și de ce am inclus în sintagmă și o parte a publicului, dar și a presei sportive.
 slug: generatia-de-souffle
 date_published: 2024-06-19T18:39:36.000Z
 date_updated: 2024-06-30T10:27:37.000Z
 tags: ["Echipa națională", "Suporteri"]
+permalink: "generatia-de-souffle/index.html"
+cover: "./generatia-de-souffle.webp"
 ---
+
+![Această generație a naționalei entuziasmează și dezamăgește de-o manieră isterică](./generatia-de-souffle.webp)
+
 
 Soufflé-ul e un preparat culinar creat de francezi pe la 1700 pentru că ei au avut talentul și disponibilitatea să riște soarta unor ouă și a altor ingrediente de soi pentru acele vremuri.
 
@@ -20,7 +26,7 @@ Doar crezi că vezi.
 
 Te-ai obișnuit cu laudele perverse ale presei care asigură pe toată lumea că publicul lor e inteligent, special, frumos etc.
 
-Dacă lucrurile ar sta așa, te-ar mai tenat zilnic Gazeta cu [galerii foto al unor eroine semi dezgolit](__GHOST_URL__/gazeta-sporturilor-articole-femei-goale/)e sau ar mai geme majoritatea site-urilor de sport de click-bait-uri?
+Dacă lucrurile ar sta așa, te-ar mai tenat zilnic Gazeta cu [galerii foto al unor eroine semi dezgolit](https://www.cameravar.ro/gazeta-sporturilor-articole-femei-goale/)e sau ar mai geme majoritatea site-urilor de sport de click-bait-uri?
 
 E o întrebare retorică.
 

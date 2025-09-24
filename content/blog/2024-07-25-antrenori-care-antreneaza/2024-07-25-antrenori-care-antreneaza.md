@@ -1,11 +1,15 @@
 ---
-title: Antrenorii ar trebui să antreneze chiar și-n condiții super dificile sau ar trebui să aștepte "ceva serios"?
+title: Antrenorii ar trebui să antreneze chiar și-n condiții super dificile sau ar trebui să aștepte ceva serios??
+description: Din ce în ce mai mulți antrenori aleg să refuze ofertele pe care le primesc pentru că nu sunt genul de proiect serios la care ar vrea să se înhame. În ritmul acesta, riscă să piardă oportunitatea ca proiectele serioase să-i caute
 slug: antrenori-care-antreneaza
 date_published: 2024-07-25T15:03:51.000Z
 date_updated: 2024-07-25T15:03:51.000Z
 tags: Antrenori
-excerpt: Din ce în ce mai mulți antrenori aleg să refuze ofertele pe care le primesc pentru că nu sunt genul de "proiect serios" la care ar vrea să se înhame. În ritmul acesta, riscă să piardă oportunitatea ca proiectele serioase să-i caute
+permalink: "antrenori-care-antreneaza/index.html"
+cover: "./adrian-mutu.jpg"
 ---
+
+![Adrian Mutu, un antrenor care își dorește să antreneze cu adevărat](./adrian-mutu.jpg)
 
 În ultimii 2 ani, am stat de vorbă cu mai mulți antrenori români care au o reticență majoră să accepte ofertele pe care le primesc de la diverse cluburi în ciuda faptului că refuzul lor înseamnă să prelungească perioada de stat pe margine, fără contract.
 
@@ -37,7 +41,7 @@ Cluburile în cauză erau conduse / administrate de indivizi atât de slabi prof
 
 Prin urmare, îi înțeleg.
 
-Mai ales că sunt absolut convins că [cea mai slabă verigă din fotbalul românesc sunt conducătorii de club](__GHOST_URL__/cea-mai-slaba-veriga-fotbalul-romanesc/), abia apoi se poate vorbi de antrenori insuficient pregătiți.
+Mai ales că sunt absolut convins că [cea mai slabă verigă din fotbalul românesc sunt conducătorii de club](https://www.cameravar.ro/cea-mai-slaba-veriga-fotbalul-romanesc/), abia apoi se poate vorbi de antrenori insuficient pregătiți.
 
 Și totuși, cum pot acei antrenori să antreneze dacă nu antrenează?
 
@@ -69,7 +73,7 @@ Dar insist: e mai bine să stai pe margine decât să antrenezi? Ai șanse mai m
 
 Când a demisionat de la CFR Cluj ca urmare a înfrângerii cu 4-0 în Cupa României, în fața Corvinului, mi s-a părut că Mutu nu mai este Mutu.
 
-În fotbalul nostru, [antrenorii n-ar trebui să-și dea demisia](__GHOST_URL__/fara-demisie-antrenori/) pentru că onoarea lor este prea des de fapt la dispoziția unora fără onoare. În plus, Mutu în sine este un simbol de încăpățânare și tărie în fața unor provocări uriașe. 
+În fotbalul nostru, [antrenorii n-ar trebui să-și dea demisia](https://www.cameravar.ro/fara-demisie-antrenori/) pentru că onoarea lor este prea des de fapt la dispoziția unora fără onoare. În plus, Mutu în sine este un simbol de încăpățânare și tărie în fața unor provocări uriașe. 
 
 Chiar dacă multe dintre aceste încercări au fost produse de el însuși.
 

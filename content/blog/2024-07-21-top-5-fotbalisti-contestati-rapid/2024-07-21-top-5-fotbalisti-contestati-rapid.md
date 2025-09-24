@@ -1,11 +1,15 @@
 ---
 title: Top 5 cei mai contestați fotbaliști buni ai Rapidului
+description: Acești fotbaliști sunt super contestați de mulți suporteri, dar după părerea mea, respectivii greșesc. Aproape fiecare dintre acești jucători are potențial să fie om de bază la Rapid
 slug: top-5-fotbalisti-contestati-rapid
 date_published: 2024-07-21T16:40:11.000Z
 date_updated: 2024-07-21T16:51:11.000Z
 tags: Rapid
-excerpt: Acești fotbaliști sunt super contestați de mulți suporteri, dar după părerea mea, respectivii greșesc. Aproape fiecare dintre acești jucători are potențial să fie om de bază la Rapid
+permalink: "top-5-fotbalisti-contestati-rapid/index.html"
+cover: "./oaida-rapid.jpg"
 ---
+
+![Oaidă în tricoul Rapidului](./oaida-rapid.jpg)
 
 Dacă urmărești ce spun unii fani vocali ai giuleștenilor despre acești jucători, ai putea crede că toate problemele echipei din sezonul trecut au fost provocate de ei.
 
@@ -13,7 +17,7 @@ Ceea ce e parțial adevărat.
 
 Au jucat, au fost parte din problemă.
 
-Doar că fiecare jucător în parte mi se pare mai valoros decât pare la prima vedere a celor care îl contestă. Desigur, aprecierile care urmează sunt chestiuni subiective, dar chiar și așa [am obiceiul să am destul de des dreptate](__GHOST_URL__/ne-calificam-la-euro/).
+Doar că fiecare jucător în parte mi se pare mai valoros decât pare la prima vedere a celor care îl contestă. Desigur, aprecierile care urmează sunt chestiuni subiective, dar chiar și așa [am obiceiul să am destul de des dreptate](https://www.cameravar.ro/ne-calificam-la-euro/).
 
 ## 1. Răzvan Oaidă
 
