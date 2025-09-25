@@ -28,10 +28,10 @@
   box-shadow: 0 2px 8px rgba(0,0,0,0.4);
 }
 
-/* Grupul input + button -> pe coloană */
+/* Grupul input + button */
 .newsletter-form .input-group {
   display: flex;
-  flex-direction: column;
+  flex-direction: column; /* default pe mobil */
   gap: 0.75rem;
 }
 
@@ -85,4 +85,19 @@
   font-size: 0.875rem;
   color: #9ca3af;
   text-align: center;
+}
+
+/* --- Responsive --- */
+@media (min-width: 640px) {
+  .newsletter-form .input-group {
+    flex-direction: row; /* pe desktop -> rând */
+  }
+
+  .newsletter-form input[type="email"] {
+    flex: 1; /* input ia tot spațiul rămas */
+  }
+
+  .newsletter-form button {
+    width: auto; /* butonul își ia doar lățimea conținutului */
+  }
 }
