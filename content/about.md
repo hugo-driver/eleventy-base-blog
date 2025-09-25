@@ -46,3 +46,22 @@ Prin urmare, **nu vei găsi aici**:
 *   atitudini penibile ca urmare a vreunui contract cu vreo casă de pariuri
 
 Dincolo de asta, îți ofer o singură formă de respect - îmi dau silința să fiu obiectiv în tot ceea ce scriu. Prin urmare, abonează-te acum:
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/free-of-email"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.email/free-of-email', 'popupwindow')"
+    class="newsletter-form"
+  >
+    <div class="input-group">
+      <input
+        type="email"
+        name="email"
+        placeholder="Adresa ta de email"
+        required
+        aria-label="Adresa de email"
+      />
+      <button type="submit">Abonare</button>
+    </div>
+    <p class="form-message" id="form"></p>
+  </form>
