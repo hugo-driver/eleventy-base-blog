@@ -1,11 +1,18 @@
 ---
 title: De ce cred că FCSB nu e favorită în returul cu Sparta Praga
+description: Cehii au fost o echipă de bătut, dar anumite nuanțe din evoluția lor mă fac să cred că-n retur șansele de calificare sunt, în cel mai bun caz pentru noi, aproape egale
 slug: sparta-favorita-fcsb
 date_published: 2024-08-07T08:40:45.000Z
 date_updated: 2024-08-07T08:40:45.000Z
 tags: FCSB
-excerpt: Cehii au fost o echipă de bătut, dar anumite nuanțe din evoluția lor mă fac să cred că-n retur șansele de calificare sunt, în cel mai bun caz pentru noi, aproape egale
+permalink: "sparta-favorita-fcsb/index.html"
+cover: "./sparta-favorita-fcsb.jpg"
 ---
+
+![Imagine cu Martin Vitik din meciul Sparta Praga - FCSB](./sparta-favorita-fcsb.jpg)
+
+Am vrut să spun că-n ciuda unor erori, mi-a plăcut mult Martin Vitik. Apoi, m-am uitat pe Transfer Markt și am văzut că e evaluat la 12 milioane Euro, deci n-am descoperit eu vreo apă caldă. Așa că nu mai spun nimic despre asta, ci despre altceva...
+
 
 Cel puțin 3 lucruri care ar putea să-i facă pe fanii FCSB să creadă că echipa lor e favorită la calificare după meciul tur cu cehii.
 

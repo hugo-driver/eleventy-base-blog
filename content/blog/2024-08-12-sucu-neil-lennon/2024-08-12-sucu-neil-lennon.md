@@ -1,11 +1,15 @@
 ---
 title: De ce nu l-a demis încă Dan Șucu pe Neil Lennon
+description: Presa sportivă anunță demiterea lui Lennon ca fiind ceva iminent, mai ales după egalul de la Buzău. Și totuși, cred că nord-irlandezul nu va pleca atât de curând
 slug: sucu-neil-lennon
 date_published: 2024-08-12T10:46:28.000Z
 date_updated: 2024-08-12T10:46:28.000Z
 tags: ["Dan Șucu", "Rapid"]
-excerpt: Presa sportivă anunță demiterea lui Lennon ca fiind ceva iminent, mai ales după egalul de la Buzău. Și totuși, cred că nord-irlandezul nu va pleca atât de curând
+permalink: "sucu-neil-lennon/index.html"
+cover: "./neil-lennon-dan-sucu-rapid.jpg"
 ---
+
+![Dan Șucu și Neil Lennon la semnarea contractului](./neil-lennon-dan-sucu-rapid.jpg)
 
 De fraier, ar spune o parte a publicului.
 

@@ -1,10 +1,15 @@
 ---
 title: Singura soluție pentru cei care se plâng că “miroase a brânză” (Video)
+description: Un video pentru cei care acuză ziariștii că miros a brânză fără să țină cont de o logică elementară când fac această acuză.
 slug: miroase-a-branza
 date_published: 2024-08-13T09:36:55.000Z
 date_updated: 2024-08-13T09:36:55.000Z
 tags: Presa sportivă
+permalink: "miroase-a-branza/index.html"
+cover: "./miroase-a-branza.jpg"
 ---
+
+![Imaginea clasică a suporterilor obișnuiți să jignească fără să fie ironizați](./miroase-a-branza.jpg)
 
 Fenomenul este unul vechi, dar a căpătat proporții abia în ultimele luni.
 

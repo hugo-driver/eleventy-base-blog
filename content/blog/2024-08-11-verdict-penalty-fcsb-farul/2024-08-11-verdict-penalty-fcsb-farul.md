@@ -4,11 +4,13 @@ slug: verdict-penalty-fcsb-farul
 date_published: 2024-08-11T11:06:09.000Z
 date_updated: 2024-08-11T11:06:09.000Z
 tags: ["FCSB", "Arbitraje"]
+permalink: "verdict-penalty-fcsb-farul/index.html"
 ---
+
 
 Desigur c-a fost penalty, pentru că l-a dat arbitrul.
 
-Dar dincolo de ce-a dat arbitrul, chiar a fost penalty?
+Dar dincolo de ce a dat arbitrul, chiar a fost penalty?
 
 Depinde.
 

@@ -1,13 +1,19 @@
 ---
 title: Mă pregătesc să devin ambasador al tuturor caselor de pariuri, inclusiv Superbet (Video)
+description: De fapt, mă reapuc să filmez pentru YouTube, dar cum orice conținut produs de presa sportivă pare să fie sponsorizat de casele de pariuri, am fost nevoit să le menționez la rândul meu
 slug: revenire-beldie-youtube
 date_published: 2024-08-10T06:23:39.000Z
 date_updated: 2024-08-10T06:26:35.000Z
 tags: Presa sportivă
-excerpt: De fapt, mă reapuc să filmez pentru YouTube, dar cum orice conținut produs de presa sportivă pare să fie sponsorizat de casele de pariuri, am fost nevoit să le menționez la rândul meu
+permalink: "revenire-beldie-youtube/index.html"
+cover: "./stefan-beldie-youtube.jpg"
 ---
 
-Știi deja că am o simpatie deosebită pentru industria pariurilor și pentru bunele lor practici când vine vorba de [relația pe care o au cu presa sportivă](__GHOST_URL__/cancerul-presei-sportive-casele-de-pariuri/), dar și cu pariorii. 
+![Ștefan Beldie din așa-zisul balansoar VAR](./stefan-beldie-youtube.jpg)
+
+Am inaugurat balansoarul VAR pentru această filmare care anunță atât revenirea mea pe YouTube, dar și întărirea simpatiei mele pentru casele de pariuri
+
+Știi deja că am o simpatie deosebită pentru industria pariurilor și pentru bunele lor practici când vine vorba de [relația pe care o au cu presa sportivă](https://www.cameravar.ro/cancerul-presei-sportive-casele-de-pariuri/), dar și cu pariorii. 
 
 Prin urmare, am decis să le fac un bine cu forța și să le promovez mai mult în cadrul conținutului pe care-l produc aici, dar și în video-urile de pe YouTube.
 
