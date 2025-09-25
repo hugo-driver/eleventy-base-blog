@@ -16,6 +16,11 @@ layout: layouts/base.njk
 
 {{ content | safe }}
 
+<hr>
+
+{% include "newsletter-form.njk" %}
+
+
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
 {%- set nextPost = collections.posts | getNextCollectionItem %}
