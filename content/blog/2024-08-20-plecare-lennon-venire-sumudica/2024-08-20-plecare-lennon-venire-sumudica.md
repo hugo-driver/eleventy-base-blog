@@ -125,4 +125,4 @@ Nu.
 
 Vorba lui Gardoș, singurul lucru care contează este rezultatul din week-end.
 
-PS: dacă-ți lăcrimează ochii când citești, [poți vedea varianta video a acestui text aici](https://www.youtube.com/watch?v=Tq1rFvQD-Do)
+PS: dacă-ți lăcrimează ochii când citești, [poți vedea varianta video a acestui text aici.](https://www.youtube.com/watch?v=Tq1rFvQD-Do)

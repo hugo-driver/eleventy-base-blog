@@ -5,9 +5,15 @@ date_published: 2024-08-22T11:37:16.000Z
 date_updated: 2024-08-22T11:37:16.000Z
 tags: ["Dan Șucu", "Gigi Becali", "Rapid", "FCSB"]
 excerpt: În ciuda entuziasmului celor care sperau că pot în sfârșit să pună semnul egal între patronul Rapidului și cel al FCSB, am o veste proastă... Nu, nu sunt la fel. Îți exlplic mai jos de ce.
+permalink: "diferenta-dintre-sucu-si-becal/index.html"
+cover: "./diferenta-sucu-becali.jpg"
 ---
 
-Dacă ești genul căruia îi lăcrimează ochii când citește sau pur și simplu ai stat prea mult pe TikTok ca să poți consuma altceva decât conținut video, ai ideile acestui text în formatul tău favorit aici:
+![Memă inspirată din Star Wars care arată nedumirere fanilor FCSB când află că Șucu nu e ca Becali](./diferenta-sucu-becali.jpg)
+
+
+Dacă ești genul căruia îi lăcrimează ochii când citește sau pur și simplu ai stat prea mult pe TikTok ca să poți consuma altceva decât conținut video, [ai ideile acestui text în formatul tău favorit aici](https://www.youtube.com/watch?v=sFPfCPSgzfk)
+
 
 După demiterea lui Lennon de la Rapid, a apărut puternic ideea că de fapt n-ar fi nicio diferență între patronul Rapidului și cel al FCSB.
 
@@ -83,7 +89,7 @@ Doar că aici diferența este-n favoarea lui Becali.
 
 Adică, Șucu și-a încălcat principiile clamate direct și indirect care spuneau că Rapid trebuie să aibă o imagine excelentă în momentul în care l-a numit pe Șumudică antrenor.
 
-A numit un antrenor cu comportament de circar pentru că se află într-o totală degringoladă în ceea ce privește capacitatea sa de-a-nțelege ce se întâmplă cu echipa sa. Această dezorientare l-a făcut să-și încalce principiile și [să ia o măsură real disperată](__GHOST_URL__/plecare-lennon-venire-sumudica/).
+A numit un antrenor cu comportament de circar pentru că se află într-o totală degringoladă în ceea ce privește capacitatea sa de-a-nțelege ce se întâmplă cu echipa sa. Această dezorientare l-a făcut să-și încalce principiile și [să ia o măsură real disperată](https://www.cameravar.ro/plecare-lennon-venire-sumudica/).
 
 În schimb, Becali își respectă principiile, credințele legate de felul în care trebuie făcute lucrurile fără să se abată de la acestea. Chiar a devenit și mai radical în ultimii ani în ceea ce privește respectarea acestor principii.
 

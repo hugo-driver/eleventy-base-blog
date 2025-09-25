@@ -4,7 +4,10 @@ slug: merite-andrei-nicolescu
 date_published: 2024-08-23T12:07:05.000Z
 date_updated: 2024-08-23T12:07:05.000Z
 tags: Dinamo
+permalink: "merite-andrei-nicolescu/index.html"
 ---
+
+
 
 Știu, nu este ușor pentru mulți dintre fanii lui Dinamo să se confrunte cu această situație, dar Nicolescu are un merit decisiv în faptul că echipa există și că începe să ofere din nou speranțe suporterilor.
 
