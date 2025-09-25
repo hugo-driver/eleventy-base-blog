@@ -1,13 +1,17 @@
 ---
 title: Ce șanse au Nicolescu și Angelescu în luptele de putere de la Prima Sport cu Mihai Stoica
+description: Miza principală a prezenței lor în emisiuni este influențarea arbitrajelor. Miza secundară e și ea importantă și ține mai ales de satisfacerea fanilor echipelor pe care le reprezintă
 slug: angelescu-nicolescu-vs-mihai-stoica
 date_published: 2025-07-23T09:42:19.000Z
 date_updated: 2025-07-25T13:26:48.000Z
 tags: ["Conducători de club", "Presa sportivă"]
-excerpt: Miza principală a prezenței lor în emisiuni este influențarea arbitrajelor. Miza secundară e și ea importantă și ține mai ales de satisfacerea fanilor echipelor pe care le reprezintă
+permalink: "angelescu-nicolescu-vs-mihai-stoica/index.html"
+cover: "./nicolescu-angelescu-prima-sport-1.jpg"
 ---
 
-Mă confrunt cu o situație dificilă - cei de la Prima Sport mi-au furat posibilitatea de-a-nfiera cu același elan prezența lui Mihai Stoica în emisiunile lor sub un pretext corect - [e un analist sub acoperire care nu poate și nici nu vrea să fie obiectiv](__GHOST_URL__/televiziuni-sport-analisti-liga1/).
+![Memă tip change my mind - motivul pentru care Angelescu și Nicolescu au început colaborarea cu Prima Sport](./nicolescu-angelescu-prima-sport-1.jpg)
+
+Mă confrunt cu o situație dificilă - cei de la Prima Sport mi-au furat posibilitatea de-a-nfiera cu același elan prezența lui Mihai Stoica în emisiunile lor sub un pretext corect - [e un analist sub acoperire care nu poate și nici nu vrea să fie obiectiv](https://www.cameravar.ro/televiziuni-sport-analisti-liga1/).
 
 Asta deși, așa cum am recunoscut, aparițiile sale sunt în mod real de maxim interes pentru mine.
 
@@ -32,7 +36,7 @@ Adică, pe limbaj fotbalistic, "pune presiune".
 
 De asemenea, se asigură că orice situație de arbitraj favorabilă FCSB va fi încadrată în categoria eroare omenească sau chiar în categoria “Silviu, deci tu refuzi să vezi ce este clar!”.
 
-Da, [atât Samuilă, cât și Udrea au obiceiul de-a vedea realitatea](__GHOST_URL__/cei-mai-buni-moderatori-liga-1/) și de-a-i produce izbucniri nervoase lui Mihai Stoica.
+Da, [atât Samuilă, cât și Udrea au obiceiul de-a vedea realitatea](https://www.cameravar.ro/cei-mai-buni-moderatori-liga-1/) și de-a-i produce izbucniri nervoase lui Mihai Stoica.
 
 În fine, presa preia ce spune Stoica în emisiuni pentru că nu e doar o voce importantă a clubul care produce cel mai mare interese mediatic, dar Stoica are, așa cum spuneam, un talent real de-a se face interesant.
 
@@ -124,4 +128,4 @@ Adică, deși nu mai pare o de mare importanță pentru prea mulți, pur jurnali
 
 Nu e o situație perfectă, dar este o situație net mai bună decât era înainte. 
 
-Plus că [situațiile perfecte din perspectiva obiectivității](__GHOST_URL__/interese-case-de-pariuri-presa-sportiva/) se produc doar atunci când sunt eu prezent în emisiuni, așa că n-are rost să mai insist pe acest subiect.
+Plus că [situațiile perfecte din perspectiva obiectivității](https://www.cameravar.ro/interese-case-de-pariuri-presa-sportiva/) se produc doar atunci când sunt eu prezent în emisiuni, așa că n-are rost să mai insist pe acest subiect.

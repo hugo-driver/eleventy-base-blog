@@ -1,11 +1,15 @@
 ---
 title: Motivul freudian pentru care oamenii din fotbal refuză să recunoască erorile de arbitraj care-i avantajează
+description: Conducători de club, antrenori și jucători se dau peste cap să sfideze realitatea erorilor de arbitraj care îi avantajează dintr-o rațiune simplă - sunt complexați.
 slug: mari-erori-arbitraj-negate
 date_published: 2025-02-26T07:08:05.000Z
 date_updated: 2025-02-26T07:08:05.000Z
 tags: ["Conducători de club", "Arbitraje"]
-excerpt: Conducători de club, antrenori și jucători se dau peste cap să sfideze realitatea erorilor de arbitraj care îi avantajează dintr-o rațiune simplă - sunt complexați.
+permalink: "mari-erori-arbitraj-negate/index.html"
+cover: "./erori-uriase-de-arbitraj.jpg"
 ---
+
+![Imagine dintr-un meci de volei, ca formă de ironizare a hențului lui Ngezana](./erori-uriase-de-arbitraj.jpg)
 
 Încerc să am mai multe teorii legate de această situație pentru că dacă m-aș rezuma la prima care-mi vine minte, textul acesta ar putea să pară insultător la adresa celor în cauză.
 

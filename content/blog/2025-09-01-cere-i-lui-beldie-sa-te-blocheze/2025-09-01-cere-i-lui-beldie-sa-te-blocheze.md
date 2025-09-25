@@ -5,7 +5,12 @@ date_published: 2025-09-01T11:55:02.000Z
 date_updated: 2025-09-14T19:57:35.000Z
 tags: ["Suporteri", "Presa sportivă"]
 permalink: "cere-i-lui-beldie-sa-te-blocheze/index.html"
+cover: "./cere-i-lui-beldie-sa-te-blocheze.jpg"
 ---
+
+![Memă cu Batman pălmuindu-l pe Robin, ca simbol al intransigenței mele în relație cu cei care mă urmăresc pe rețelele sociale](./cere-i-lui-beldie-sa-te-blocheze.jpg)
+
+
 
 De ceva vreme, observ cum oameni care au în mod evident o părere foarte proastă despre mine nu se pot abține totuși să mă urmărească în continuare pe Facebook și, foarte probabil, peste tot pe unde mai apar - site-uri, emisiuni TV etc.
 

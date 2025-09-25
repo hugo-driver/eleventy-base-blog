@@ -4,7 +4,11 @@ slug: acuze-banciu-tolontan-ioanitoaia
 date_published: 2025-01-14T11:21:20.000Z
 date_updated: 2025-01-14T11:21:20.000Z
 tags: Presa sportivă
+permalink: "acuze-banciu-tolontan-ioanitoaia/index.html"
+cover: "./radu-banciu-iamsport.jpg"
 ---
+
+![Radu Banciu, în emisiunile de la iAM Sport](./radu-banciu-iamsport.jpg)
 
 Ca aproape orice om care vorbește mult, Radu Banciu ajunge să spună și prostii.
 
@@ -142,7 +146,7 @@ Ceea ce e fals, desigur.
 
 Una dintre dovezile mărunte fiind inclusiv textul de față, publicat pe site-ul meu, dar în condițiile în care amândoi avem un contract cu [iAM Sport](https://iamsport.ro/). Într-o presă “neliberă”, acest text ori n-ar fi existat, ori ar fi fost publicat doar pentru că era efectul unei comenzi venite de la patronat.
 
-Mai mult, în opinia mea, presa sportivă de astăzi este de departe cea mai performantă formă de presă existentă în România. Și cea mai onestă. Da, ai citit bine, dar o voi repeta - [presa sportivă este cea mai performantă și onestă formă de presă din România](__GHOST_URL__/suprematia-presei-sportive/).
+Mai mult, în opinia mea, presa sportivă de astăzi este de departe cea mai performantă formă de presă existentă în România. Și cea mai onestă. Da, ai citit bine, dar o voi repeta - [presa sportivă este cea mai performantă și onestă formă de presă din România](https://www.cameravar.ro/suprematia-presei-sportive/).
 
 Nu e o presă perfectă, nici pe departe.
 

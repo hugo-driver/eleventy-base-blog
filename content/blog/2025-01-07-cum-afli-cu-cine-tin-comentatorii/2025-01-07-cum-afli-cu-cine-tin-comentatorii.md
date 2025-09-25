@@ -4,7 +4,11 @@ slug: cum-afli-cu-cine-tin-comentatorii
 date_published: 2025-01-07T14:09:54.000Z
 date_updated: 2025-01-07T14:33:37.000Z
 tags: Presa sportivă
+permalink: "cum-afli-cu-cine-tin-comentatorii/index.html"
+cover: "./comentatori-prima-tv-anunt-orlando-nicoara-emil-gradinescu-costi-mocanu.jpg"
 ---
+
+![Emil Grădinescu și Costi Mocanu, doi dintre cei mai contestați comentatori de către ne-FCSB-iști](./comentatori-prima-tv-anunt-orlando-nicoara-emil-gradinescu-costi-mocanu.jpg)
 
 Când vine vorba de-a identifica cine cu cine ține, foarte puțini suporteri au îndoieli. În general, îți pot spune lejer despre fiecare ziarist care vorbește despre Liga 1 cu cine ține și, automat, pe cine urăște.
 
@@ -16,7 +20,7 @@ Prin urmare, aproape fiecare comentator, fiecare analist, fiecare ziarist este c
 
 Partea cu adevărat comică este că mulți dintre acești ziariști sunt acuzați că țin cu mai multe echipe în același timp pentru că suporterii respectivi nu se pot pune aproape niciodată de acord în această privință.
 
-Adică, mulți steliști îi văd pe cei care nu le satisfac [orgoliul fragil](__GHOST_URL__/cum-sa-tii-cu-fcsb/) prin comentarii sau afirmații "de bine" că sunt fani ai uneia dintre echipele rivale. La fel și unii rapidiști simt că e ceva-n neregulă cu comentatorii care s-au bucurat cam cu tristețe la golul marcat de echipa lor favorită. Cei care sunt cu Dinamo au avut în ultimii ani prea multe probleme ca să-i intereseze ce fac alții, dar te asigur că și acolo există super potențial pentru astfel de verdicte.
+Adică, mulți steliști îi văd pe cei care nu le satisfac [orgoliul fragil](https://www.cameravar.ro/cum-sa-tii-cu-fcsb/) prin comentarii sau afirmații "de bine" că sunt fani ai uneia dintre echipele rivale. La fel și unii rapidiști simt că e ceva-n neregulă cu comentatorii care s-au bucurat cam cu tristețe la golul marcat de echipa lor favorită. Cei care sunt cu Dinamo au avut în ultimii ani prea multe probleme ca să-i intereseze ce fac alții, dar te asigur că și acolo există super potențial pentru astfel de verdicte.
 
 Desigur, acești acuzatori de serviciu nu-și pun vreodată problema de ce un ziarist e acuzat concomitent că ține cu toate cele 3 echipe menționate. Nu pot observa asta pentru că dacă ar face-o, ar însemna să-și pună la îndoială propria credință.
 

@@ -4,7 +4,12 @@ slug: noul-val-de-analisti-baciu-rusescu
 date_published: 2025-08-26T11:15:59.000Z
 date_updated: 2025-08-26T11:21:32.000Z
 tags: Presa sportivă
+permalink: "noul-val-de-analisti-baciu-rusescu/index.html"
+cover: "./noul-val-de-analisti-baciu-rusescu.jpg"
 ---
+
+![Memă cu o doamnă în vârstă care privelte un ecran în căutarea analistului ei preferat](./noul-val-de-analisti-baciu-rusescu.jpg)
+
 
 Am obiceiul de-a urmări cum evoluează foștii fotbaliști care încep să colaboreze cu emisiunile de analiză dedicate Ligii 1. Încerc să văd dacă prima impresie mi se se confirmă sau nu.
 
@@ -80,7 +85,7 @@ Nu, spun c-ar trebui să fie tot timpul profesionist mai ales în relație cu el
 
 ## Cine continuă să-mi placă foarte mult
 
-Rămân la părerea că [cei mai consistenți oameni de analiză fotbalistică din România](__GHOST_URL__/cei-mai-buni-analisti-liga1/) sunt doi foști fotbaliști, actuali antrenori, care apar rar sau foarte rar la TV.
+Rămân la părerea că [cei mai consistenți oameni de analiză fotbalistică din România](https://www.cameravar.ro/cei-mai-buni-analisti-liga1/) sunt doi foști fotbaliști, actuali antrenori, care apar rar sau foarte rar la TV.
 
 Mă refer la Daniel Pancu și la Ianis Zicu.
 

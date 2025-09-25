@@ -1,11 +1,15 @@
 ---
 title: Un sfat pentru colegii din presa sportivă - vă rog să fiți discreți când vine vorba de interesele industriei pariurilor
+description: Fanatik plânge pe umărul cocârjat de măsuri fiscale al celor de la Superbet. Ceea ce e penibil nu pentru că n-ar avea dreptate în ceea ce scriu, ci pentru că iau bani pe reclamă de la Superbet și-și vând astfel obiectivitatea în această poveste
 slug: interese-case-de-pariuri-presa-sportiva
 date_published: 2025-07-07T11:42:59.000Z
 date_updated: 2025-07-25T13:27:29.000Z
 tags: Presa sportivă
-excerpt: Fanatik plânge pe umărul cocârjat de măsuri fiscale al celor de la Superbet. Ceea ce e penibil nu pentru că n-ar avea dreptate în ceea ce scriu, ci pentru că iau bani pe reclamă de la Superbet și-și vând astfel obiectivitatea în această poveste
+permalink: "interese-case-de-pariuri-presa-sportiva/index.html"
+cover: "./interese-case-de-pariuri.jpg"
 ---
+
+![Memă clasică prezentând un cuplu aflat în pat, ea gândindu-se ce-l preocupă pe el, iar el gândidu-se la pariuri sportive](./interese-case-de-pariuri.jpg)
 
 Povestea este simplă - în goana statului după încasări de la privați, a apărut și ideea de creștere a impozitării câștigurilor din jocuri de noroc de la 3% la 10%.
 
@@ -45,7 +49,7 @@ Nu spun că fac ceva ilegal, spun doar că-i penibil să aperi editorial cauza u
 
 Doar că obiectivitatea nu este doar ce faci cu adevărat, ci și ceea ce se percepe că faci. Deci oamenii nu vor avea încredere în tine că tu acționezi onest editorial în relație cu subiecte care afectează interesele caselor de pariuri.
 
-Este ca și cum Mihai Stoica, plătit de Becali, s-ar duce în emisiunile de la Prima Sport ca să fie obiectiv. În primul rând, [nici nu-și propune asta](__GHOST_URL__/televiziuni-sport-analisti-liga1/), iar în al doilea rând niciun fan zdravăn la cap, inclusiv al FCSB, nu crede că Mihai Stoica e obiectiv în acele emisiuni.
+Este ca și cum Mihai Stoica, plătit de Becali, s-ar duce în emisiunile de la Prima Sport ca să fie obiectiv. În primul rând, [nici nu-și propune asta](https://www.cameravar.ro/televiziuni-sport-analisti-liga1/), iar în al doilea rând niciun fan zdravăn la cap, inclusiv al FCSB, nu crede că Mihai Stoica e obiectiv în acele emisiuni.
 
 Acesta e motivul pentru care spun că Fanatik se face de râs în această poveste și acesta este motivul pentru care absolut orice “organ de presă sportivă” care încasează de altfel onest din banii industriei de gaming se va face de râs dacă deschide gura pe tema agresivității statului în relație cu casele de pariuri și nu numai.
 
@@ -61,7 +65,7 @@ Adică, spre deosebire de colegi de breaslă interesați sau doar neatenți, nu 
 
 Ciudat este că ai mei colegi nu foloseau denumirea de marketing a competiției când alte case de pariuri își asociau imaginea cu aceasta în trecut, doar pentru Superbet s-a făcut acest efort. Dacă ar fi să-i parafrazez pe cei de la Fanatik, e firesc, doar e vorba de principalul sponsor al presei sportive.
 
-Deci n-am luat bani de la casele de pariuri și [am râs de sintagma SuperLiga așa cum e firesc să râzi](__GHOST_URL__/de-ce-nu-superliga-liga1/) când ești un om liber la minte și vorbe.
+Deci n-am luat bani de la casele de pariuri și [am râs de sintagma SuperLiga așa cum e firesc să râzi](https://www.cameravar.ro/de-ce-nu-superliga-liga1/) când ești un om liber la minte și vorbe.
 
 Mai mult, știi care-i culmea?
 
