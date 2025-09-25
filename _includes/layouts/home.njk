@@ -4,13 +4,32 @@ layout: layouts/base.njk
 <!-- Delete this block, which will also remove the component CSS from the bundle -->
 <style>{% include "css/message-box.css" %}</style>
 <div class="message-box">
-	<ol>
-		<li>Edit <code>_data/metadata.js</code> with your blog’s information.</li>
-		<li>(Optional) Edit <code>eleventy.config.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
-		<li>Delete this message from <code>_includes/layouts/home.njk</code>.</li>
-	</ol>
-	<p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
+<p>CameraVAR.ro este un newsletter dedicat Ligii 1, scris de Ștefan Beldie.</p>
+
+<p>Abonează-te acum pentru analize și comentarii fără prietenii cu oamenii de fotbal sau cu casele de pariuri ↓ ↓ ↓</p>
+
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/free-of-email"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/free-of-email', 'popupwindow')"
+  class="newsletter-form"
+>
+  <div class="input-group">
+    <input
+      type="email"
+      name="email"
+      placeholder="Adresa ta de email"
+      required
+      aria-label="Adresa de email"
+    />
+    <button type="submit">Abonare</button>
+  </div>
+  <p class="form-message" id="form-message"></p>
+</form>
+
 </div>
 <!-- Stop deleting -->
 
 {{ content | safe }}
+
