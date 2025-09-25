@@ -76,12 +76,12 @@ export default async function(eleventyConfig) {
 			limit: 10,
 		},
 		metadata: {
-			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			language: "ro",
+			title: "CameraVAR.ro",
+			subtitle: "Ștefan Beldie despre fotbalul din Liga 1.",
+			base: "https://www.cameravar.ro/",
 			author: {
-				name: "Your Name"
+				name: "Ștefan Beldie"
 			}
 		}
 	});
