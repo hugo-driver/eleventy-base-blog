@@ -11,7 +11,6 @@ cover: "./fcsb-contra-sparta.jpg"
 
 ![FCSB s-a grăbit să creadă că-i favorită după meciul din tur cu Sparta](./fcsb-contra-sparta.jpg)
 
-
 Imediat după meciul tur, am sfidat optimismul aproape generalizat al steliștilor legat de iminenta calificare a FCSB în play off-ul Champions Leagu și am scris despre motivele pentru care [cehii au în continuare șanse mai mari să meargă mai departe](https://www.cameravar.ro/sparta-favorita-fcsb/).
 
 Mai mult, am anticipat că cehii vor ieși învingători la București.

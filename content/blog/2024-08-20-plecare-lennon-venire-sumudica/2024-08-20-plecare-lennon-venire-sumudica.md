@@ -1,11 +1,15 @@
 ---
 title: Ce-nseamnă de fapt demiterea lui Lennon și aducerea lui Șumudică la Rapid
+description: În mare, înseamnă un singur lucru - Șucu și-a pierdut încrederea în ce crede el despre fotbal și a cedat unor presiuni care n-au legătură doar cu rezultatele slabe ale echipei
 slug: plecare-lennon-venire-sumudica
 date_published: 2024-08-20T16:34:59.000Z
 date_updated: 2024-08-21T09:21:01.000Z
 tags: ["Rapid", "Dan Șucu", "Antrenori"]
-excerpt: În mare, înseamnă un singur lucru - Șucu și-a pierdut încrederea în ce crede el despre fotbal și a cedat unor presiuni care n-au legătură doar cu rezultatele slabe ale echipei
+permalink: "plecare-lennon-venire-sumudica/index.html"
+cover: "./marius-sumudica-revenire-rapid.webp"
 ---
+
+![Marius Șumudică, a revenit la Rapid](./marius-sumudica-revenire-rapid.webp)
 
 Când în finalul sezonului trecut l-a demis pe Bergodi și l-a numit pe Lobonț interimar, Dan Șucu a părut că ia o decizie de capul său așa cum mulți finanțatori din fotbal iau.
 
@@ -57,7 +61,7 @@ Nu pentru că Șumudică n-ar fi un antrenor foarte bun.
 
 E foarte, foarte bun.
 
-[Doar că are un comportament de clovn.](__GHOST_URL__/sumudica/)
+[Doar că are un comportament de clovn.](https://www.cameravar.ro/sumudica/)
 
 Prin urmare, de asta spun că Șucu este total dezorientat și a cedat presiunilor - a numit un antrenor al cărui comportament public intră în totală contradicție cu tot ceea ce a clamat acționarul majoritar al Rapidului că dorește să implementeze în Giulești.
 
@@ -121,4 +125,4 @@ Nu.
 
 Vorba lui Gardoș, singurul lucru care contează este rezultatul din week-end.
 
-PS: dacă-ți lăcrimează ochii când citești, poți vedea varianta video a acestui text aici:
+PS: dacă-ți lăcrimează ochii când citești, [poți vedea varianta video a acestui text aici](https://www.youtube.com/watch?v=Tq1rFvQD-Do)
