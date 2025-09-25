@@ -1,7 +1,7 @@
 ---js
 const eleventyNavigation = {
-	key: "About",
-	order: 3
+	key: "Despre",
+	order: 2
 };
 ---
 # Despre CameraVAR.ro
