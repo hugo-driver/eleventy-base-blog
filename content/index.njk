@@ -1,8 +1,11 @@
----js
-const eleventyNavigation = {
-	key: "Home",
-	order: 1
-};
+---
+layout: layouts/base.njk
+title: "Acasă"
+eleventyNavigation:
+  key: "Home"
+  order: 1
+numberOfLatestPostsToShow: 3
+---
 
 <section class="hero">
   <p>CameraVAR.ro este un newsletter dedicat Ligii 1, scris de Ștefan Beldie.</p>
@@ -33,11 +36,10 @@ const eleventyNavigation = {
 </div>
 </section>
 
-const numberOfLatestPostsToShow = 3;
----
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Ultimele {{ latestPostsCount }} articole{% if latestPostsCount != 1 %}{% endif %}</h1>
+
+<h2>Ultimele {{ latestPostsCount }} articole</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -45,14 +47,5 @@ const numberOfLatestPostsToShow = 3;
 
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
-<p>Alte {{ morePosts }} articole {% if morePosts != 1 %}{% endif %} pot fi găsite în <a href="blog.njk">arhivă</a>.</p>
+<p>Alte {{ morePosts }} articole pot fi găsite în <a href="/posts/">arhivă</a>.</p>
 {% endif %}
-
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
