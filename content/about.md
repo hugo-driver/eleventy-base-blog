@@ -48,10 +48,10 @@ Prin urmare, **nu vei găsi aici**:
 
 Dincolo de asta, îți ofer o singură formă de respect - îmi dau silința să fiu obiectiv în tot ceea ce scriu. Prin urmare, abonează-te acum:
   <form
-    action="https://buttondown.com/api/emails/embed-subscribe/free-of-email"
+    action="https://buttondown.com/api/emails/embed-subscribe/cameravar"
     method="post"
     target="popupwindow"
-    onsubmit="window.open('https://buttondown.email/free-of-email', 'popupwindow')"
+    onsubmit="window.open('https://buttondown.email/cameravar', 'popupwindow')"
     class="newsletter-form"
   >
     <div class="input-group">
