@@ -62,10 +62,10 @@ https://nicolas-hoizey.com/feeds/all.xml
               <xsl:attribute name="href">
                 <xsl:value-of select="/atom:feed/atom:link[not(@rel)]/@href"/>
               </xsl:attribute>
-              Visit Website &#x2192;
+              Vizitează site-ul &#x2192;
             </a>
           </header>
-          <h2>Recent Items</h2>
+          <h2>Articole recente</h2>
           <xsl:apply-templates select="atom:feed/atom:entry" />
         </div>
       </body>
@@ -82,7 +82,7 @@ https://nicolas-hoizey.com/feeds/all.xml
         </a>
       </h3>
       <small class="text-gray">
-        Published: <xsl:value-of select="atom:updated" />
+        Publicat: <xsl:value-of select="atom:updated" />
       </small>
     </div>
   </xsl:template>
