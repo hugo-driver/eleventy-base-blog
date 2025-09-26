@@ -16,7 +16,7 @@ Mai exact:
 
 Iar unii apreciază asta:
 
-> Best blog (by far) on Romanian football belongs to [@stefan\_beldie](https://twitter.com/stefan_beldie?ref_src=twsrc%5Etfw&ref=cameravar.ro). Follow him for a quality source of info!
+> Best blog (by far) on Romanian football belongs to [@stefan_beldie](https://twitter.com/stefan_beldie?ref_src=twsrc%5Etfw&ref=cameravar.ro). Follow him for a quality source of info!
 > 
 > — Radu Baicu (@rbaicu) [January 6, 2015](https://twitter.com/rbaicu/status/552524606717038593?ref_src=twsrc%5Etfw&ref=cameravar.ro)
 
