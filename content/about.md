@@ -1,8 +1,9 @@
----js
-const eleventyNavigation = {
-	key: "Despre",
-	order: 2
-};
+---
+layout: layouts/base.njk
+eleventyNavigation:
+  key: "Despre"
+  order: 2
+title: "Despre"
 ---
 # Despre CameraVAR.ro
 
