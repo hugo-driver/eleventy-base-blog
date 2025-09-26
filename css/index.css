@@ -296,52 +296,49 @@ header {
 	margin-right: 1em;
 }
 
-/* Container formular */
+/* Formular abonare - Light mode (default) */
 .newsletter-form {
   max-width: 500px;
   margin: 2rem auto;
   padding: 1.25rem;
-  background: #1f2937; /* gri închis */
-  border: 1px solid #374151;
+  background: #f9fafb; /* albicios */
+  border: 1px solid #e5e7eb;
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
-/* Grupul input + button */
 .newsletter-form .input-group {
   display: flex;
-  flex-direction: column; /* default pe mobil */
+  flex-direction: column; /* implicit pe mobil */
   gap: 0.75rem;
 }
 
-/* Input email */
 .newsletter-form input[type="email"] {
   width: 100%;
   padding: 0.75rem 1rem;
   font-size: 1rem;
-  color: #f3f4f6;
-  background: #111827;
-  border: 1px solid #374151;
+  color: #111827;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
   border-radius: 8px;
   outline: none;
   transition: border 0.2s ease, box-shadow 0.2s ease;
 }
 
 .newsletter-form input[type="email"]::placeholder {
-  color: #9ca3af;
+  color: #6b7280;
 }
 
 .newsletter-form input[type="email"]:focus {
-  border-color: #3b82f6;
-  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.25);
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
 }
 
-/* Buton */
 .newsletter-form button {
   width: 100%;
   padding: 0.75rem 1.25rem;
-  background: #3b82f6;
-  color: #f9fafb;
+  background: #2563eb;
+  color: #ffffff;
   font-size: 1rem;
   font-weight: 600;
   border: none;
@@ -351,18 +348,17 @@ header {
 }
 
 .newsletter-form button:hover {
-  background: #2563eb;
+  background: #1d4ed8;
 }
 
 .newsletter-form button:active {
   transform: scale(0.98);
 }
 
-/* Mesaj sub formular */
 .newsletter-form .form-message {
   margin-top: 0.75rem;
   font-size: 0.875rem;
-  color: #9ca3af;
+  color: #6b7280;
   text-align: center;
 }
 
@@ -377,6 +373,38 @@ header {
   }
 
   .newsletter-form button {
-    width: auto; /* butonul își ia doar lățimea conținutului */
+    width: auto; /* butonul doar cât textul */
+  }
+}
+
+/* --- Dark mode automat --- */
+@media (prefers-color-scheme: dark) {
+  .newsletter-form {
+    background: #1f2937; /* gri închis */
+    border: 1px solid #374151;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  }
+
+  .newsletter-form input[type="email"] {
+    background: #111827;
+    border: 1px solid #374151;
+    color: #f3f4f6;
+  }
+
+  .newsletter-form input[type="email"]::placeholder {
+    color: #9ca3af;
+  }
+
+  .newsletter-form button {
+    background: #3b82f6;
+    color: #f9fafb;
+  }
+
+  .newsletter-form button:hover {
+    background: #2563eb;
+  }
+
+  .newsletter-form .form-message {
+    color: #9ca3af;
   }
 }
