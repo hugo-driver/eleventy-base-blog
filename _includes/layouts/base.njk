@@ -57,10 +57,13 @@
 		</header>
 
 		<main id="main">
-			<heading-anchors>
+		
 				{{ content | safe }}
-			</heading-anchors>
+		
 		</main>
+
+		<link rel="stylesheet" href="/css/newsletter.css">
+
 
 		<footer>
 			<p>
@@ -72,3 +75,4 @@
 		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
 	</body>
 </html>
+
