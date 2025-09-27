@@ -2,7 +2,7 @@
 title: De ce decizia lui Cojocaru de-a nu-l elimina pe Armstrong e o uriașă problemă
 slug: cojocaru-arbitraj-craiova-dinamo
 date: 2025-09-27
-tags: ["Arbitraj", "CS U Craiova", "Dinamo"]
+tags: ["Arbitraje", "CS U Craiova", "Dinamo"]
 permalink: "cojocaru-arbitraj-craiova-dinamo/index.html"
 cover: "./adrian-cojocaru-craiova-dinamo.jpg"
 ---
