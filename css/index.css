@@ -18,6 +18,11 @@
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
+
+	/* Variabile pentru linkuri în light mode */
+	--link-blue: #0645AD;
+	--link-blue-visited: #0B0080;
+	--link-blue-focus: #1a73e8;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -103,6 +108,7 @@ li {
 	line-height: 1.5;
 }
 
+/* Links – valori default (mai ales în dark mode) */
 a[href] {
 	color: var(--text-color-link);
 }
@@ -112,6 +118,31 @@ a[href]:visited {
 a[href]:hover,
 a[href]:active {
 	color: var(--text-color-link-active);
+}
+
+/* Light mode: albastru + subliniat */
+@media (prefers-color-scheme: light) {
+  a[href] {
+    color: var(--link-blue);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+
+  a[href]:visited {
+    color: var(--link-blue-visited);
+  }
+
+  a[href]:hover,
+  a[href]:active {
+    color: var(--link-blue);
+    text-decoration-thickness: 2px;
+  }
+
+  a[href]:focus-visible {
+    outline: 2px solid var(--link-blue-focus);
+    outline-offset: 2px;
+  }
 }
 
 main,
@@ -406,5 +437,28 @@ header {
 
   .newsletter-form .form-message {
     color: #9ca3af;
+  }
+}
+
+/* --- High Contrast / Forced Colors --- */
+@media (forced-colors: active) {
+  a[href] {
+    color: LinkText;
+    text-decoration: underline;
+  }
+
+  a[href]:visited {
+    color: VisitedText;
+  }
+
+  a[href]:hover,
+  a[href]:active {
+    color: LinkText;
+    text-decoration-thickness: 2px;
+  }
+
+  a[href]:focus-visible {
+    outline: 2px solid Highlight;
+    outline-offset: 2px;
   }
 }

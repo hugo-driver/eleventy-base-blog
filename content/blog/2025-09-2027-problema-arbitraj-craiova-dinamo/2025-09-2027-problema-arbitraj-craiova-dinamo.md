@@ -59,6 +59,3 @@ Nimic din ceea ce se vede clar la VAR și e trecut cu vederea de arbitri nu este
 Este furt de dreptate fotbalistică.
 
 În plus, dacă aseară s-a întâmplat ceva cu premeditate (eu nu cred asta), n-a fost categoric ca să o ajute pe Dinamo, ci ca s-o împiedice pe Craiova. 
-
-
-
