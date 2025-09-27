@@ -5,7 +5,7 @@ slug: becali-cel-rau-si-rivalii-virtuosi
 date_published: 2025-08-21T07:11:58.000Z
 date_updated: 2025-08-26T11:24:35.000Z
 tags: ["FCSB", "Conducători de club", "Mihai Rotaru", "Dan Șucu"]
-permalink: " becali-cel-rau-si-rivalii-virtuosi/index.html"
+permalink: "becali-cel-rau-si-rivalii-virtuosi/index.html"
 cover: "./becali-cel-rau-rivalii-cei-buni.jpg"
 ---
 
