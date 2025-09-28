@@ -6,7 +6,7 @@ tags: ["Arbitraje", "Dinamo"]
 permalink: "eroare-dinamovisti-arbitraje/index.html"
 cover: "./adrian-cojocaru-craiova-dinamo.jpg"
 ---
-![Memă inspirată de reacția dinamiviștilor după ce au beneficiat de eroarea uriașă de arbitraj a lui Adrian Cojocaru](eroare-dinamovisti-arbitraje.jpg)
+![Memă inspirată de reacția dinamiviștilor după ce au beneficiat de eroarea uriașă de arbitraj a lui Adrian Cojocaru](ipocrizie-dinamo-arbitraje.jpg)
 
 
 În mod ciudat, unii dintre fanii lui Dinamo se comportă brusc precum fanii unor echipe care tratează gafele favorabile ale arbitrilor ca pe ceva ce li se cuvine...
