@@ -132,7 +132,7 @@ Așa că spun și eu ca domnul Gheorghe Ștefan - Pinalti: “Nu mi-e frică, da
 
 ## Liga 1 e un campionat OK, dar trebuie să fii liber să o spui
 
-După cum probabil știi, repet obsesiv pe unde pot [că avem un campionat bun](https://www.cameravar.ro//de-ce-liga1-e-campionat-bun/).
+După cum probabil știi, repet obsesiv pe unde pot [că avem un campionat bun](https://www.cameravar.ro/de-ce-liga1-e-campionat-bun/).
 
 Și că anumiți ziariști bat câmpii când analizează campionatul intern fără să țină cont de nivelul de finanțare sau, în unele cazuri triste, fără să fi văzut un meci cap - coadă de ani de zile.
 
