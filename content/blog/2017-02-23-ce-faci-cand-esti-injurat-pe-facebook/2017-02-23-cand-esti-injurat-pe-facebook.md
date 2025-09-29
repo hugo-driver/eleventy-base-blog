@@ -66,7 +66,7 @@ Sunt mereu la limita celor 5.000 de prieteni pe Facebook. Dintre aceștia, mai p
 
 Pe de o parte pentru că cei apropiați mie, cunoștințe din presă etc. au apucat ei să-mi ceară și n-a mai fost nevoie s-o fac eu, iar pe de alta pentru că n-am simțit nevoia să mă împrietenesc cu cei neapropiați mie sau necunoscuți mie.
 
-![Ce să faci când ești înjurat online](./tipuri-de-injuraturi-pe-facebook-oameni-prosti.jpg)
+![Ce să faci când ești înjurat online](./ce-faci-cand-esti-injurat-pe-facebook.jpg)
 
 ### 2. Când cel care mă înjură o face corect gramatical și / sau spectaculos din perspectivă creativă
 

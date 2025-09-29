@@ -9,7 +9,7 @@ permalink: "becali-cel-rau-si-rivalii-virtuosi/index.html"
 cover: "./becali-cel-rau-rivalii-cei-buni.jpg"
 ---
 
-![Memă cu copilul piroman ca simbol pentru atitudinile din emisiuni ale patronilor rivali FCSB](.becali-cel-rau-rivalii-cei-buni.jpg)
+![Memă cu copilul piroman ca simbol pentru atitudinile din emisiuni ale patronilor rivali FCSB](./becali-cel-rau-rivalii-cei-buni.jpg)
 
 Povestea este simplă - Mihai Rotaru a avut o convorbire telefonică cu Gigi Becali legată de prezența în Europa a echipelor românești. Și patronul Craiovei i-a urat succes în această privință, moment în care Becali a simțit nevoia să uite de tot creștinismul său afișat public pentru a face următoarea mărturisire:
 

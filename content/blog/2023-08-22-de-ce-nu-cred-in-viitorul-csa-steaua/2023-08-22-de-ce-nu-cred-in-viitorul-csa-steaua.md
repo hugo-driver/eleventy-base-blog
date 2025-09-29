@@ -9,7 +9,7 @@ permalink: "de-ce-nu-cred-in-viitorul-csa-steaua/index.html"
 cover: "./ce-se-va-intampla-cu-csa-steaua.jpg"
 ---
 
-![Fani CSA Steaua protestând pentru echipa lor împotriva lui Gigi Becali](./pce-se-va-intampla-cu-csa-steaua.jpg)
+![Fani CSA Steaua protestând pentru echipa lor împotriva lui Gigi Becali](./ce-se-va-intampla-cu-csa-steaua.jpg)
 
 Încearcă să-ți imaginezi cum va arăta CSA Steaua peste 10 ani.
 

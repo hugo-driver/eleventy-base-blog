@@ -8,7 +8,7 @@ permalink: "anticipare-declin-rapid/index.html"
 cover: "./anticipare-declin-rapid.jpg"
 ---
 
-![Jucătorii Rapidului după ce u învins FCSB cu 4-0](./anticipare-declin-rapid.jpg)
+![Jucătorii Rapidului după ce u învins FCSB cu 4-0](./rapid-fcsb-dezastru.jpg)
 
 Imediat după ce Rapid a bătut FCSB cu 4-0, am scris că Rapid n-a făcut altceva decât să relanseze campionatul inclusiv pentru Craiova și CFR Cluj.
 

@@ -9,7 +9,7 @@ permalink: "aroganta-stelistului/index.html"
 cover: "./fanii-FCSB-nu-stiu-sa-si-aprecieze-echipa-cu-adevara.jpg"
 ---
 
-![Darius Olaru, căpitanul FCSB](./fanii-FCSB-nu-stiu-sa-si-aprecieze-echipa-cu-adevara.jpg)
+![Darius Olaru, căpitanul FCSB](./fanii-FCSB-nu-stiu-sa-si-aprecieze-echipa-cu-adevarat.jpg)
 
 
 Înainte de orice, câteva cuvinte despre mentalitatea multora dintre suporterii echipelor mari.
