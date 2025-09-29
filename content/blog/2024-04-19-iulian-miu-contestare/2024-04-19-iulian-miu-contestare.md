@@ -11,9 +11,6 @@ cover: "./iulian-miu-orange-sport.jpg"
 
 ![Iulian Miu e contestat de urmăritori la fiecare apariție într-o emisiune](./iulian-miu-orange-sport.jpg)
 
-
-https://www.cameravar.ro
-
 Fenomenul despre care vorbesc se produce ori de câte ori fostul fotbalist al Stelei, Iulian Miu, are apariții la Orange Sport.
 
 Ca să-l observi, intră pe canalul de YouTube al televiziunii în cauză și selectează oricare dintre înregistrările emisiunilor în care apare ca invitat actualul angajat al CSA.
@@ -33,7 +30,7 @@ Nu am văzut niciodată, absolut niciodată, un șuvoi mai mare de contestări l
 Dacă Ilie Dumitrescu și-ar pune ochelarii și ar privi comentariile de la emisiuni mai vechi în care apare Iulian Miu, ar fi de-a dreptul consternat de inferioritatea cuvintelor folosite la adresa acestuia.
 
 Mai mult, ceea ce mi se pare de-a dreptul uluitor este faptul că nu contează absolut deloc subiectul discutat în emisiune, focusul celor care postează comentarii este împărțit în două direcții: Miu să fie dat afară și Miu e nașpa.
-![Comentarii despre Iulian Miu](__GHOST_URL__/content/images/2024/04/comentarii-iulian-miu-orange-sport.png)Comentarii legate de Iulian Miu deși în emisiune se discuta depsre victoria Oțelului în fața celor de la U Cluj în semifinala Cupei României
+![Comentarii despre Iulian Miu](comentarii-iulian-miu-orange-sport.jpg)Comentarii legate de Iulian Miu deși în emisiune se discuta depsre victoria Oțelului în fața celor de la U Cluj în semifinala Cupei României
 ## De ce sunt prestațiile lui Iulian Miu sunt atât de contestate
 
 În mare, e vorba de un amestec de nemulțumire obiectivă cu oftică subiectivă.
@@ -66,7 +63,7 @@ Dacă mâine iei aproape oricare alt fost fotbalist care apare ca analist și-i 
 
 Repet, Miu îi ajută pe oamenii respectivi să-l conteste, nu e ceva inventat. 
 
-Doar că forța acestei contestări e alimentată în primul rând de asocierea lui Miu cu CSA Steaua și de diversele sale declarații care i-au deranjat pe [cei mai mulți și cei mai sensibili fani din România - cei ai FCSB](__GHOST_URL__/cum-sa-tii-cu-fcsb/).
+Doar că forța acestei contestări e alimentată în primul rând de asocierea lui Miu cu CSA Steaua și de diversele sale declarații care i-au deranjat pe [cei mai mulți și cei mai sensibili fani din România - cei ai FCSB](https://www.cameravar.ro/cum-sa-tii-cu-fcsb/).
 
 Ilie Dumitrescu, cel mai elegant și idolatrizat analist, poate fi victima aceluiași tip de ironie și contestare dacă face eroarea ca mâine să spună că FCSB n-ar fi Steaua și să dezvolte ideea așa cum a tot dezvoltat-o Miu de câte ori a avut ocazia.
 
@@ -78,7 +75,7 @@ Așa, simbolic, în semn de respect față de cei care îi urmăresc programul �
 
 Am o părere diferită.
 
-Miu este interesant în acest moment tocmai pentru că este atât de contestat. Spre deosebire de alți analiști (foști fotbaliști sau ziariști) care nu produc niciun soi de sentiment, ci cel mult un fals respect [când au opinii în acord cu marea masă a fanilor FCSB](__GHOST_URL__/fani-fcsb-boicot-vali-moraru-digi-sport/), Miu produce emoții intense.
+Miu este interesant în acest moment tocmai pentru că este atât de contestat. Spre deosebire de alți analiști (foști fotbaliști sau ziariști) care nu produc niciun soi de sentiment, ci cel mult un fals respect [când au opinii în acord cu marea masă a fanilor FCSB](https://www.cameravar.ro/fani-fcsb-boicot-vali-moraru-digi-sport/), Miu produce emoții intense.
 
 Desigur, aceste emoții intense pot fi maximă iritare sau chiar dezgust în cazul unora atât de blegi încât să-și trăiască viața în funcție de ce fac / spun diverși indivizi pe la TV.
 

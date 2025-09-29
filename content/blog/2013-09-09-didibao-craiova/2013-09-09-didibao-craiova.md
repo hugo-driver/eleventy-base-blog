@@ -53,7 +53,7 @@ Prin urmare, clubul Sportiv Universitatea Craiova s-a asociat cu municipalitatea
 Acum, nu știu cum au sărbătorit cele două cluburi 65 de ani de la primul lor meci de fotbal, dar asta-i o problemă care ține mai mult de farmecul local.
 
 În fine, dacă echipa lui Mititelu nu e Universitatea Craiova, unde a activat Pavel Badea între 2002 și 2005? Și la ce echipă a ocupat funcții de conducere?
-![CV-ul lui Pavel Badea pe vremea în care CSU Craiova nu exista](__GHOST_URL__/content/images/2023/12/CV-Pavel-Badea-care-n-a-jucat-la-echipa-lui-Mititelu.png)
+![CV-ul lui Pavel Badea pe vremea în care CSU Craiova nu exista](./cv-pavel-badea-care-n-a-jucat-la-echipa-lui-mititelu.jpg)
 Dacă echipa lui Mititelu nu e Universitatea Craiova, de ce primarul Olguța Vasilescu i-a acordat sprijin moral în perioada de vîrf a conflictului cu FRF?
 
 Dacă echipa lui Mititelu nu e Universitatea Craiova, de ce grupările de fani care acum anunță că susțin noul proiect au încurajat atâția ani această formație acasă și în deplasări?

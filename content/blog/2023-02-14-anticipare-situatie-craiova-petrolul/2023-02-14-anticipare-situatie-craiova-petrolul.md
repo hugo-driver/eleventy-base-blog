@@ -27,7 +27,7 @@ Vei înțelege în continuare.
 
 ## 1. Am fost probabil singurul care a spus că marea problemă a Craiovei este evaluarea corectă a lotului
 
-[În texte succesive](https://www.cameravar.ro/marea-problema-a-lui-radoi.), i-am menționat pe Papp, Nistor și Căpățână la capitolul jucători buni, care totuși oferă prea puțin. Și i-am dat exemplu pe Hanca, Martici, Vână și Rivaldinho la capitolul jucători care-n opinia mea sunt clar sub nivelul pretențiilor clubului.
+[În texte succesive](https://www.cameravar.ro/marea-problema-a-lui-radoi), i-am menționat pe Papp, Nistor și Căpățână la capitolul jucători buni, care totuși oferă prea puțin. Și i-am dat exemplu pe Hanca, Martici, Vână și Rivaldinho la capitolul jucători care-n opinia mea sunt clar sub nivelul pretențiilor clubului.
 
 Cazul Câmpanu este unul special. Oferă puțin, dar e încă un fotbalist tânăr care poate fi vândut la un moment dat pe o sumă de bani OK.
 

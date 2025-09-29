@@ -5,7 +5,7 @@ slug: fani-nocivi-petrolul
 date_published: 2022-10-16T15:51:59.000Z
 date_updated: 2024-02-10T07:12:48.000Z
 tags: ["Petrolul", "Suporteri"]
-permalink: " fani-nocivi-petrolul/index.html"
+permalink: "fani-nocivi-petrolul/index.html"
 cover: "./conflictul-tamas-nicolae-constantin-suporteri-petrolul.jpg"
 ---
 
