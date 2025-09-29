@@ -51,7 +51,7 @@ Bine, Cătălin Tolontan a produs această politică reunită sub ideea “mai b
 
 Prin urmare, o parte dintre cei care am făcut presă alături de el am preluat această apucătură și o vom duce mai departe probabil cât vom face meseria. Poate că asta au pățit și colegii de la Gazetă care au lucrat cu Tolontan, dar nu au mers cu el la Golazo.ro
 
-# O mică îngrijorare legată de cum își cheltuiesc banii colegii de la Gazeta Sporturilor
+## O mică îngrijorare legată de cum își cheltuiesc banii colegii de la Gazeta Sporturilor
 
 Conform logicii acelui articol, e posibil ca unii colegi de la Gazeta Sporturilor să aibă dificultăți majore să-și cheltuiască banii din salariu.
 
