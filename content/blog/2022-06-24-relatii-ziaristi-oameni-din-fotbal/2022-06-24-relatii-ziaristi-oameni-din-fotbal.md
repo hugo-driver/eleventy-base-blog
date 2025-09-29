@@ -89,7 +89,7 @@ De cele mai multe ori, evită să interacționeze profesional cu acesta, mai ale
 
 Am răspuns deja – toți de prin presă am ținut sau ținem.
 
-La rândul meu am ținut în copilărie cu o echipă de fotbal și am făcut-o la modul cel mai profund cu putință.
+[La rândul meu am ținut în copilărie cu o echipă de fotbal](https://www.youtube.com/shorts/9v6KoC91IWs) și am făcut-o la modul cel mai profund cu putință.
 
 Adică ani de zile n-am pierdut vreun meci al respectivei formații, urmăream emisiunile în care se discuta despre ea atât în direct, dar și în reluare.
 
