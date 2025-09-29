@@ -101,7 +101,7 @@ Totuși, chiar dacă Petrolul a trecut printr-o perioadă mai grea recent, reali
 
 Acum, lotul lor a fost ușor întărit, iar clubul afirmă că au început să plătească din restanțele față de jucători.
 
-[Iar suporterii le sunt aproape, cu bune și cu rele.](https://www.cameravar.ro/fani-nocivi-petrolul)
+[Iar suporterii le sunt aproape, cu bune și cu rele.](https://www.cameravar.ro/fani-nocivi-petrolul/)
 
 Acum, dacă ții cu Petrolul, posibil să crezi că am ceva cu echipa ta.
 

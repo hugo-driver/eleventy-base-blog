@@ -48,7 +48,7 @@ Sau să nu facă mare caz de acesta.
 
 În fine, filosofez atât pentru că urmează să scriu despre situația lui Marius Șumudică și a celor de la Rapid.
 
-[Iar un astfel de personaj](https://www.cameravar.ro/sumudica) și un astfel de club au nevoie de o introducere lămuritoare.
+[Iar un astfel de personaj](https://www.cameravar.ro/sumudica/) și un astfel de club au nevoie de o introducere lămuritoare.
 
 ## Nu e vorba că Șucu nu-l place pe Șumudică sau că acesta e certat cu Daniel Niculae
 

@@ -121,7 +121,7 @@ Merită remarcat în primul rând că nu a avut a avut o reacție specifică unu
 
 În afara faptului că fotbaliștii au obiceiul să se plângă că nu le-a fost acordat ceea ce ei consideră meritat, nu mai există absolut nimic firesc în declarația sa.
 
-Cuvintele lui chiar par cuvintele lui Mihai Stoica. Inclusiv întărirea ideii că știe despre ce vorbește de vreme ce-a avut experiențe trecute cu arbitrul Rusandu  pe vremea când juca la Brașov este [o strategie tip Mihai Stoica](https://www.cameravar.ro/mihai-stoica).
+Cuvintele lui chiar par cuvintele lui Mihai Stoica. Inclusiv întărirea ideii că știe despre ce vorbește de vreme ce-a avut experiențe trecute cu arbitrul Rusandu  pe vremea când juca la Brașov este [o strategie tip Mihai Stoica](https://www.cameravar.ro/mihai-stoica/).
 
 De obicei, jucătorii se feresc să intre în astfel de discuții dintr-o grămadă de motive. Unii se tem că vor ajunge la comisii, alții se tem să intre în vreo dispută cu oficialii altor echipe pentru c-ar putea ajunge la mâna acestora în viitor.
 

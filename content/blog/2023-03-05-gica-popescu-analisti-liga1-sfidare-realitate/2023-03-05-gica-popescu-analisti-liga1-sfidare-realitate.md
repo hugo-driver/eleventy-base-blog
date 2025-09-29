@@ -111,7 +111,7 @@ Sunt măcar 5 motive:
 
 ## De ce nu-i fac jocul lui Rotaru în privința analiștilor care-s angajați ai cluburilor
 
-Cineva mi-a zis azi că-i fac jocul lui Mihai Rotaru cu [poziția pe care o am față de contractele de analiști pe care le au diverși angajați ai cluburilor din Liga 1](https://www.cameravar.ro/televiziuni-sport-analisti-liga1).
+Cineva mi-a zis azi că-i fac jocul lui Mihai Rotaru cu [poziția pe care o am față de contractele de analiști pe care le au diverși angajați ai cluburilor din Liga 1](https://www.cameravar.ro/televiziuni-sport-analisti-liga1/).
 
 E fals.
 

@@ -65,7 +65,7 @@ Becali deține puterea prin bani și o folosește inclusiv prin amestecul de apr
 > 
 > Eu am spus că e cel mai bun conducător, cel mai bun psiholog, am vorbit la superlativ de el. Singurul lucru pe care l-am spus a fost că nu are darul ăsta, adică fler la jucători. Nu e o jignire asta". (Becali, ProArena, 2022)
 
-Relația asta arată oarecum ca relația dintre un soț abuziv și o soție casnică. El aduce banii și bătaia în casă, ea este victima care știe să facă o grămadă de lucruri, dar asta contează prea puțin pentru [cel care trăiește doar după propriile reguli](https://www.cameravar.ro/de-ce-il-urasti-pe-becali).
+Relația asta arată oarecum ca relația dintre un soț abuziv și o soție casnică. El aduce banii și bătaia în casă, ea este victima care știe să facă o grămadă de lucruri, dar asta contează prea puțin pentru [cel care trăiește doar după propriile reguli](https://www.cameravar.ro/de-ce-il-urasti-pe-becali/).
 
 ## De ce este greu pentru Mihai Stoica să viețuiască alături de Becali
 

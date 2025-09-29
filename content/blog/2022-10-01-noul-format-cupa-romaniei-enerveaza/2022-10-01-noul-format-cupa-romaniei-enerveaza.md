@@ -69,7 +69,7 @@ Fotbalul este un produs popular și pentru că e ușor de înțeles.
 
 Și e ușor de înțeles pentru că regulile sale au fost puțin schimbate de-a lungul existenței sale.
 
-Unul dintre motivele secundare pentru care tot repet [că sistemul cu play off și play out nu e nimerit pentru Liga 1](https://www.cameravar.ro/de-ce-18-echipe-in-liga1) este inclusiv dificultatea cu care oamenii înțeleg ce se petrece în desfășurarea competiției.
+Unul dintre motivele secundare pentru care tot repet [că sistemul cu play off și play out nu e nimerit pentru Liga 1](https://www.cameravar.ro/de-ce-18-echipe-in-liga1/) este inclusiv dificultatea cu care oamenii înțeleg ce se petrece în desfășurarea competiției.
 
 Adică după ce zeci de ani ai avut lucrurile într-un anume fel, brusc apar modificări care fac lucrurile să fie aproape ciudate:
 

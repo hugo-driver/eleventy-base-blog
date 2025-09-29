@@ -63,7 +63,7 @@ Care e uneori asemănătoare cu concepție despre viață, bani și fotbal a uno
 
 Că și ei sunt oameni.
 
-[Era să zic că și ei sunt suporteri](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal), dar nu vreau să fiu răutăcios cu mine însumi.
+[Era să zic că și ei sunt suporteri](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal/), dar nu vreau să fiu răutăcios cu mine însumi.
 
 În fine, mulți dintre cei interesați de fotbal - suporteri, ziariști, jucători, antrenori și oameni din executivul cluburilor cred că datoria unui patron este să investescă.
 
@@ -71,7 +71,7 @@ Să bage bani.
 
 Sigur, faptul că bagi bani nu este mereu suficient.
 
-Ar trebui să bagi bani, să obții rezultate, să premiezi bine pe toată lumea, să oferi satisfacții inclusiv unor [influensării de peluză îndrăgostiți de puterea pe care o au](https://www.cameravar.ro/fani-nocivi-petrolul) și, la final, să pierzi un pic.
+Ar trebui să bagi bani, să obții rezultate, să premiezi bine pe toată lumea, să oferi satisfacții inclusiv unor [influensării de peluză îndrăgostiți de puterea pe care o au](https://www.cameravar.ro/fani-nocivi-petrolul/) și, la final, să pierzi un pic.
 
 Nu mult.
 

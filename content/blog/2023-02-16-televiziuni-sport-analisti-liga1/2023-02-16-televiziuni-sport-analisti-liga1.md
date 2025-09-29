@@ -89,7 +89,7 @@ Deci sunt ipocrit?
 
 Nu, nu sunt.
 
-Diferența este că [eu îmi dau silința să fiu obiectiv](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal) pentru că este una dintre puținele forme de valoare pe care le pot aduce în emisiune.
+Diferența este că [eu îmi dau silința să fiu obiectiv](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal/) pentru că este una dintre puținele forme de valoare pe care le pot aduce în emisiune.
 
 Nu am fost fotbalist important, nu am experiență în administrarea vreunui club, nu am antrenat pe nimeni.
 

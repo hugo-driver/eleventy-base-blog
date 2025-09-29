@@ -37,7 +37,7 @@ Da, știu, în contextul general poate să nu pară mare lucru.
 
 Și totuși, este.
 
-[Am mai scris despre asta, așa că nu revin](https://www.cameravar.ro/suprematia-presei-sportive).
+[Am mai scris despre asta, așa că nu revin](https://www.cameravar.ro/suprematia-presei-sportive/).
 
 Dar chiar și-n aceste condiții, tot există diverși care confundă pasiunea pentru o echipă cu munca de ziarist.
 
@@ -57,7 +57,7 @@ Care fiind opinii au o nuanță de subiectivitate.
 
 Dar n-au o nuanță de grup organizat care luptă pentru o cauză nedreaptă.
 
-De asta, faptul că eu consider că [FCSB a continuat ideea de Steaua](https://www.cameravar.ro/de-ce-fcsb-este-steaua) este o opinie a mea legată de acest subiect, nu o încercare perversă de-a influența pe alții.
+De asta, faptul că eu consider că [FCSB a continuat ideea de Steaua](https://www.cameravar.ro/de-ce-fcsb-este-steaua/) este o opinie a mea legată de acest subiect, nu o încercare perversă de-a influența pe alții.
 
 ## Fanii FCSB nu sunt confuzi, sunt doar mulți
 

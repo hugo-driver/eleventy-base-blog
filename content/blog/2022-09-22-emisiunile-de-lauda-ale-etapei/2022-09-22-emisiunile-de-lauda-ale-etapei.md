@@ -49,11 +49,11 @@ Ca aceste lucruri să se întâmple, competiția chiar are nevoie de o imagine b
 
 ## De ce este foarte importantă prezența spectatorilor pe stadion
 
-De câțiva ani, eu insist asupra faptului că cel mai important obiectiv al unui club din Liga 1 ar fi [să crească prezența spectatorilor pe stadion](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1).
+De câțiva ani, eu insist asupra faptului că cel mai important obiectiv al unui club din Liga 1 ar fi [să crească prezența spectatorilor pe stadion](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1)/.
 
 De ce?
 
-E o poveste mai lungă care implică inclusiv acceptarea ideii că pentru specificul fotbalului nostru și al pieței TV / cablu, acest contract este [o binecuvântare și o vulnerabilitate în același timp](https://www.cameravar.ro/pericolul-contractului-drepturi-tv-liga1).
+E o poveste mai lungă care implică inclusiv acceptarea ideii că pentru specificul fotbalului nostru și al pieței TV / cablu, acest contract este [o binecuvântare și o vulnerabilitate în același timp](https://www.cameravar.ro/pericolul-contractului-drepturi-tv-liga1/).
 
 Totuși, ce e important de știut legat de ideea creșterii numărului de spectatori în tribune este faptul că este genul de obiectiv a cărui îndeplinire implică aproape întotdeauna atingerea și altor obiective intermediare sănătoase.
 
@@ -132,7 +132,7 @@ Așa că spun și eu ca domnul Gheorghe Ștefan - Pinalti: “Nu mi-e frică, da
 
 ## Liga 1 e un campionat OK, dar trebuie să fii liber să o spui
 
-După cum probabil știi, repet obsesiv pe unde pot [că avem un campionat bun](https://www.cameravar.ro//de-ce-liga1-e-campionat-bun).
+După cum probabil știi, repet obsesiv pe unde pot [că avem un campionat bun](https://www.cameravar.ro//de-ce-liga1-e-campionat-bun/).
 
 Și că anumiți ziariști bat câmpii când analizează campionatul intern fără să țină cont de nivelul de finanțare sau, în unele cazuri triste, fără să fi văzut un meci cap - coadă de ani de zile.
 

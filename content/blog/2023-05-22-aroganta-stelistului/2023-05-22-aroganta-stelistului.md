@@ -46,7 +46,7 @@ De parcă acest sezon ar fi unul ratat.
 
 Sau dacă ar considera eșec faptul că patronul nu aduce un antrenor pe măsura pretențiilor clubului.
 
-Sau dacă ar considera eșec că deși clubul îl are pe [Mihai Stoica](https://www.cameravar.ro/mihai-stoica), nu-l folosește pe măsura capacităților sale.
+Sau dacă ar considera eșec că deși clubul îl are pe [Mihai Stoica](https://www.cameravar.ro/mihai-stoica/), nu-l folosește pe măsura capacităților sale.
 
 Doar că rațiunea pentru care cei mai mulți au impresia că acest sezon a fost ratat ține de faptul că echipa lor n-a câștigat campionatul.
 

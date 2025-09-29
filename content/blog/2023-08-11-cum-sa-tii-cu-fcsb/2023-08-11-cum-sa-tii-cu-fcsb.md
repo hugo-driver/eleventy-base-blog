@@ -99,7 +99,7 @@ Mai mult, chestiunea aceasta este cu atât mai firească în cazul echipelor cu 
 
 Pentru că există 3 categorii de suporteri:
 
-1. **fanii din nucleul dur** care fac orice pentru formația lor. [Inclusiv colive care-i lasă apoi fără patron](https://www.cameravar.ro/galerie-rapid-niculae-sucu) sau [amenințări care-i lasă fără finanțări de milioane de la Veolia](https://www.cameravar.ro/fani-nocivi-petrolul)
+1. **fanii din nucleul dur** care fac orice pentru formația lor. [Inclusiv colive care-i lasă apoi fără patron](https://www.cameravar.ro/galerie-rapid-niculae-sucu/) sau [amenințări care-i lasă fără finanțări de milioane de la Veolia](https://www.cameravar.ro/fani-nocivi-petrolul/)
 2. **fanii care țin cu echipele mari pentru că acestea au o istorie dovedită de învingători** și ei n-ar suporta vreodată să acorde dragoste și respect unei echipe care nu câștigă tot timpul
 3. **Vasile Dâncu**, singurul care poate fi fan Rapid, Dinamo, CFR Cluj și CSA Steaua în același timp
 

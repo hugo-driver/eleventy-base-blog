@@ -89,13 +89,13 @@ Nu pot refuza pentru că știu poezia:
 
 După cum vezi, am spus blegul, nu prostul.
 
-Adică am folosit o formulă care implică un soi de alint, de tandrețe pentru că am învățat acum mulți, mulți ani că [Gazeta își respectă cititorii](https://www.cameravar.ro/tolontan-hamlet-si-chiriches).
+Adică am folosit o formulă care implică un soi de alint, de tandrețe pentru că am învățat acum mulți, mulți ani că [Gazeta își respectă cititorii](https://www.cameravar.ro/tolontan-hamlet-si-chiriches/).
 
 ## Excepția de la fotbalul mic  - liga2.prosport.ro
 
 Marea surpriză a acesti lumi în care jurnalismul de calitate se amestecă cu click bait-ul disperat este un site dedicat așa-isului fotbal mic - ligile inferioare.
 
-[Site-ul Liga 2 ](https://liga2.prosport.ro)este găzduit pe un subdomeniu al prosport.ro și este un adevărat alien în zona site-urilor "fotbalistice".
+[Site-ul Liga 2 ](https://liga2.prosport.ro/)este găzduit pe un subdomeniu al prosport.ro și este un adevărat alien în zona site-urilor "fotbalistice".
 
 Ceea ce îl face special sunt două lucruri - lipsesc cu desăvârșire cross-urile acelea triste, dar și volumul incredibil de informații pe care-l oferă.
 

@@ -162,7 +162,7 @@ De asta pun sub semnul întrebării energia care produce susținerea CSA. Și de
 
 Nu e vorba că pentru oameni n-ar fi clar cine e Steaua.
 
-[Nu e vorba că presa creează confuzii.](https://www.cameravar.ro/vina-presei-fcsb-csa-steaua)
+[Nu e vorba că presa creează confuzii.](https://www.cameravar.ro/vina-presei-fcsb-csa-steaua/)
 
 Oamenii au ales deja.
 

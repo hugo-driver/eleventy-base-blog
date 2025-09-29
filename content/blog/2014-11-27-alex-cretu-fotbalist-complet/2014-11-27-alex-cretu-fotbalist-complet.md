@@ -15,7 +15,7 @@ CSMS Iași are în propria curte cel mai complet tânăr jucător din Liga 1 și
 
 Asta-n opinia mea.
 
-Care opinie este aproape mereu foarte, [foarte aproape de adevăr](https://www.cameravar.ro/de-ce-alex-ionita-fotbalist-mare).
+Care opinie este aproape mereu foarte, [foarte aproape de adevăr](https://www.cameravar.ro/de-ce-alex-ionita-fotbalist-mare/).
 
 De aceea spun, **Alexandru Crețu** (22 ani) ar trebui să fie prioritate absolută pentru orice echipă care are buget de transferuri în această iarnă.
 

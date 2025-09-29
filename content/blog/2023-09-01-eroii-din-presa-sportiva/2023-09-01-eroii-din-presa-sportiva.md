@@ -11,7 +11,7 @@ cover: "./eroii-de-benzi-desenate-ai-presei-sportive.jpg"
 
 ![Caricatură inspirată de benzile desenate Superman](./eroii-de-benzi-desenate-ai-presei-sportive.jpg)
 
-După cum știi, cred la modul serios că [presa sportivă este cea mai performantă formă de presă din România](https://www.cameravar.ro/suprematia-presei-sportive).
+După cum știi, cred la modul serios că [presa sportivă este cea mai performantă formă de presă din România](https://www.cameravar.ro/suprematia-presei-sportive/).
 
 Prin urmare, ideea unei lipse de respect față de breaslă este falsă.
 

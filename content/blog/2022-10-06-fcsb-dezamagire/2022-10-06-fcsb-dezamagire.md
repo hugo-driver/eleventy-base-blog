@@ -47,13 +47,13 @@ Adică e un club condus de multe ori anapoda, dar care totuși, cumva, reușeșt
 
 De ce?
 
-Nu-mi cere să explic încă o dată ceea ce ce am explicat când am scris [ghidul de înțelegere a personajului Becali](https://www.cameravar.ro/de-ce-il-urasti-pe-becali).
+Nu-mi cere să explic încă o dată ceea ce ce am explicat când am scris [ghidul de înțelegere a personajului Becali](https://www.cameravar.ro/de-ce-il-urasti-pe-becali/).
 
 ## Nu te lăsa manipulat de furia ziariștilor
 
 Ziariștii sunt oameni.
 
-[Unii dintre ei, sunt și suporteri.](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal)
+[Unii dintre ei, sunt și suporteri.](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal/)
 
 Unii dintre cei care sunt suporteri țin cu FCSB.
 

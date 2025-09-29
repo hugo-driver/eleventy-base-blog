@@ -239,7 +239,7 @@ Excepția este Mihai Stoica, pe care-l urmăresc uneori și-n reluare, pe YouTub
 
 De ce?
 
-[Pentru că e Mihai Stoica](https://www.cameravar.ro/mihai-stoica).
+[Pentru că e Mihai Stoica](https://www.cameravar.ro/mihai-stoica/).
 
 ### 5. Marius Șumudică (ex Digi Sport)
 
@@ -259,4 +259,4 @@ Dacă ești în așteptarea unui atac la adresa altora, Șumudică nu te va deza
 
 De asemenea, dacă ești interesat de ce contrate urmează să mai aibă, Șumudică nu te va dezamăgi.
 
-În fine, dacă ești genul de individ banal interesat doar de fotbal, posibil ca Șumudică să-ți facă [aceeași impresie pe care mi-o face și mie](https://www.cameravar.ro/sumudica).
+În fine, dacă ești genul de individ banal interesat doar de fotbal, posibil ca Șumudică să-ți facă [aceeași impresie pe care mi-o face și mie](https://www.cameravar.ro/sumudica/).

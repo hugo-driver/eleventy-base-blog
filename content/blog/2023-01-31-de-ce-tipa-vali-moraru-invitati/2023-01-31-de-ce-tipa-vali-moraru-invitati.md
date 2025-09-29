@@ -193,7 +193,7 @@ Reacțiile lui au legătură cu multe lucruri, nu doar cu felul în care-i perce
 
 E vorba și de lucruri care n-au legătură cu fotbalul, ci cu viața sa în general. Cu experiențele sale, cu toate acele dispute în care a fost implicat și chiar cu ceea ce-l face să fie supraviețuitorul suprem din fotbalul nostru.
 
-[Mult mai supraviețuitor chiar și decât Mihai Stoica](https://www.cameravar.ro/mihai-stoica).
+[Mult mai supraviețuitor chiar și decât Mihai Stoica](https://www.cameravar.ro/mihai-stoica/).
 
 ## Apropo, nu-ți închipui că eu n-am frustrările mele…
 
@@ -211,7 +211,7 @@ Pentru că la rândul meu am diverse frustrări întemeiate sau nu.
 
 De exemplu, mi se pare că sunt un invitat mult mai bun decât alții care au un statut superior.
 
-Ca dovadă, în ultima emisiune de la DigiSport, am insistat că [televiziunile greșesc atunci când aduc drept analiști oameni care-s angajați ai unor cluburi](https://www.cameravar.ro/televiziuni-sport-analisti-liga1).
+Ca dovadă, în ultima emisiune de la DigiSport, am insistat că [televiziunile greșesc atunci când aduc drept analiști oameni care-s angajați ai unor cluburi](https://www.cameravar.ro/televiziuni-sport-analisti-liga1/).
 
 Că aceștia nu sunt obiectivi (spre deosebire de mine, bineînțeles).
 

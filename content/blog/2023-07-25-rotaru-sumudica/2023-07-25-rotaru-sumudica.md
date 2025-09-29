@@ -11,7 +11,7 @@ cover: "./de-ce-sumudica-nu-ajunge-la-craiova.jpg"
 
 ![Marius Șumudică invitat la Digi Sport](./de-ce-sumudica-nu-ajunge-la-craiova.jpg)
 
-[Știu ce gândesc eu despre Șumudică](https://www.cameravar.ro/sumudica).
+[Știu ce gândesc eu despre Șumudică](https://www.cameravar.ro/sumudica/).
 
 Și-n mare știu ce gândesc cei care-l plac sau nu-l plac pe Șumudică.
 

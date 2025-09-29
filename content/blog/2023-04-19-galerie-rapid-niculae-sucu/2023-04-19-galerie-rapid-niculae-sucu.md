@@ -29,7 +29,7 @@ Cineva a plătit.
 
 Doar că unii dintre oamenii influenți din galerii simt o nevoie uriașă să conteze dincolo de rolul lor.
 
-[Am mai scris despre asta cu referire la Petrolul.](https://www.cameravar.ro/fani-nocivi-petrolul)
+[Am mai scris despre asta cu referire la Petrolul.](https://www.cameravar.ro/fani-nocivi-petrolul/)
 
 Și cu referire la Dinamo.
 

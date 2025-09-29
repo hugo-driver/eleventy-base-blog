@@ -135,6 +135,6 @@ S-a întâmplat asta și la Rădoi, s-a întâmplat inclusiv în acest mandat al
 
 Deci un soi de potențial există și poate că un selecționer străin de mentalitățile noastre va putea să-l pună mai bine în valoare.
 
-**PS**: când spun c-ar fi bine să aducem un antrenor străin, poate să pară c-aș contrazice oarecum ce-am spus când m-am pronunțat [împotriva ideii de-a naturaliza fotbaliști pentru națională](https://www.cameravar.ro/naturalizare-fotbalisti-nationala-romaniei).
+**PS**: când spun c-ar fi bine să aducem un antrenor străin, poate să pară c-aș contrazice oarecum ce-am spus când m-am pronunțat [împotriva ideii de-a naturaliza fotbaliști pentru națională](https://www.cameravar.ro/naturalizare-fotbalisti-nationala-romaniei/).
 
 Dacă tu crezi asta, recitește cele două texte și te vei lămuri de diferențe.

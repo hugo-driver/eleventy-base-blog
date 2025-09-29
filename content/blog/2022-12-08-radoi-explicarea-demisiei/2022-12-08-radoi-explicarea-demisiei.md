@@ -32,7 +32,7 @@ Ce este greșit într-un astfel de discurs?
 Absolut nimic.
 
 De altfel, sunt de acord cu ideea că la Craiova [există o problemă de evaluare corectă a lotului](https://www.cameravar.ro/
-marea-problema-a-lui-radoi).
+marea-problema-a-lui-radoi/).
 
 Marea problemă nu este că Rădoi a avut public această poziție.
 
@@ -132,7 +132,7 @@ Cum de sunt atât de sigur apropo de viitorul lui Rădoi în relație cu o parte
 
 Deci nu am prezis nimic spectaculos, doar am remarcat ceva vechi de când lumea - succesul și libertatea de-a face doar ceea ce vrei irită profund.
 
-Nu-ți închipui că Becali este urât în primul rând pentru că-i grobian sau ipocrit. Becali este urât în primul rând [pentru că are bani și că face ce vrea](https://www.cameravar.ro/de-ce-il-urasti-pe-becali) într-o lume în care majoritatea n-au bani și nu fac nici pe departe ce vor.
+Nu-ți închipui că Becali este urât în primul rând pentru că-i grobian sau ipocrit. Becali este urât în primul rând [pentru că are bani și că face ce vrea](https://www.cameravar.ro/de-ce-il-urasti-pe-becali/) într-o lume în care majoritatea n-au bani și nu fac nici pe departe ce vor.
 
 Abia după ce se formează această ură, apar tot felul de pretext precum "e arogant", "e prost", "e cioban" etc.
 

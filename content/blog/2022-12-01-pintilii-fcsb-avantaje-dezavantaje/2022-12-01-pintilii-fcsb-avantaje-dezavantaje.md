@@ -11,7 +11,7 @@ cover: "./mihai-pintilii-antrenor-FCSB-avantaje-dezavantaje.jpg"
 
 ![Mihai Pintilii, un antrenor mai bun pentru FCSB decât poate demonstra teoretic că este](./mihai-pintilii-antrenor-FCSB-avantaje-dezavantaje.jpg)
 
-Inclusiv o parte dintre avantajele de mai jos sună ca dezvantaje, dar nu-i ușor să vezi ce-i bun într-o numire logică doar în [context becalian](https://www.cameravar.ro/de-ce-il-urasti-pe-becali).
+Inclusiv o parte dintre avantajele de mai jos sună ca dezvantaje, dar nu-i ușor să vezi ce-i bun într-o numire logică doar în [context becalian](https://www.cameravar.ro/de-ce-il-urasti-pe-becali/).
 
 ## Dezvantajul 1: Pintilii este un risc major din cauza lipsei de pregătire și a experienței în antrenorat
 
@@ -53,7 +53,7 @@ Felicitări pentru familia reușită, ție și celor de la FCSB!
 
 Dacă vrea să se comporte ca un club mare în toate privințe care contează, FCSB ar trebui să aibă ca țintă atragerea de suporteri CSA Steaua înapoi lângă echipă.
 
-Acesta ar fi un reper sănătos pentru Becali și [Mihai Stoica](https://www.cameravar.ro/mihai-stoica) - să acționeze și să se comporte astfel încât oameni care-i disprețuiesc acum să simtă că ceva profund s-a schimbat acolo.
+Acesta ar fi un reper sănătos pentru Becali și [Mihai Stoica](https://www.cameravar.ro/mihai-stoica/) - să acționeze și să se comporte astfel încât oameni care-i disprețuiesc acum să simtă că ceva profund s-a schimbat acolo.
 
 Știu, ceea ce spun eu pare să fie ceva absurd sau ceva imposibil.
 

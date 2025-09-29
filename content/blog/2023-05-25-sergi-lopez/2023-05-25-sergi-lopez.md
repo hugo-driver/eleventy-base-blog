@@ -82,7 +82,7 @@ Prin urmare, o bună parte dintre cei care-l citesc pe Sergi Lopez se pot identi
 
 Sergi este suporter, cei care-l citesc sunt suporteri, ziariștii sunt niște intermediari plătiți între fapte și public.
 
-De asemenea, spre deosebire de mine și alții din presa sportivă [care ne chinuim să ne apărăm obiectivitatea reală](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal) sau obiectivitatea simulată, Sergi Lopez nu are nevoie de așa ceva.
+De asemenea, spre deosebire de mine și alții din presa sportivă [care ne chinuim să ne apărăm obiectivitatea reală](https://www.cameravar.ro/relatii-ziaristi-oameni-din-fotbal/) sau obiectivitatea simulată, Sergi Lopez nu are nevoie de așa ceva.
 
 Nu pentru că n-ar putea fi obiectiv.
 

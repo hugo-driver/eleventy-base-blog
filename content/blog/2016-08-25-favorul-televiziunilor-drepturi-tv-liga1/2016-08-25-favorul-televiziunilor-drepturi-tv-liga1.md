@@ -34,7 +34,7 @@ Prin urmare, afirmațiile lui Vali se bazează pe-o bucată zdravănă de realit
 
 Vali Moraru a greșit două lucruri în discuția cu Mihai Rotaru – că s-a enervat și că nu ține cont de motivele pentru care televiziunile au ajuns să plătească atâția bani cluburilor pentru drepturile TV.
 
-Așa cum am mai scris, [banii din drepturile TV lenevesc cluburile](https://www.cameravar.ro/pericolul-contractului-drepturi-tv-liga1) din punct de vedere comercial.
+Așa cum am mai scris, [banii din drepturile TV lenevesc cluburile](https://www.cameravar.ro/pericolul-contractului-drepturi-tv-liga1/) din punct de vedere comercial.
 
 Multe echipe tratează acest contract precum un drept care li se cuvine prin simplu fapt că ele există pe fața pământului fotbalistic.
 

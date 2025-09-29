@@ -125,7 +125,7 @@ Sau cum încearcă Gazeta să-ți spună din titlu ce trebuie să gândești des
 
 Hehehe, nu-ți place când vezi această alăturare - "presă sportivă" și "calitate".
 
-Simți nevoia să-mi spui că ăia de la Digi Sport sunt rapidiști, că Naum se bucură la înfrângerile Stelei, că Mironică are ceva cu Rapid, că [Vali Moraru țipă la Rotaru sau la Mititelu](https://www.cameravar.ro/de-ce-tipa-vali-moraru-invitati) etc.
+Simți nevoia să-mi spui că ăia de la Digi Sport sunt rapidiști, că Naum se bucură la înfrângerile Stelei, că Mironică are ceva cu Rapid, că [Vali Moraru țipă la Rotaru sau la Mititelu](https://www.cameravar.ro/de-ce-tipa-vali-moraru-invitati/) etc.
 
 Și totuși, nu ai făcut exercițiul de-a compara ce produce / cum arată presa sportivă cu ce emană restul presei românești.
 
@@ -205,7 +205,7 @@ Articole de presă sunt articole de presă.
 
 Dacă simți o prietenie prea mare între ziaristul care scrie și personajul articolului, aproape sigur e doar o prietenie prea mare.
 
-Și ei au momente când [confundă presa cu activismul politic și statul de ziarist cu cel oengist](https://www.cameravar.ro/gazeta-penalty-la-coltul-scurt).
+Și ei au momente când [confundă presa cu activismul politic și statul de ziarist cu cel oengist](https://www.cameravar.ro/gazeta-penalty-la-coltul-scurt/).
 
 Totuși, repet, nu ești păcălit că citești informații despre Steaua și, de fapt, ți se vinde un apartament în ultimul proiect rezidențial al familiei Becali.
 
@@ -217,7 +217,7 @@ Redacțiile de sport au ca țintă obținerea de audiență.
 
 Care chestiune nu înseamnă întotdeauna acte de jurnalism etic sau de calitate.
 
-Nu mai vorbesc despre [zoaiele acelea online numite "cross-uri"](https://www.cameravar.ro/continut-platit-site-uri-sport) în care o publicație obține trafic prin faptul că "știrile" sale sunt expuse pe site-uri cu care colaborează.
+Nu mai vorbesc despre [zoaiele acelea online numite "cross-uri"](https://www.cameravar.ro/continut-platit-site-uri-sport/) în care o publicație obține trafic prin faptul că "știrile" sale sunt expuse pe site-uri cu care colaborează.
 
 Totuși, în mare, audiența în presa sportivă se obține în felul următor: focus pe fotbal și atenție maximă pentru echipele cu suporteri.
 

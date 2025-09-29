@@ -83,7 +83,7 @@ Dar acest „parțial” este mărunt, insignifiant, după cum vei vedea în con
 
 ## Problema contractului pentru vânzarea drepturilor TV
 
-[Cluburile de fotbal oferă o marfă bună raportat la cât consumă](https://www.cameravar.ro/de-ce-liga1-e-campionat-bun), dar nu e suficient, dovadă fiind inclusiv lipsa spectatorilor din tribune la multe dintre meciurile de primă ligă.
+[Cluburile de fotbal oferă o marfă bună raportat la cât consumă](https://www.cameravar.ro/de-ce-liga1-e-campionat-bun/), dar nu e suficient, dovadă fiind inclusiv lipsa spectatorilor din tribune la multe dintre meciurile de primă ligă.
 
 Cluburile de fotbal profită de-o situație din piață, situație pe care nu au determinat-o în vreun fel.
 

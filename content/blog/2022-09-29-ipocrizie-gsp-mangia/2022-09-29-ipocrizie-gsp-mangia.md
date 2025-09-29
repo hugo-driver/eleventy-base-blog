@@ -40,7 +40,7 @@ Sigur că ziarul va face toate acestea și, cu excepția faptului că amestecă 
 
 În condițiile acestea, întrebarea mea este de ce au tăcut în cazul demiterii lui Mangia de la Craiova?
 
-În faimoasa înregistrare cu [Pițurcă la Orange Sport](https://www.cameravar.ro/dreptatea-lui-piturca), fostul selecționer și antrenor al Craiovei lui Mihai Rotaru spunea la un moment dat următoarele:
+În faimoasa înregistrare cu [Pițurcă la Orange Sport](https://www.cameravar.ro/dreptatea-lui-piturca/), fostul selecționer și antrenor al Craiovei lui Mihai Rotaru spunea la un moment dat următoarele:
 
 > "Daaa, el voia să-l dea afară de mult și pe Mangia, l-a prins că-i trimitea mesaje unui jucător, era bulangiu. O să vezi că îl schimbă și pe grec".
 
@@ -70,7 +70,7 @@ Nu pentru că am o colaborare cu Digi Sport sau alte chestiuni de gen.
 
 Ci pentru că doar Gazeta e ipocrită real în situația de față.
 
-Doar ei au campanii care pun la grămadă cazuri serioase de abuz cu [cazuri penibile în care diverși spun nimic](https://www.cameravar.ro/gazeta-penalty-la-coltul-scurt) sau diverse femei frumoase mărturisesc că le-a fost foarte greu să orice.
+Doar ei au campanii care pun la grămadă cazuri serioase de abuz cu [cazuri penibile în care diverși spun nimic](https://www.cameravar.ro/gazeta-penalty-la-coltul-scurt/) sau diverse femei frumoase mărturisesc că le-a fost foarte greu să orice.
 
 Bine, e greu să scrii despre Mangia sau despre fotbalistul căruia i-ar fi scris mesaje pentru că o galerie foto cu 40 de imagini ale oricăruia dintre aceștia nu ar fi impresionat pe nimeni.
 

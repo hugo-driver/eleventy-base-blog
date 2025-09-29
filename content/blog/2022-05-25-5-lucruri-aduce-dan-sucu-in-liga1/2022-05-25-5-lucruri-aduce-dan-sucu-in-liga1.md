@@ -142,7 +142,7 @@ Pentru că majoritatea se tem să vorbească despre așa ceva. Iar de temut, te 
 
 După cum știi, majoritatea investitorilor din fotbalul nostru cred că banii din drepturile TV sunt ceva ce li se cuvine doar pentru că echipele lor există.
 
-Adică, ei nu văd necesar niciun efort de genul „[hai să aducem oameni la stadion](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1)”. Pe la Botoșani, oamenii lui Iftime văd oportun chiar să-i gonească de la arenă când joacă un amical cu Poli Iași.
+Adică, ei nu văd necesar niciun efort de genul „[hai să aducem oameni la stadion](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1/)”. Pe la Botoșani, oamenii lui Iftime văd oportun chiar să-i gonească de la arenă când joacă un amical cu Poli Iași.
 
 Șucu a vorbit deschis despre o realitate de bun simț – trebuie să oferi un produs mai bun ca să capeți o audiență mai mare și să ai parte de mai mulți bani pe piața de fotbal din Liga 1.
 

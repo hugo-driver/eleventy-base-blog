@@ -61,7 +61,7 @@ Pentru grupele Conference League e suficient doar norocul fără handicapuri.
 
 Prin urmare, ceea ce pot face cluburile în momentul de față este să crească copii și juniori în condiții cât mai bune, să le educe un soi de respect profund față de club și să încerce să-i vândă când devin interesanți pentru cei cu bani de afară.
 
-Dacă faci asta, lucrezi indirect și la îndeplinirea celui mai important obiectiv al unui club de fotbal - [să aducă spectatori în tribună.](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1)
+Dacă faci asta, lucrezi indirect și la îndeplinirea celui mai important obiectiv al unui club de fotbal - [să aducă spectatori în tribună.](https://www.cameravar.ro/cel-mai-important-obiectiv-liga1/)
 
 Oamenilor le plac tinerii, le plac localnicii promovați la prima echipă, le place să vadă cum se coace un talent despre care, peste ani, să poată spună lucruri de genul: "Să-l fi văzut pe Mutu când a debutat la Pitești...".
 

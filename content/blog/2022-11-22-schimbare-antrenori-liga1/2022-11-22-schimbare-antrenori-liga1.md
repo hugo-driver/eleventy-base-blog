@@ -27,7 +27,7 @@ Asta te face să te întrebi când au greșit angajatorii?
 
 Când au numit antrenorul respectiv sau când l-au dat afară?
 
-Majoritatea conducătorilor își scuză [lipsa de valoare profesională](https://www.cameravar.ro/cea-mai-slaba-veriga-fotbalul-romanesc) prin vehicularea unei idei simple:
+Majoritatea conducătorilor își scuză [lipsa de valoare profesională](https://www.cameravar.ro/cea-mai-slaba-veriga-fotbalul-romanesc/) prin vehicularea unei idei simple:
 
 > "Domnule, la fotbal nu știi niciodată sigur. Uneori merge cu un antrenor, alteori nu merge".
 
