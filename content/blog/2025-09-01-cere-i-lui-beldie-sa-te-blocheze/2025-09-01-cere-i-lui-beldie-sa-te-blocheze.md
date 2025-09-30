@@ -22,7 +22,7 @@ De asta, fac un apel către toți cei care trăiesc această dramă să-mi scrie
 
 ## De ce e important să-mi ceri să te blochez
 
-Am contul acesta de Facebook din anul 2010, dar nu am blocat decât <s>8</s> 9 oameni în tot acest timp, ceea ce este infim raportat la popularitatea mea și mai ales la subiectul pe care-l tratez în principal - fotbalul din Liga 1.
+Am contul acesta de Facebook din anul 2010, dar nu am blocat decât <s>8 oameni</s> 9 oameni în tot acest timp, ceea ce este infim raportat la popularitatea mea și mai ales la subiectul pe care-l tratez în principal - fotbalul din Liga 1.
 
 De ce am blocat atât de puțini oameni?
 
