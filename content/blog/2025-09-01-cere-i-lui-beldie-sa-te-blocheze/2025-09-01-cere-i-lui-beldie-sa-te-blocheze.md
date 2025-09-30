@@ -22,7 +22,7 @@ De asta, fac un apel către toți cei care trăiesc această dramă să-mi scrie
 
 ## De ce e important să-mi ceri să te blochez
 
-Am contul acesta de Facebook din anul 2010, dar nu am blocat decât 8 oameni în tot acest timp, ceea ce este infim raportat la popularitatea mea și mai ales la subiectul pe care-l tratez în principal - fotbalul din Liga 1.
+Am contul acesta de Facebook din anul 2010, dar nu am blocat decât <s>8</s> 9 oameni în tot acest timp, ceea ce este infim raportat la popularitatea mea și mai ales la subiectul pe care-l tratez în principal - fotbalul din Liga 1.
 
 De ce am blocat atât de puțini oameni?
 
@@ -36,8 +36,8 @@ Apoi, procedura mea clasică de-a bloca pe cineva este extrem de complicată, pr
 2. **apoi îl anunț că are câteva ore la dispoziție să-și verse eventualele frustrări înainte de-a-l bloca**
 3. **apoi îi dau șansa să uit de el, ceea ce e foarte ușor în caz că se abține câteva zile de la a comenta**
 4. **apoi am rețineri în caz că respectivul mă-njură corect gramatical**
-5. **apoi mă gândesc dacă vinovatul a spus ceva aiurea de Florin Tănase**
-6. **apoi verific dacă respectivul a spus ceva aiurea de Dan Petrescu**
+5. **apoi mă gândesc dacă vinovatul a spus ceva aiurea despre Florin Tănase**
+6. **apoi verific dacă respectivul a spus ceva aiurea despre Dan Petrescu**
 7. **apoi mă iau cu altele și, de obicei, uit.**
 
 De asta, nu e suficientă prostia ca să blochez pe cineva, respectivul trebuie să fie și insistent.
@@ -68,7 +68,7 @@ Voi face asta pentru tine.
 
 ## Confuzia celor care mă acuză că țin 3-5 echipe diferite
 
-Acești indivizi sunt preferații mei pentru că îmi fac un uriaș serviciu - produc confuzie suplimentară în legătură cu un subiect foarte interesant - cu ce echipă ține Beldie.
+Acești indivizi sunt preferații mei pentru că îmi fac un uriaș serviciu - produc confuzie suplimentară în legătură cu un subiect foarte interesant - [cu ce echipă ține Beldie](https://www.youtube.com/shorts/9v6KoC91IWs).
 
 Astfel, apar situații comice în care în comentariile aceleiași postări sunt acuzat că țin cu echipe care-s rivale. Îți dai seama cât de penibile sunt acele scene?
 
