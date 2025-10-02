@@ -8,13 +8,13 @@ cover: "./decebal-radulescu-mihai-rotaru.webp"
 ---
 ![Mihai Rotaru și Decebal Rădulescu, într-un conflict cu amenințări grave](decebal-radulescu-mihai-rotaru.webp)
 
-Probabil știi deja întâmplarea - Decebal Rădulescu a afirmat că stadionul se umple la Craiova și datorită faptului că ar exista un efort politic la nivel de județ ca oameni din satele din jurul orașului să fie aduși cu autocare la meci.
+Probabil știi deja întâmplarea - Decebal Rădulescu a afirmat că stadionul se umple la Craiova inclusiv datorită faptului că ar exista un efort politic la nivel de județ ca oameni din satele din jurul orașului să fie aduși cu autocare la meci.
 
 Gratuit.
 
-Adică, o schemă pesedistă de ajutorare a echipei bazată pe relațiile lui Mihai Rotaru.
+Adică, o schemă pesedistă de ajutorare a echipei, bazată pe relațiile lui Mihai Rotaru.
 
-Afirmația l-a făcut pe patronul Craiovei să-și dorească să vorbească cu  Decebal pe această temă la telefon. Care Decebal ori n-a văzut apelurile, ori n-a dorit să-i răspundă. 
+Afirmația l-a făcut pe patronul Craiovei să-și dorească să vorbească la telefon cu  Decebal. Care Decebal ori n-a văzut apelurile, ori n-a dorit să-i răspundă. 
 
 Astfel că, firesc, Mihai Rotaru i-a scris pe WhatsApp.
 
@@ -54,7 +54,7 @@ Eu cred mai mult însă în a doua teorie - o parte importantă a colegilor de b
 
 O parte din această părere poate fi justificată prin argumente din categoria:
 
-“face afirmații în mod repetat nu s-au confirmat” 
+“face afirmații care nu s-au confirmat în mod repetat” 
 
 sau 
 
@@ -62,7 +62,7 @@ sau
 
 sau 
 
-“e rupt de fapt de fenomen, ajunge să fie surprins de ce se discută în emisiuni” 
+“e rupt de fenomen, ajunge să fie surprins de ce se discută în emisiunile la care participă” 
 
 etc. 
 
@@ -98,13 +98,11 @@ Dar ce importanță poate avea logica în chestiuni emoționale?
 
 Niciodată nu voi convinge oameni care cred că e OK să ai o astfel de reacție că de fapt n-ar fi OK.
 
+E ca și când ai discuta cu cineva care justifică un viol prin faptul că femeia avea fusta scurtă.
+
 Respectivii văd lucrurile de-o manieră care-i face incompatibili cu dezbaterea, chiar dacă dezbaterea este oricum lipsită de sens într-un astfel de caz. 
 
 Ce poate fi de dezbătut?
-
-Chiar dacă Decebal ar vehicula o informație greșită în mod repetat, reacția lui Mihai Rotaru a fost disproporționată. E ca atunci când cineva îți spune “băi, tu ești ăla care a plecat de la restaurant fără să plătești”, iar tu scoți pistolul și-i tragi ăluia 3 gloanțe-n cap.
-
-Pare o scenă cool pentru niște minți nedezvoltate și prăjite zilnic în lumea rețelelor sociale, dar este exact genul de situație care se poate produce foarte ușor ca urmare a conflictului dintre un ziarist și cei care sunt nemulțumiți de faptul că ziaristul nu le susură ceea ce ar vrea să audă.
 
 De altfel, susținerea pe care o primește Rotaru pentru reacția sa este un simbol a ceea ce mulți simt c-ar vrea să le facă celor ca Decebal și, din păcate, nu pot. 
 
