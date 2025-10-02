@@ -8,13 +8,9 @@ cover: "./decebal-radulescu-mihai-rotaru.webp"
 ---
 ![Mihai Rotaru și Decebal Rădulescu, într-un conflict cu amenințări grave](decebal-radulescu-mihai-rotaru.webp)
 
-Ca de obicei, ceea ce urmează reprezintă cum văd eu lucrurile în această poveste.
-
-Nu am vorbit cu Decebal Rădulescu, nu am vorbit cu Mihai Rotaru.
-
-Dar am început să vorbesc cu mine însumi pe tema aceasta și, ca să nu par un ciudat mai mare decât sunt, am decis că-i mai bine ca eu să scriu despre asta și tu să citești ce am scris.
-
 Probabil știi deja întâmplarea - Decebal Rădulescu a afirmat că stadionul se umple la Craiova și datorită faptului că ar exista un efort politic la nivel de județ ca oameni din satele din jurul orașului să fie aduși cu autocare la meci.
+
+Gratuit.
 
 Adică, o schemă pesedistă de ajutorare a echipei bazată pe relațiile lui Mihai Rotaru.
 
