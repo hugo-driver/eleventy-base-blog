@@ -70,7 +70,7 @@ Apoi, vin argumentele rușinoase, care nu vor fi rostite vreodată public și ca
 
 Astfel, cel mai probabil, lipsa de reacție a breslei este produsă de un amestec între toate cele menționate mai sus. Ceea ce ne face desigur de râs pentru că nu e vorba de-a-l apăra pe Decebal din rațiuni de simpatie / respect, ci de-a avea reacție după ce un ziarist a fost amenințat de-o manieră violentă de un personaj din fotbal. 
 
-## De ce povestea cu “erau o discuție privată” nu ține
+## De ce povestea cu “era o discuție privată” nu ține
 
 Posibil ca prin mintea unora să treacă și gândul că ceea ce i-a scris Rotaru lui Decebal reprezintă o discuție privată, prin urmare, e incorect că acesta a făcut-o publică.
 
