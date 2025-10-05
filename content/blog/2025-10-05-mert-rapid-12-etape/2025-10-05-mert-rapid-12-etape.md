@@ -15,6 +15,8 @@ Sunt lideri și e posibil să rămână în această postură chiar și după ul
 
 În fine, am văzut aseară la Prima Sport repetarea unei observații care ține în mare măsură de realitate - că Rapid nu joacă meciuri întregi în sensul că nu are un nivel ridicat pe parcursul unei partide întregi.
 
+## Rapid are și meciuri "întregi" 
+
 Ideea a fost rostită direct atât de Herea, cât și indirect de Marius Baciu. Desigur, au vehiculat-o și alții, inclusiv eu, care vin totuși cu precizarea că-n aceste etape au existat totuși două partide complete - cel mai bun meci al lor, victoria cu UTA, dar și victoria cu Botoșani, care de asemenea a însemnat un meci în care adversarii n-au contat decât absolut întâmplător.
 
 În rest, actualul lider a reușit inclusiv ciudățenii din categoria “două reprize total diferite”, cum a fost pentru ei meciul de la Galați, la finalul căruia, portarul Dur-Bozoancă a remarcat - “după pauză, zici c-a apărut Barcelona”. 
