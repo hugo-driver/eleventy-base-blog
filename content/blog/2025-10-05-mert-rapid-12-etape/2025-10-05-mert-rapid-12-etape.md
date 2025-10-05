@@ -91,4 +91,4 @@ Iar după ce-i au, nu-i mai folosesc.
 
 Ce vreau să spun?
 
-Vreau să spun că diferența dintre Kevin Ciubotaru de la Sibiu și Bădescu de la Rapid este că primul joacă la echipa sa și are ocazia să fie pregătit pentru un duel cu Dobre, iar cel de-al doilea intră din an Paște la Rapid și asta se poate vedea.
+Vreau să spun că diferența dintre Kevin Ciubotaru de la Sibiu și Bădescu de la Rapid este că primul joacă la echipa sa și are ocazia să fie pregătit pentru un duel cu Dobre, iar cel de-al doilea intră din an în Paște la Rapid și asta se poate vedea.
