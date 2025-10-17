@@ -2,7 +2,7 @@
 title: Marea problemă cu banii lui Victor Angelescu de la Rapid
 slug: banii-lui-victor-angelescu
 date: 2025-09-20
-tags: Presa sportivă
+tags: Rapid
 permalink: "banii-lui-victor-angelescu/index.html"
 cover: "./banii-lui-angelescu.jpg"
 ---
