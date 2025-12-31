@@ -16,7 +16,7 @@ numberOfLatestPostsToShow: 3
   action="https://assets.mailerlite.com/jsonp/1973371/forms/175297963664344163/subscribe"
   method="post"
   class="newsletter-form"
-  target="_blank"
+  onsubmit="setTimeout(() => { window.location.href = '/sigur-vrei-sa-te-abonezi/'; }, 300);"
 >
   <input type="hidden" name="ml-submit" value="1">
   <input type="hidden" name="anticsrf" value="true">
@@ -35,6 +35,7 @@ numberOfLatestPostsToShow: 3
 
   <p class="form-message"></p>
 </form>
+
 
 </div>
 </section>
