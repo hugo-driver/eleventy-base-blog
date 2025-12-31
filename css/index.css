@@ -286,7 +286,7 @@ header {
 }
 .postlist-date,
 .postlist-item:before {
-	font-size: 0.8125em; /* 13px /16 */
+	font-size: 0.875em; /* ~15.75px din 18px */
 	color: var(--color-gray-90);
 }
 .postlist-date {
