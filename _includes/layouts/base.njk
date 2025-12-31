@@ -6,19 +6,11 @@
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
-
-    {#- Uncomment this if you’d like folks to know that you used Eleventy to build your site! #}
-    {#- <meta name="generator" content="{{ eleventy.generator }}"> #}
-
-    {#- Plain-text bundles for CSS/JS #}
-    <style>/* This is an arbitrary CSS string added to the bundle */</style>
+    
     <style>{% include "css/index.css" %}</style>
-    <style>{% getBundle "css" %}</style>
+    <link rel="stylesheet" href="/css/newsletter.css">
 
-    {#- Fathom Analytics script - defer pentru a nu bloca încărcarea paginii #}
     <script src="https://cdn.usefathom.com/script.js" data-site="FPZWIYOI" defer></script>
-
-    {#- Heading anchors JS #}
     <script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
   </head>
   <body>
@@ -26,7 +18,6 @@
 
     <header>
       <a href="/" class="home-link">{{ metadata.title }}</a>
-
       <nav>
         <h2 class="visually-hidden">Top level navigation menu</h2>
         <ul class="nav">
@@ -43,15 +34,16 @@
       </heading-anchors>
     </main>
 
-    <link rel="stylesheet" href="/css/newsletter.css">
-
     <footer>
       <p>
-        © 2025 <a href="https://beldie.ro/">Ștefan Beldie</a> | <a href="https://www.cameravar.ro/feed/feed.xml">Feed RSS</a> 
+        © 2025 <a href="https://beldie.ro/">Ștefan Beldie</a> | <a href="/feed/feed.xml">Feed RSS</a> 
       </p>
     </footer>
 
-    <!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
+    <!-- Newsletter JS -->
+    <script src="/js/newsletter.js" defer></script>
+
+    <!-- Bundled JS -->
     <script type="module" src="{% getBundleFileUrl "js" %}"></script>
   </body>
 </html>
