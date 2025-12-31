@@ -10,7 +10,7 @@ cover: "./de-ce-sistemul-play-off-play-out-e-nociv.jpg"
 ---
 ![Metafora icrelor negre pentru sistemul play off / play out - de ce acest sistem e nociv pentru Liga 1](./de-ce-sistemul-play-off-play-out-e-nociv.jpg)
 
-Mai bine de  10 ani, presa sportivă a tot scris despre necesitatea reducerii numărului de echipe în Liga 1 la vreo 14 – 16 echipe, poate chiar 12 într-un caz extrem.
+Mai bine de 10 ani, presa sportivă a tot scris despre necesitatea reducerii numărului de echipe în Liga 1 la vreo 14 – 16 echipe, poate chiar 12 într-un caz extrem.
 
 Totul dintr-un considerent simplu – nu am avea suficientă valoare concentrată la nivelul primei divizii.
 
