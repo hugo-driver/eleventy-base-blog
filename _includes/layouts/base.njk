@@ -6,11 +6,15 @@
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
-    
-    <style>{% include "css/index.css" %}</style>
+
+    <!-- Legătura către fișierele CSS -->
+    <link rel="stylesheet" href="/css/index.css">
     <link rel="stylesheet" href="/css/newsletter.css">
 
+    <!-- Analytics script -->
     <script src="https://cdn.usefathom.com/script.js" data-site="FPZWIYOI" defer></script>
+
+    <!-- Script pentru ancore de titluri -->
     <script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
   </head>
   <body>
@@ -40,10 +44,10 @@
       </p>
     </footer>
 
-    <!-- Newsletter JS -->
+    <!-- Scriptul pentru newsletter -->
     <script src="/js/newsletter.js" defer></script>
 
-    <!-- Bundled JS -->
+    <!-- Bundled JS (pentru JS-ul final al site-ului) -->
     <script type="module" src="{% getBundleFileUrl "js" %}"></script>
   </body>
 </html>
