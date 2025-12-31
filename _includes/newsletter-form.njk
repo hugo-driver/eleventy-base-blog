@@ -1,24 +1,23 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const forms = document.querySelectorAll(".newsletter-form");
+<div class="newsletter-wrapper">
+  <h2>📬 Abonează-te la CameraVAR.ro ↓ ↓ ↓</h2>
 
-  forms.forEach((form) => {
-    form.addEventListener("submit", async function (e) {
-      e.preventDefault();
-      const formData = new FormData(form);
+  <form
+    action="https://assets.mailerlite.com/forms/1973371/175297963664344163/subscribe"
+    method="post"
+    class="newsletter-form"
+  >
+    <div class="input-group">
+      <input
+        type="email"
+        name="fields[email]"
+        placeholder="Adresa ta de email"
+        required
+        autocomplete="email"
+      />
+      <button type="submit">Abonare</button>
+    </div>
 
-      try {
-        await fetch(form.action, {
-          method: "POST",
-          body: formData,
-          mode: "no-cors",
-        });
-
-        // redirecționare către pagina de confirmare
-        window.location.href = "/sigur-vrei-sa-te-abonezi/";
-      } catch (error) {
-        const msg = form.querySelector("#form-message");
-        msg.textContent = "Ceva nu a mers, încearcă din nou.";
-      }
-    });
-  });
-});
+    <input type="hidden" name="ml-submit" value="1" />
+  </form>
+  <p class="form-message" id="form-message"></p>
+</div>
