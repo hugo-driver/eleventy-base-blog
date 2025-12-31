@@ -48,21 +48,24 @@ Prin urmare, **nu vei găsi aici**:
 
 Dincolo de asta, îți ofer o singură formă de respect - îmi dau silința să fiu obiectiv în tot ceea ce scriu. Prin urmare, abonează-te acum:
   <form
-    action="https://buttondown.com/api/emails/embed-subscribe/cameravar"
-    method="post"
-    target="popupwindow"
-    onsubmit="window.open('https://buttondown.email/cameravar', 'popupwindow')"
     class="newsletter-form"
+    data-action="https://assets.mailerlite.com/jsonp/1973371/forms/175297963664344163/subscribe"
+    novalidate
   >
+    <input type="hidden" name="ml-submit" value="1">
+    <input type="hidden" name="anticsrf" value="true">
+
     <div class="input-group">
       <input
         type="email"
-        name="email"
+        name="fields[email]"
         placeholder="Adresa ta de email"
         required
         aria-label="Adresa de email"
+        autocomplete="email"
       />
       <button type="submit">Abonare</button>
     </div>
-    <p class="form-message" id="form"></p>
+
+    <p class="form-message" aria-live="polite"></p>
   </form>
