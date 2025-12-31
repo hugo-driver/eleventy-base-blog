@@ -13,24 +13,26 @@ numberOfLatestPostsToShow: 3
   <p>CameraVAR.ro este un newsletter dedicat Ligii 1 scris de Ștefan Beldie.</p>
   <p>Abonează-te acum pentru analize și comentarii fără prietenii cu oamenii de fotbal sau cu casele de pariuri ↓ ↓ ↓</p>
 
-  <form
-    action="https://assets.mailerlite.com/forms/1973371/175297963664344163/subscribe"
-    method="post"
-    class="newsletter-form"
-  >
-    <div class="input-group">
-      <input
-        type="email"
-        name="fields[email]"
-        placeholder="Adresa ta de email"
-        required
-        autocomplete="email"
-      />
-      <button type="submit">Abonare</button>
-    </div>
-    <input type="hidden" name="ml-submit" value="1" />
-    <p class="form-message" style="color:red; margin-top:5px;"></p>
-  </form>
+  <div class="newsletter-wrapper">
+    <form
+      action="https://assets.mailerlite.com/forms/1973371/175297963664344163/subscribe"
+      method="post"
+      class="newsletter-form"
+    >
+      <div class="input-group">
+        <input
+          type="email"
+          name="fields[email]"
+          placeholder="Adresa ta de email"
+          required
+          autocomplete="email"
+        />
+        <button type="submit">Abonare</button>
+      </div>
+      <input type="hidden" name="ml-submit" value="1" />
+      <p class="form-message" id="form-message" style="margin-top:5px;"></p>
+    </form>
+  </div>
 </section>
 
 {% set postsCount = collections.posts | length %}
