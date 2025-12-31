@@ -2,22 +2,26 @@
   <h2>📬 Abonează-te acum la CameraVAR.ro ↓ ↓ ↓</h2>
 
   <form
-    action="https://assets.mailerlite.com/jsonp/1973371/forms/175297963664344163/subscribe"
-    method="post"
-    class="newsletter-form"
-  >
-    <div class="input-group">
-      <input
-        type="email"
-        name="fields[email]"
-        placeholder="Adresa ta de email"
-        required
-        autocomplete="email"
-      />
-      <button type="submit">Abonare</button>
-    </div>
+  action="https://assets.mailerlite.com/jsonp/1973371/forms/175297963664344163/subscribe"
+  method="post"
+  class="newsletter-form"
+>
+  <div class="input-group">
+    <input
+      type="email"
+      name="fields[email]"
+      placeholder="Adresa ta de email"
+      required
+      autocomplete="email"
+    />
+    <button type="submit">Abonare</button>
+  </div>
 
-    <!-- obligatoriu pentru MailerLite -->
-    <input type="hidden" name="ml-submit" value="1" />
-  </form>
+  <input type="hidden" name="ml-submit" value="1" />
+  <input
+    type="hidden"
+    name="redirect_url"
+    value="https://cameravar.ro/confirma-abonarea/"
+  />
+</form>
 </div>

@@ -23,14 +23,17 @@ numberOfLatestPostsToShow: 3
       name="fields[email]"
       placeholder="Adresa ta de email"
       required
-      aria-label="Adresa de email"
       autocomplete="email"
     />
     <button type="submit">Abonare</button>
   </div>
 
-  <!-- obligatoriu pentru MailerLite -->
   <input type="hidden" name="ml-submit" value="1" />
+  <input
+    type="hidden"
+    name="redirect_url"
+    value="https://cameravar.ro/confirma-abonarea/"
+  />
 </form>
 </div>
 </section>
