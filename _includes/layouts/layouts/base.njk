@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+
+    {#- Uncomment this if you’d like folks to know that you used Eleventy to build your site! #}
+    {#- <meta name="generator" content="{{ eleventy.generator }}"> #}
+
+    {#- Plain-text bundles for CSS/JS #}
+    <style>/* This is an arbitrary CSS string added to the bundle */</style>
+    <style>{% include "css/index.css" %}</style>
+    <style>{% getBundle "css" %}</style>
+
+    {#- Fathom Analytics script - defer pentru a nu bloca încărcarea paginii #}
+    <script src="https://cdn.usefathom.com/script.js" data-site="FPZWIYOI" defer></script>
+
+    {#- Heading anchors JS #}
+    <script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
+  </head>
+  <body>
+    <a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
+
+    <header>
+      <a href="/" class="home-link">{{ metadata.title }}</a>
+
+      <nav>
+        <h2 class="visually-hidden">Top level navigation menu</h2>
+        <ul class="nav">
+        {%- for entry in collections.all | eleventyNavigation %}
+          <li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+        {%- endfor %}
+        </ul>
+      </nav>
+    </header>
+
+    <main id="main">
+      <heading-anchors>
+        {{ content | safe }}
+      </heading-anchors>
+    </main>
+
+    <link rel="stylesheet" href="/css/newsletter.css">
+
+    <footer>
+      <p>
+        © 2025 <a href="https://beldie.ro/">Ștefan Beldie</a> | <a href="https://www.cameravar.ro/feed/feed.xml">Feed RSS</a> 
+      </p>
+    </footer>
+
+    <!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
+    <script type="module" src="{% getBundleFileUrl "js" %}"></script>
+  </body>
+</html>
