@@ -89,7 +89,7 @@ Nu știi ce vorbește și vrei să te lămurești ce vrea.
 
 Așa că omul îți explică:
 
-> “Aici nu e ca în locurile în care plătești abonamente... Dacă e moca, nu poți să fii selectiv. Adică, poți alege cu ce fată ai o relație mai profundă, dar trebuie să acorzi atenție și celorlalte colege ale ei că și ele muncește, și ele au fost pregătite de consum de niște băieți care își fac cinstit meseria. Normal, poți încerca să driblezi, să folosești tot felul de metode de protecție, dar nu merită. Până la urmă, tot reușim să-ți găurim prezervativul și va trebui să... știi tu... cu astea care nu-ți plac. Cel mai sănătos este să accepți situația, nu vreau să procedez [ca-n scena aia cu Cristinh!](https://www.youtube.com/watch?v=t4bYSWPIetA)".
+> “Aici nu e ca în locurile în care plătești abonamente... Dacă e moca, nu poți să fii selectiv. Adică, poți alege cu ce fată ai o relație mai profundă, dar trebuie să acorzi atenție și celorlalte colege ale ei că și ele muncește, și ele au fost pregătite de consum de niște băieți care își fac cinstit meseria. Normal, poți încerca să driblezi, să folosești tot felul de metode de protecție, dar nu merită. Până la urmă, tot reușim să-ți găurim prezervativul și va trebui să... știi tu... cu astea care nu-ți plac. Cel mai sănătos este să accepți situația, nu vreau să procedez [ca-n scena aia cu Cristinth!](https://www.youtube.com/watch?v=t4bYSWPIetA)".
 
 ## Despre ce-ți vorbesc aici?
 
@@ -133,7 +133,9 @@ Desigur, am încercat să blochez “bucăți” de site-uri cu tot felul de ext
 
 Aproape degeaba.
 
-Așa că de câte ori vizitez un site de sport, aproape mereu mă simt ca și când întâlnesc o fată care-mi place, mă bag în vorbă cu ea și chiar când ajung pe punctul să orice, pac, apar balcâzele - adică informațiile care nu prezintă vreun interes pentru mine. Și se bagă insistent în seamă, strigă după mine, mă acuză că dacă nu stau înseamnă că nu-s cititor adevărat etc. 
+Așa că de câte ori vizitez un site de sport, aproape mereu mă simt ca și când întâlnesc o fată care-mi place, mă bag în vorbă cu ea și chiar când ajung pe punctul să orice, pac, apar balcâzele - adică informațiile care nu prezintă vreun interes pentru mine. 
+
+Și se bagă insistent în seamă, strigă după mine, mă acuză că dacă nu stau înseamnă că [nu-s suficient de cititor pentru ele](https://www.cameravar.ro/gazeta-sporturilor-articole-femei-goale/) etc. 
 
 
 ## Arma mea secretă a fost contracarată
