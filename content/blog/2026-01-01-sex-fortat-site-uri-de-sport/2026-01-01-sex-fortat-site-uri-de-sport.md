@@ -45,6 +45,7 @@ N-am folosit întâmplptor acest arhaism - “balcâze”.
 Imediat, începi să afli: 
 
 > **Haidamacul:** Domnu’, de obicei, calitatea costă. Dar aici o primiți moca cu o condiție mică”.
+
 > **Tu:** Ce calitate? Unde?
 
 Omul arată cu o eleganță mocofanică spre fata din fața ta.
