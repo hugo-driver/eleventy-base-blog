@@ -181,6 +181,7 @@ Altele redirecționează fluxul de pe secțiuni în fluxul principal și degeaba
 N-am știut că mor, mă simt mai prost. 
 
 Sau: 
+
 > "Prezența Mihaelei Buzărnescu la o petrecere de Revelion a atras atenția tuturor! Anul 2025 a fost de coșmar pentru sportivă, cu un singur meci câștigat. FOTO".
 
 N-am știut că a fost de coșmar, mă simt mai neempatic.
