@@ -28,15 +28,15 @@ Ei, chiar în acea clipă, o voce puternică strigă:
 
 “Hei, tu.., Stai așa! Domnu’, domnu’...”.
 
-Starea de beatitudine dispare și-n câmpul tău vizual apare un haidamac îmbrăcat stident însoțit de niște fete balcâze. 
+Starea de beatitudine dispare și-n câmpul tău vizual apare un haidamac îmbrăcat strident însoțit de niște fete balcâze. 
 
-Poate exagerez, n-or fi urâte, sunt subiectiv. 
+Poate exagerez, n-or fi chiar urâte. 
 
 Sunt urâte în comparație cu fata care-ți place ție. 
 
-Dar urâte zdravăn.
+Prin comparație, urâte zdravăn.
 
-N-am folosit întâmplptor acest arhaism - “balcâze”. 
+N-am folosit întâmplător acest arhaism - “balcâze”. 
 
 ## Chiar ai ieșit la întâlnire cu o panaramă?!
 
@@ -48,9 +48,9 @@ Imediat, începi să afli:
 
 > **Tu:** Ce calitate? Unde?
 
-Omul arată cu o eleganță mocofanică spre fata din fața ta.
+Omul arată cu o eleganță mocofanică spre tipa din fața ta.
 
-Nu înțelegi, așa că degetul omului se apropie de bucuria vieții tale din ultimele minute și o împunge cu grija unui măcelar care face loc în galantar unei bucăți de carne ceva mai arătoase.
+Nu înțelegi, așa că degetul omului se apropie de ea și o împunge cu grija unui măcelar care face loc în galantar unei bucăți de carne ceva mai arătoase.
 
 Brusc, te trec toate apele și gândești neașteptat de logic:
 
@@ -58,17 +58,17 @@ Brusc, te trec toate apele și gândești neașteptat de logic:
 
 Pardon, nu poți gândi așa, s-ar ofensa unii ziariști de la Gazeta Sporturilor care luptă pentru justiție socială. Trebuie să-i spui “sex worker” sau “artistă” sau alte denumiri care fac orice curvă să fie onorabilă, așa cum de altfel și merită.
 
-Iar peștelui îi poți spune impresar sau manager sau admin de cont only fan.
+Iar peștelui îi poți spune impresar sau manager sau admin de cont only fans.
 
 Deci?
 
 Deci te conformezi și îți modifici gândul cum se modifică ecranul telefonului când scrollezi tâmp pe Instagram:
 
-> “Probabil este o fată care a suferit mult și a fost nevoită să se refugieze fără prejudecăți în lumea artiștilor sexuali de pe Only Fan. Iar haidamacul este procesatorul ei de plăți care-mi amintește că trebuie să plătesc”.
+> “Probabil este o fată care a suferit mult și a fost nevoită să se refugieze fără prejudecăți în lumea artiștilor sexuali de pe Only Fans. Iar haidamacul este procesatorul ei de plăți care-mi amintește că trebuie să plătesc”.
 
 Din păcate, ai gândit totul cu voce tare. 
 
-Sau poate haidamacul e alimentat cu tot felul de date despre tine și știe ce gândești.
+Sau poate haidamacul e alimentat cu tot felul de date despre tine și-ți citește gândurile.
 
 Așa că-ți spune cu voce mai tare decât un titlu care conține sintagma “Soc!”:
 
@@ -78,7 +78,9 @@ Așa că-ți spune cu voce mai tare decât un titlu care conține sintagma “So
 
 Normal, ceri detalii cu o voce șușotită, dar haidamacul îți explică simplu că nu e niciun secret. Și-ți arată că la restul meselor, situația este cam la fel.
 
-Fiecare îndrăgostit are în față o parteneră de dating și-n picioare, lângă, tot felul de arătări. Unele de-a dreptul insistente pentru că trag de cei aflați pe scaune de-o manieră agresivă.
+Fiecare îndrăgostit are în față o parteneră de dating. 
+
+Iar în picioare, lângă, tot felul de arătări. Unele de-a dreptul insistente pentru că trag de cei aflați pe scaune de-o manieră agresivă.
 
 Din când în când, câte una pare să se lovească de un zid invizibil și cade lată. Se ridică însă cu ochii vineți și-ncearcă din nou, dar ajunge rapid la sol... 
 
@@ -86,17 +88,19 @@ Haidamacul râde gros:
 
 > “Ad block... uBlock Origin... Sau Ad Guard bine setat!”.
 
-Nu știi ce vorbește și vrei să te lămurești ce vrea.
+Nu știi ce vorbește și vrei să te lămurești.
 
 Așa că omul îți explică:
 
-> “Aici nu e ca în locurile în care plătești abonamente... Dacă e moca, nu poți să fii selectiv. Adică, poți alege cu ce fată ai o relație mai profundă, dar trebuie să acorzi atenție și celorlalte colege ale ei că și ele muncește, și ele au fost pregătite de consum de niște băieți care își fac cinstit meseria. Normal, poți încerca să driblezi, să folosești tot felul de metode de protecție, dar nu merită. Până la urmă, tot reușim să-ți găurim prezervativul și va trebui să... știi tu... cu astea care nu-ți plac. Cel mai sănătos este să accepți situația, nu vreau să procedez [ca-n scena aia cu Cristinth!](https://www.youtube.com/watch?v=t4bYSWPIetA)".
+> “Aici nu e ca în locurile în care plătești abonamente... Dacă e moca, nu poți să fii selectiv. Adică, poți alege cu ce fată ai o relație mai profundă, dar trebuie să acorzi atenție și celorlalte colege ale ei că și ele muncește, și ele au fost pregătite de consum de niște băieți care își fac cinstit meseria. 
+
+> Normal, poți încerca să driblezi, să folosești tot felul de metode de protecție, dar nu merită. Până la urmă, tot reușim să-ți găurim prezervativul și va trebui să... știi tu... cu astea care nu-ți plac. Cel mai sănătos este să accepți situația, nu vreau să procedez [ca-n scena aia cu Cristinth!](https://www.youtube.com/watch?v=t4bYSWPIetA)".
 
 ## Despre ce-ți vorbesc aici?
 
 Evident, vorbesc despre interacțiunea mea cu site-urile de sport. 
 
-Pe de o parte, am un interes inclusiv profesional să citesc informațiile publicate de colegii mei de breaslă, iar pe de altă parte, am o rezistență majoră să consum ceea ce nu vreau să consum.
+Pe de o parte, am interes inclusiv profesional să citesc informațiile publicate de colegii mei de breaslă, iar pe de altă parte, am o rezistență majoră să consum ceea ce nu vreau să consum.
 
 Ca să fiu mai clar - citesc presa sportivă pentru a fi la curent cu informațiile legate de fotbalul nostru - Liga 1, Liga 2 și echipa națională. Acestea sunt partenerele mele de dating, care după standardele generale, nu sunt neapărat cele mai frumoase fete. De aici și remarca haidamacului că dacă mie-mi plac, el nu se bagă.
 
@@ -112,11 +116,11 @@ Plus datorită culturii mele generale excepționale care-mi permite să fiu nu d
 
 Bla-bla, ai înțeles ideea. 
 
-Altfel, de câte ori am fost invitat într-o emisiune și s-a întâmplat ca-n acel moment să se întâmple ceva important extra fotbal, am precizat întâi că nu-s “specialist” în sportul respectiv și abia apoi mi-am dat cu părerea folosind emfaza specifică celui care vorbește din afară.
+Altfel, de câte ori am fost invitat într-o emisiune și s-a întâmplat ca-n acel moment să se petreacă ceva important extra fotbal, am precizat întâi că nu-s “specialist” în sportul respectiv și abia apoi mi-am dat cu părerea folosind emfaza specifică celui care vorbește din afară.
 
 ## Eu: “Mă interesează ce zice Grozavu” / Site-urile de sport: “Cea mai sexy antrenoare...” sau “Au murit fără să aibă vreo șansă!”
 
-În fine, problema este că deși am acest interes limitat, site-urile de sport fac eforturi consistente să mă expună și la ceea ce nu doresc uneori sub nicio formă să fiu expus. Exact ca niște pești agresivi care te prind circulând printr-un cartier rău famat de prin filmele americane.
+În fine, problema este că deși am acest interes limitat, site-urile de sport fac eforturi consistente să mă expună și la ceea ce nu doresc sub nicio formă să fiu expus. Exact ca niște pești agresivi care te prind circulând printr-un cartier rău famat de prin filmele americane.
 
 Cred că știi la ce mă refer.
 
