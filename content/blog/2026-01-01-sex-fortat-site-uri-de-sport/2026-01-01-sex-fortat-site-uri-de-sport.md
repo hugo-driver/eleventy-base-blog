@@ -171,11 +171,11 @@ Mă mulțumesc cu interesele mele și atât.
 
 Dacă vreau ceva nou, caut eu, mulțumesc.
 
-Problema este că restul site-urilor, inclusiv educatul Golazo, fac un mare pișu pe ideea de RSS.
+Problema este că restul site-urilor, inclusiv educatul Golazo, fac un mare pișu' pe ideea de RSS.
 
 Unele pentru că nici măcar nu au tehnologia respectivă integrată.
 
-Altele redirecționează fluxul de pe secțiuni în fluxul principal și degeaba te abonezi tu explicit la informații despre Liga 1, vei fi siluit vizual de tot felul de monștri precum:
+Altele pentru că redirecționează fluxul de pe secțiuni în fluxul principal și degeaba te abonezi tu explicit la informații despre Liga 1, vei fi siluit vizual de tot felul de monștri precum:
 
 > “Dopajul, parte din cariera lui Arnold - Celebrul actor și culturist vorbește despre utilizarea substanțelor interzise și avertizează: „Oamenii mor”.
 
