@@ -94,7 +94,7 @@ Așa că omul îți explică:
 
 ## Despre ce-ți vorbesc aici?
 
-Evident, vorbesc despre relația mea în relație cu site-urile de sport. 
+Evident, vorbesc despre interacțiunea mea cu site-urile de sport. 
 
 Pe de o parte, am un interes inclusiv profesional să citesc informațiile publicate de colegii mei de breaslă, iar pe de altă parte, am o rezistență majoră să consum ceea ce nu vreau să consum.
 
