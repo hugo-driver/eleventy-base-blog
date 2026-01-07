@@ -130,3 +130,5 @@ Sunt toți ceilalți invidioși pe ei?
 Fără discuție.
 
 Plus că, chiar eu am recunoscut că echipa este acolo unde-s suporterii. 
+
+PS: acum mulți ani, am folosit expresia "echipa e acolo unde sunt suporterii" referindu-mă la Rapid și la FCSB. Dacă știam ce iese, aș fi fost mai rezervat. Dar ideea în sine are forță nu împotriva altor argumente, ci ca formă de recunoaștere dincolo de acele alte argumente.
