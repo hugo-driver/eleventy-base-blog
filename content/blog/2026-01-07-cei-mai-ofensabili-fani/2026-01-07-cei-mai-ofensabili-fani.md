@@ -127,4 +127,6 @@ Absolut.
 
 Sunt toți ceilalți invidioși pe noi?
 
-Fără discuție". 
+Fără discuție.
+
+Plus că, chiar tu ai recunoscut că echipa este acolo unde-s suporterii". 
