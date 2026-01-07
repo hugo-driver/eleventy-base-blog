@@ -18,7 +18,7 @@ Deci e un top subiectiv, dar corect pentru că-n general eu am dreptate în abso
 Acum, să fim serioși, această precizare legată de faptul că e doar părerea mea este absolut inutilă în fața ochilor celor despre care vorbesc. De altfel, una dintre caracteristicile de bază ale acestor fani ofensabili este tocmai capacitatea extraordinară de-a dribla orice contact cu faptele și a îmbărțișa exclusiv doar ceea ce le convine lor. 
 
 
-## Locul 5
+## Locul 5 - FCSB
 
 De ani buni, ironizez incapacitatea multor fani FCSB de-a face față oricăror situații în care cineva crede ceva "aiurea" despre echipa lor. 
 
