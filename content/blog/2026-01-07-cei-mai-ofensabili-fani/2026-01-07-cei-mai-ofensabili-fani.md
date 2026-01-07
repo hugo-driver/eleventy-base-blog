@@ -7,7 +7,7 @@ tags: ["FCSB", "CS U Craiova", "Rapid", "Dinamo"]
 permalink: "top-fani-ofensati-liga-1/index.html"
 cover: "./top-fani-ofensati-liga-1.webp"
 ---
-![Memă cu bărbatul care se uită după altă femeie în timp ce-și ține iubita de mână ](.top-fani-ofensati-liga-1.webp)
+![Memă cu bărbatul care se uită după altă femeie în timp ce-și ține iubita de mână ](top-fani-ofensati-liga-1.webp)
 
 Atenție, nu spun că toți fanii unei echipe sunt așa, mă refer strict la o minoritate formată din indivizi care nu sunt interesați de realitate, ci doar să aibă dreptate spre gloria reală sau imaginară a echipei pe care o susțin.
 
