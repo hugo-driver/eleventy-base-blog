@@ -111,7 +111,7 @@ Dacă le plăcea, nu era nicio problemă.
 
 Atenție, nu că n-ar fi avut motive absolut întemeiate să nu le placă Adrian Mititelu, doar că e comic să dai nuanțe eroice unui fapt absolut banal care poate fi rezumat astfel:
 
-"Mititelu ne omora zilnic nervii și ocazional echipa. Prin urmare, atunci când am avut oportunitatea de-a ne alătura unui proiect care se anunța serios, am fugit urlând că am fost păcăliți niște zeci de ani de Păunescu, Popeci, Arnăutu, Ilinca, Dinel Staicu, Nețoiu, Gheară și-ntr-un final, Mititelu. 
+> "Mititelu ne omora zilnic nervii și ocazional echipa. Prin urmare, atunci când am avut oportunitatea de-a ne alătura unui proiect care se anunța serios, am fugit urlând că am fost păcăliți niște zeci de ani de Păunescu, Popeci, Arnăutu, Ilinca, Dinel Staicu, Nețoiu, Gheară și-ntr-un final, Mititelu". 
 
 Credibil?
 
@@ -121,12 +121,12 @@ Sănătos?
 
 Da. 
 
-Suntem cei mai buni?
+Sunt cei mai buni?
 
 Absolut.
 
-Sunt toți ceilalți invidioși pe noi?
+Sunt toți ceilalți invidioși pe ei?
 
 Fără discuție.
 
-Plus că, chiar tu ai recunoscut că echipa este acolo unde-s suporterii". 
+Plus că, chiar eu am recunoscut că echipa este acolo unde-s suporterii. 
