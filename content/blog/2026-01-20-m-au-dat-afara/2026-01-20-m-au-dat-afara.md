@@ -47,9 +47,7 @@ Serios, foarte în regulă oamenii.
 
 Absolut nimic diferit față de ce am făcut și până acum.
 
-Strict legat de interacțiunea mea cu lumea presei sportive, voi avea în continuare contractul cu Digi Sport, unde sunt absolut convins că șefii zonei editoriale nu au habar de existența mea, motiv pentru care sunt de o grămadă de timp acolo. 
-
-Altfel, dacă vor îndrăzni să mă întrebe de sănătate, voi fi nevoit să cer o renegociere împovărătoare pentru ei.
+Strict legat de interacțiunea mea cu lumea presei sportive, voi avea în continuare contractul cu Digi Sport.
 
 Serios vorbind, bănuiesc că voi primi oferte de colaborare din alte părți. Iar dacă nu voi primi, voi continua să scriu pe cameravar.ro și să public video pe canalul meu de YouTube.
 
@@ -75,4 +73,4 @@ Dar ideea a rămas - e bine să fii acoperit, mai ales dacă impresia ta despre 
 
 Sigur, cei de la iAM Sport e posibil să fi renunțat la colaborarea cu mine și din rațiuni ceva mai complexe, dar n-aș suporta ideea că nu se învârte totul în jurul meu și ar fi ceva din categoria „așa e piața acum și se anunță vremuri grele”.
 
-Deci nu s-a schimbat nimic, totul e la fel.
+Deci nu s-a schimbat nimic, totul e cam la fel.
