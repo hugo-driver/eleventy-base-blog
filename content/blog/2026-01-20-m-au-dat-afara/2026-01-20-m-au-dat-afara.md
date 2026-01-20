@@ -67,7 +67,7 @@ Nu mai rețin, dar nici nu contează.
 
 Ideea este că Ion Marin i-a zis lui Ionuț Lupescu așa:
 
-„Băi, Ioane, bine că ați venit voi, ăștia tineri, în antrenorat. Că voi nu depindeți de nimeni, n-are ce să vă facă vreun conducător cum le face ăstora ca noi... Voi puteți să vă faceți meseria cum trebuie”.
+>„Băi, Ioane, bine că ați venit voi, ăștia tineri, în antrenorat. Că voi nu depindeți de nimeni, n-are ce să vă facă vreun conducător cum le face ăstora ca noi... Voi puteți să vă faceți meseria cum trebuie”.
 
 Și-n timp ce filosofam eu legat de importanța unei plase de siguranță financiare, echipa independentului Ionuț Lupescu a luat bătaie de la echipa legatului de glie Ion Marin. Probabil că Ion Marin și-a dorit mai mult victoria, nu știu.
 
