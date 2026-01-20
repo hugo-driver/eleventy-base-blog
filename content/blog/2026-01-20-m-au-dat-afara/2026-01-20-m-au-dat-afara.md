@@ -41,6 +41,8 @@ Mai mult, la fel ca peste tot unde am lucrat, niciunul dintre cei care conduc ed
 
 Da, în astfel de momente nu mă pot abține să nu fiu emoțional.
 
+Serios, foarte în regulă oamenii.
+
 ## Ce voi face în continuare?
 
 Absolut nimic diferit față de ce am făcut și până acum.
